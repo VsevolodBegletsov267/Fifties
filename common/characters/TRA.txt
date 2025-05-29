@@ -1,0 +1,16 @@
+characters = {
+
+	TRA_bela_kiraly = {
+		name = TRA_bela_kiraly
+		portraits = {
+			civilian = {
+				large = GFX_portrait_TRA_bela_kiraly
+			}
+		}
+		country_leader = {
+            ideology = despotism_subtype
+            desc = TRA_bela_kiraly
+			expire="1965.1.1.1"
+        }
+	}
+}

@@ -1,0 +1,17 @@
+characters = {
+
+	LIE_franz_joseph_ii = {
+		name = LIE_franz_joseph_ii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_LIE_franz_joseph_ii
+			}
+		}
+		country_leader = {
+            ideology = paternalism_subtype
+            desc = LIE_franz_joseph_ii
+			expire="1965.1.1.1"
+        }
+	}
+
+}

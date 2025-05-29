@@ -1,0 +1,23 @@
+ideas = {
+	country = {
+		GER_seventy_and_older = {
+			
+			picture = GFX_idea_GER_seventy_and_older
+			
+			allowed = {
+                              
+			}
+			
+			modifier = {
+                            production_factory_max_efficiency_factor = 0.1
+                            production_speed_buildings_factor = 0.2
+                            conversion_cost_civ_to_mil_factor = 0.25
+                            production_factory_start_efficiency_factor = -0.05
+                            production_factory_efficiency_gain_factor = 0.1
+                            production_oil_factor = 0.05
+                            consumer_goods_factor = -0.05
+                            industry_air_damage_factor = 0.1
+			}
+		}
+	}
+}

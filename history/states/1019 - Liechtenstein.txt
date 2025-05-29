@@ -1,0 +1,32 @@
+state = {
+	id = 1019
+	name = "STATE_1019"
+	manpower = 10000
+	resources={
+	}
+	
+	state_category = rural
+
+	history = {
+
+		owner = LIE
+		add_core_of = LIE
+
+		victory_points = {
+			13378 10
+		}
+
+		buildings = {
+			infrastructure = 1
+
+			# Gileppe Dam
+		}
+		
+	}
+
+	provinces = {
+		13378
+	}
+
+	local_supplies = 14.0 
+}

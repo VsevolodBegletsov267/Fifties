@@ -1,0 +1,23 @@
+characters = {
+
+	GER_yalmar_shakht = {
+		name = GER_yalmar_shakht
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_yalmar_shakht_big
+				small = GFX_portrait_GER_yalmar_shakht_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = {}
+        }
+		country_leader = {
+            ideology = liberalism_subtype
+            desc = GER_yalmar_shakht
+			expire="1965.1.1.1"
+        }
+	}
+
+}

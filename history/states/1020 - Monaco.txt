@@ -1,0 +1,32 @@
+state = {
+	id = 1020
+	name = "STATE_1020"
+	manpower = 10000
+	resources={
+	}
+	
+	state_category = rural
+
+	history = {
+
+		owner = MCO
+		add_core_of = MCO
+
+		victory_points = {
+			13379 10
+		}
+
+		buildings = {
+			infrastructure = 1
+
+			# Gileppe Dam
+		}
+		
+	}
+
+	provinces = {
+		13379
+	}
+
+	local_supplies = 14.0 
+}

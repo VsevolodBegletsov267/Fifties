@@ -1,0 +1,73 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			every_possible_country = {
+				if = {
+					limit = {
+						OR = { 
+							tag = CAN
+							tag = SAF
+							tag = UKR
+							tag = POL
+							tag = AUS
+							tag = CRO
+							tag = POR
+						} 
+					}
+					activate_advisor = generic_political_advisor_blocked_1_political_advisor
+				
+					set_country_flag = generic_political_advisor_blocked_1_political_advisor
+				}
+				if = {
+					limit = {
+						OR = { 
+							tag = PAP
+							tag = AND
+							tag = LIE
+							tag = MCO
+						} 
+					}
+					activate_advisor = generic_political_advisor_blocked_1_political_advisor
+					activate_advisor = generic_political_advisor_blocked_2_political_advisor
+					activate_advisor = generic_political_advisor_blocked_3_political_advisor
+					activate_advisor = generic_political_advisor_blocked_4_political_advisor
+					activate_advisor = generic_political_advisor_blocked_5_political_advisor
+				
+					set_country_flag = generic_political_advisor_blocked_1_political_advisor
+					set_country_flag = generic_political_advisor_blocked_2_political_advisor
+					set_country_flag = generic_political_advisor_blocked_3_political_advisor
+					set_country_flag = generic_political_advisor_blocked_4_political_advisor
+					set_country_flag = generic_political_advisor_blocked_5_political_advisor
+				}
+				if = {
+					limit = {
+						AND = {
+							is_major = no
+							NOT = {
+								OR = {
+									tag = PAP
+									tag = AND
+									tag = LIE
+									tag = MCO
+									tag = CAN
+									tag = SAF
+									tag = UKR
+									tag = POL
+									tag = AUS
+									tag = CRO
+									tag = POR
+								}
+							}
+						}
+					}
+					activate_advisor = generic_political_advisor_blocked_1_political_advisor
+					activate_advisor = generic_political_advisor_blocked_2_political_advisor
+				
+					set_country_flag = generic_political_advisor_blocked_1_political_advisor
+					set_country_flag = generic_political_advisor_blocked_2_political_advisor
+				}
+			}
+		}
+	}
+}
+	

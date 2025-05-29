@@ -1,0 +1,83 @@
+focus_tree = {
+	id = AUS
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = AUS
+		}
+	}
+	default = no
+	focus = {
+		id = AUS_viennese_christmas_miracle
+		icon = GFX_goal_unknown
+		cost = 0.72
+		x = 8
+		y = 1
+
+	}
+	focus = {
+		id = AUS_national_journalism_features
+		icon = GFX_goal_unknown
+		cost = 0.72
+		prerequisite = {
+			focus = AUS_viennese_christmas_miracle
+		}
+		x = 7
+		y = 2
+
+	}
+	focus = {
+		id = AUS_professor_hidler_and_someone_else
+		icon = GFX_goal_unknown
+		cost = 0.72
+		prerequisite = {
+			focus = AUS_viennese_christmas_miracle
+		}
+		x = 9
+		y = 2
+
+	}
+	focus = {
+		id = AUS_most_honest_inspector
+		icon = GFX_goal_unknown
+		cost = 0.72
+		prerequisite = {
+			focus = AUS_professor_hidler_and_someone_else
+		}
+		prerequisite = {
+			focus = AUS_national_journalism_features
+		}
+		x = 7
+		y = 3
+
+	}
+	focus = {
+		id = AUS_colonel_watches_bills
+		icon = GFX_goal_unknown
+		cost = 0.72
+		prerequisite = {
+			focus = AUS_professor_hidler_and_someone_else
+		}
+		prerequisite = {
+			focus = AUS_national_journalism_features
+		}
+		x = 9
+		y = 3
+
+	}
+	focus = {
+		id = AUS_main_interview
+		icon = GFX_goal_unknown
+		cost = 0.72
+		prerequisite = {
+			focus = AUS_most_honest_inspector
+		}
+		prerequisite = {
+			focus = AUS_colonel_watches_bills
+		}
+		x = 8
+		y = 4
+
+	}
+}

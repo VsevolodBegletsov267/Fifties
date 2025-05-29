@@ -1,0 +1,46 @@
+characters = {
+
+	AUS_ludwig_von_mises = {
+		name = AUS_ludwig_von_mises
+		portraits = {
+			civilian = {
+				large = GFX_portrait_AUS_ludwig_von_mises
+			}
+		}
+		country_leader = {
+            ideology = austrian_libertarianism_subtype
+            desc = AUS_ludwig_von_mises
+			expire="1965.1.1.1"
+        }
+	}
+	
+	AUS_kurt_schuschnigg = {
+		name = AUS_kurt_schuschnigg
+		portraits = {
+			civilian = {
+				large = GFX_portrait_AUS_kurt_schuschnigg
+			}
+		}
+		country_leader = {
+            ideology = paternalism_subtype
+            desc = AUS_kurt_von_schuschnigg
+			expire="1965.1.1.1"
+        }
+	}
+	
+	AUS_ernst_starremberg = {
+		name = AUS_ernst_starremberg
+		portraits = {
+			civilian = {
+				large = GFX_portrait_AUS_ernst_starremberg_big
+				small = GFX_portrait_AUS_ernst_starremberg_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = {}
+        }
+	}
+
+}

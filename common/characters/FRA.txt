@@ -1,0 +1,16 @@
+characters = {
+
+	FRA_pierre_clementi = {
+		name = FRA_pierre_clementi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRA_pierre_clementi
+			}
+		}
+		country_leader = {
+            ideology = national_socialism_subtype
+            desc = FRA_pierre_clementi
+			expire="1965.1.1.1"
+        }
+	}
+}

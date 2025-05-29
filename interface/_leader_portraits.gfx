@@ -1,0 +1,96 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+	spriteType = {
+		name = "GFX_portrait_operative_unknown"
+		texturefile = "gfx/leaders/operative_unknown.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_unknown"
+		texturefile = "gfx/leaders/leader_unknown.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_unknown_female"
+		texturefile = "gfx/leaders/leader_unknown_female.dds"
+	}
+	
+	### AUS
+	
+	spriteType = {
+		name = "GFX_portrait_AUS_ludwig_von_mises"
+		texturefile = "gfx/leaders/AUS/AUS_ludwig_von_mises.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_AUS_kurt_schuschnigg"
+		texturefile = "gfx/leaders/AUS/AUS_kurt_schuschnigg.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_AUS_ernst_starremberg_small"
+		texturefile = "gfx/leaders/AUS/AUS_ernst_starremberg_small.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_AUS_ernst_starremberg_big"
+		texturefile = "gfx/leaders/AUS/AUS_ernst_starremberg_big.png"
+	}
+	
+	### GER
+	
+	spriteType = {
+		name = "GFX_portrait_GER_yalmar_shakht_small"
+		texturefile = "gfx/leaders/GER/GER_yalmar_shakht_minister.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_GER_yalmar_shakht_big"
+		texturefile = "gfx/leaders/GER/GER_yalmar_shakht_president.png"
+	}
+	
+	### POR
+	
+	spriteType = {
+		name = "GFX_portrait_POR_antonio_de_salazar"
+		texturefile = "gfx/leaders/POR/POR_antonio_de_salazar.png"
+	}
+	
+	### SPR
+	
+	spriteType = {
+		name = "GFX_portrait_SPR_rafael_sanchez_mazas"
+		texturefile = "gfx/leaders/SPR/SPR_rafael_sanchez_mazas.png"
+	}
+	
+	### LIE
+	
+	spriteType = {
+		name = "GFX_portrait_LIE_franz_joseph_ii"
+		texturefile = "gfx/leaders/LIE/LIE_franz_joseph_ii.png"
+	}
+	
+	### ITA
+	
+	spriteType = {
+		name = "GFX_portrait_ITA_amadeo_bordiga"
+		texturefile = "gfx/leaders/ITA/ITA_amadeo_bordiga.png"
+	}
+	
+	### FRA
+	
+	spriteType = {
+		name = "GFX_portrait_FRA_pierre_clementi"
+		texturefile = "gfx/leaders/FRA/FRA_pierre_clementi.png"
+	}
+	
+	### TRA
+	
+	spriteType = {
+		name = "GFX_portrait_TRA_bela_kiraly"
+		texturefile = "gfx/leaders/TRA/TRA_bela_kiraly.png"
+	}
+	
+}

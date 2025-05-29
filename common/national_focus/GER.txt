@@ -1,0 +1,55 @@
+focus_tree = {
+	id = GER
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = GER
+		}
+	}
+	default = no
+	focus = {
+		id = GER_weekly
+		icon = GFX_goal_unknown
+		cost = 1
+		x = 8
+		y = 1
+
+	}
+	focus = {
+		id = GER_factory_rabble
+		icon = GFX_goal_unknown
+		cost = 1
+		prerequisite = {
+			focus = GER_weekly
+		}
+		x = 6
+		y = 2
+
+	}
+	focus = {
+		id = GER_political_jokes
+		icon = GFX_goal_unknown
+		cost = 1
+		prerequisite = {
+			focus = GER_weekly
+		}
+		x = 10
+		y = 2
+
+	}
+	focus = {
+		id = GER_harm_of_newspapers
+		icon = GFX_goal_unknown
+		cost = 1
+		prerequisite = {
+			focus = GER_factory_rabble
+		}
+		prerequisite = {
+			focus = GER_political_jokes
+		}
+		x = 8
+		y = 3
+
+	}
+}

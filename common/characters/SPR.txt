@@ -1,0 +1,17 @@
+characters = {
+
+	SPR_rafael_sanchez_mazas = {
+		name = SPR_rafael_sanchez_mazas
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SPR_rafael_sanchez_mazas
+			}
+		}
+		country_leader = {
+            ideology = ultra-christian_syndicalism_subtype
+            desc = SPR_rafael_sanchez_mazas
+			expire="1965.1.1.1"
+        }
+	}
+
+}

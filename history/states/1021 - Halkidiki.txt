@@ -1,0 +1,35 @@
+
+state={
+	id=1021
+	name="STATE_1021"
+
+	history={
+		owner = GRC
+		victory_points = {
+			11818 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+			11818 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = GRE
+		add_core_of = GRC
+		add_claim_by = BUL
+
+	}
+
+	provinces={
+		895 3936 11818 
+	}
+	manpower=902375
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

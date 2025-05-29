@@ -1,0 +1,26 @@
+has_any_generic_political_advisor_blocked = {
+	if = {
+		limit = { is_dynamic_tag = yes }
+		meta_trigger = {
+			text = {
+				OR = {
+					has_idea = [TAG]_generic_political_advisor_blocked_1
+					has_idea = [TAG]_generic_political_advisor_blocked_2
+					has_idea = [TAG]_generic_political_advisor_blocked_3
+					has_idea = [TAG]_generic_political_advisor_blocked_4
+					has_idea = [TAG]_generic_political_advisor_blocked_5
+				}
+			}
+			TAG = "[Root.GetTag]"
+		}
+	}
+	else = {
+		OR = {
+			has_idea = generic_political_advisor_blocked_1_political_advisor
+			has_idea = generic_political_advisor_blocked_2_political_advisor
+			has_idea = generic_political_advisor_blocked_3_political_advisor
+			has_idea = generic_political_advisor_blocked_4_political_advisor
+			has_idea = generic_political_advisor_blocked_5_political_advisor
+		}
+	}
+}
