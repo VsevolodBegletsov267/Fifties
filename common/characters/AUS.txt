@@ -39,6 +39,7 @@ characters = {
 		advisor = {
             slot = political_advisor
 			#ledger = civilian
+			desc = AUS_ernst_starremberg_desc
 			traits = {}
         }
 	}
