@@ -93,4 +93,118 @@ spriteTypes = {
 		texturefile = "gfx/leaders/TRA/TRA_bela_kiraly.png"
 	}
 	
+	### SAA
+	
+	spriteType = {
+		name = "GFX_portrait_SAA_heinrich_schneider_big"
+		texturefile = "gfx/leaders/SAA/SAA_heinrich_schneider_big.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SAA_heinrich_schneider_small"
+		texturefile = "gfx/leaders/SAA/SAA_heinrich_schneider_small.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SAA_jean_coutrot_big"
+		texturefile = "gfx/leaders/SAA/SAA_jean_coutrot_big.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SAA_jean_coutrot_small"
+		texturefile = "gfx/leaders/SAA/SAA_jean_coutrot_small.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SAA_paul_pleiger"
+		texturefile = "gfx/leaders/SAA/SAA_paul_pleiger.png"
+	}
+	
+	### RHI
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_gustav_simon"
+		texturefile = "gfx/leaders/RHI/RHI_gustav_simon.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_otto_abetz_big"
+		texturefile = "gfx/leaders/RHI/RHI_otto_abetz_big.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_otto_abetz_small"
+		texturefile = "gfx/leaders/RHI/RHI_otto_abetz_small.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_robert_ley_big"
+		texturefile = "gfx/leaders/RHI/RHI_robert_ley_big.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_robert_ley_small"
+		texturefile = "gfx/leaders/RHI/RHI_robert_ley_small.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_viktor_lutze_big"
+		texturefile = "gfx/leaders/RHI/RHI_viktor_lutze_big.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_viktor_lutze_small"
+		texturefile = "gfx/leaders/RHI/RHI_viktor_lutze_small.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_fernand_de_brinon_big"
+		texturefile = "gfx/leaders/RHI/RHI_fernand_de_brinon_big.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_fernand_de_brinon_small"
+		texturefile = "gfx/leaders/RHI/RHI_fernand_de_brinon_small.png"
+	}
+	
+	### SOV
+	
+	spriteType = {
+		name = "GFX_portrait_SOV_wolf_karpovsky"
+		texturefile = "gfx/leaders/SOV/SOV_wolf_karpovsky.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SOV_alice_rosenbaum"
+		texturefile = "gfx/leaders/SOV/SOV_alice_rosenbaum.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SOV_nikolay_talberg"
+		texturefile = "gfx/leaders/SOV/SOV_nikolay_talberg.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SOV_yuri_mirolyubov"
+		texturefile = "gfx/leaders/SOV/SOV_yuri_mirolyubov.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SOV_alexander_kerensky_big"
+		texturefile = "gfx/leaders/SOV/SOV_alexander_kerensky.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_RHI_fernand_de_brinon_small"
+		texturefile = "gfx/leaders/RHI/RHI_fernand_de_brinon_small.png"
+	}
+	
+	### HUN
+	
+	spriteType = {
+		name = "GFX_portrait_HUN_ferenc_nagy"
+		texturefile = "gfx/leaders/HUN/HUN_ferenc_nagy.png"
+	}
+	
+	
 }

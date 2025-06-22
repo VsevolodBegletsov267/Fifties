@@ -1,0 +1,78 @@
+characters = {
+
+	RHI_gustav_simon = {
+		name = RHI_gustav_simon
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RHI_gustav_simon
+			}
+		}
+		country_leader = {
+            ideology = national_socialism_subtype
+            desc = RHI_gustav_simon_desc
+			expire="1965.1.1.1"
+			traits = { little_bastard }
+        }
+	}
+	
+	RHI_otto_abetz = {
+		name = RHI_otto_abetz
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RHI_otto_abetz_big
+				small = GFX_portrait_RHI_otto_abetz_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = { lost_maestro }
+        }
+	}
+	
+	RHI_robert_ley = {
+		name = RHI_robert_ley
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RHI_robert_ley_big
+				small = GFX_portrait_RHI_robert_ley_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			desc = RHI_robert_ley_desc
+			#ledger = civilian
+			traits = { some_kind_of_superstar }
+        }
+	}
+	
+	RHI_viktor_lutze = {
+		name = RHI_viktor_lutze
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RHI_viktor_lutze_big
+				small = GFX_portrait_RHI_viktor_lutze_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = { dark_beer_general }
+        }
+	}
+	
+	RHI_fernand_de_brinon = {
+		name = RHI_fernand_de_brinon
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RHI_fernand_de_brinon_big
+				small = GFX_portrait_RHI_fernand_de_brinon_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = { french_daddy }
+        }
+	}
+}

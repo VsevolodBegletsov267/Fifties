@@ -1,0 +1,35 @@
+defined_text = {
+	name = get_subideology_name
+	
+	#libertarianism
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = objectivism_subtype
+		}
+		localization_key = objectivism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = austrian_libertarianism_subtype
+		}
+		localization_key = austrian_libertarianism_subtype
+	}
+	
+	#radical_socialism
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = national_socialist_zionism_subtype
+		}
+		localization_key = national_socialist_zionism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = french_national_socialism_subtype
+		}
+		localization_key = french_national_socialism_subtype
+	}
+}

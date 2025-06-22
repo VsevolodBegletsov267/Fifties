@@ -5,7 +5,10 @@ ideologies = {
 		types = {
 
 			radical_socialism_subtype = { }
+			ultra-christian_syndicalism_subtype = { }
 			national_socialism_subtype = { }
+			french_national_socialism_subtype = { }
+			national_socialist_zionism_subtype = { }
 			
 		}
 
@@ -17,7 +20,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 181 62 62 }
+		color = { 162 14 12 }
 
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -61,7 +64,7 @@ ideologies = {
 			"FACTION_NAME_SOCIALIST_1"
 		}
 		
-		color = { 192 105 105 }
+		color = { 174 70 69 }
 		
 		war_impact_on_world_tension = 0.4
 		faction_impact_on_world_tension = 0.4
@@ -113,7 +116,7 @@ ideologies = {
 			"FACTION_NAME_SOCIALIST_1"
 		}
 		
-		color = { 201 113 139 }
+		color = { 210 80 116 }
 		
 		war_impact_on_world_tension = 0.4
 		faction_impact_on_world_tension = 0.4
@@ -160,14 +163,13 @@ ideologies = {
 		types = {
 
 			reactionism_subtype = { }
-			ultra-christian_syndicalism_subtype = { }
 		}
 
 		dynamic_faction_names = {
 			"FACTION_NAME_FASCIST_1"
 		}
 
-		color = { 127 103 68 }
+		color = { 14 31 87 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -207,7 +209,7 @@ ideologies = {
 			"FACTION_NAME_CENTRIST_1"
 		}
 
-		color = { 189 189 189 }
+		color = { 107 153 88 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -252,7 +254,7 @@ ideologies = {
 			"FACTION_NAME_CENTRIST_1"
 		}
 
-		color = { 131 131 131 }
+		color = { 92 137 178 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -296,7 +298,7 @@ ideologies = {
 			"FACTION_NAME_LIBERAL_1" # Faction names used by the ai when an ai with this ideology creates a faction
 		}
 		
-		color = { 201 203 147 } # RGB Цвет 
+		color = { 133 209 51 } # RGB Цвет 
 		
 		rules = { # Правила для идеологии
 			can_declare_war_on_same_ideology = yes # Может ли страна объявлять войну с страной у которой та-же идеология. Необязательно.
@@ -340,13 +342,14 @@ ideologies = {
 
 			libertarianism_subtype = { }
 			austrian_libertarianism_subtype = { }
+			objectivism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
 			"FACTION_NAME_LIBERAL_1" # Faction names used by the ai when an ai with this ideology creates a faction
 		}
 		
-		color = { 193 196 88 } # RGB Цвет 
+		color = { 189 146 51 } # RGB Цвет 
 		
 		rules = { # Правила для идеологии
 			can_declare_war_on_same_ideology = yes # Может ли страна объявлять войну с страной у которой та-же идеология. Необязательно.
@@ -395,7 +398,7 @@ ideologies = {
 			"FACTION_NAME_MONARCHICAL_1" # Faction names used by the ai when an ai with this ideology creates a faction
 		}
 		
-		color = { 157 117 74 } # RGB Цвет 
+		color = { 56 87 115 } # RGB Цвет 
 		
 		rules = { # Правила для идеологии
 			can_declare_war_on_same_ideology = yes # Может ли страна объявлять войну с страной у которой та-же идеология. Необязательно.
@@ -448,7 +451,7 @@ ideologies = {
 			"FACTION_NAME_ULTRACONSERVATIVE_1"
 		}
 
-		color = { 75 103 159 }
+		color = { 72 117 52 }
 
 		rules = {
 			can_create_collaboration_government = yes
@@ -498,7 +501,7 @@ ideologies = {
 			"FACTION_NAME_ANARCHIC_1"
 		}
 
-		color = { 43 43 43 }
+		color = { 139 112 105 }
 
 		war_impact_on_world_tension = 0.65		#Commie less threatening
 		faction_impact_on_world_tension = 0.5

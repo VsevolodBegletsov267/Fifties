@@ -1,0 +1,80 @@
+characters = {
+
+	SOV_wolf_karpovsky = {
+		name = SOV_wolf_karpovsky
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_wolf_karpovsky
+			}
+		}
+		country_leader = {
+            ideology = national_socialist_zionism_subtype
+            desc = SOV_wolf_karpovsky
+			expire="1965.1.1.1"
+        }
+	}
+	
+	SOV_alice_rosenbaum = {
+		name = SOV_alice_rosenbaum
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_alice_rosenbaum
+			}
+		}
+		country_leader = {
+            ideology = objectivism_subtype
+            desc = SOV_alice_rosenbaum
+			expire="1965.1.1.1"
+        }
+	}
+	
+	SOV_nikolay_talberg = {
+		name = SOV_nikolay_talberg
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_nikolay_talberg
+			}
+		}
+		country_leader = {
+            ideology = paternalism_subtype
+            desc = SOV_nikolay_talberg
+			expire="1965.1.1.1"
+        }
+	}
+	
+	SOV_yuri_mirolyubov = {
+		name = SOV_yuri_mirolyubov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_yuri_mirolyubov
+			}
+		}
+		country_leader = {
+            ideology = paternalism_subtype
+            desc = SOV_yuri_mirolyubov
+			expire="1965.1.1.1"
+        }
+	}
+	
+	SOV_alexander_kerensky = {
+		name = SOV_alexander_kerensky
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_alexander_kerensky_big
+				small = GFX_portrait_SOV_alexander_kerensky_small
+			}
+		}
+		country_leader = {
+            ideology = liberalism_subtype
+            desc = SOV_wolf_karpovsky
+			expire="1965.1.1.1"
+        }
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			desc = SOV_alexander_kerensky_desc
+			traits = {}
+        }
+	}
+
+}

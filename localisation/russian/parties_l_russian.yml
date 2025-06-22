@@ -4,6 +4,12 @@
  
  national_socialism_subtype: "Национал-социализм"
  
+ french_national_socialism_subtype: "Французский национал-социализм"
+ 
+ national_socialist_zionism_subtype: "Национал-социалистический сионизм"
+ 
+ ultra-christian_syndicalism_subtype: "Ультрахристианский синдикализм"
+ 
  moderate_socialism: "Умеренный социализм"
  moderate_socialism_noun: "Умеренный социализм"
  
@@ -12,8 +18,6 @@
  
  reactionism: "Реакционизм"
  reactionism_noun: "Реакционизм"
- 
- ultra-christian_syndicalism_subtype: "Ультрахристианский синдикализм"
  
  centrism: "Центризм"
  centrism_noun: "Центризм"
@@ -32,6 +36,8 @@
  
  libertarianism: "Либертарианство"
  libertarianism_noun: "Либертарианство"
+ 
+ objectivism_subtype: "Объективизм"
  
  austrian_libertarianism_subtype: "Либертарианство австрийской школы"
  

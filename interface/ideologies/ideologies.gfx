@@ -4,4 +4,9 @@ spriteTypes = {
 		name = "GFX_ideology_austrian_libertarianism_subtype"
 		texturefile = "gfx/interface/ideologies/austrian_libertarianism_subtype.png"
 	}
+	
+	spriteType = {
+		name = "GFX_ideology_french_national_socialism_subtype"
+		texturefile = "gfx/interface/ideologies/french_national_socialism_subtype.png"
+	}
 }

@@ -20,7 +20,7 @@ if = {
 recruit_character = SPR_rafael_sanchez_mazas
 
 set_politics = {
-	ruling_party = reactionism
+	ruling_party = radical_socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -28,16 +28,16 @@ set_politics = {
 
 set_popularities = {
 	paternalism = 13
-	radical_socialism = 5
+	radical_socialism = 34
 	moderate_socialism = 3
 	social-democracy = 5
-	reactionism = 34
+	reactionism = 5
 	centrism = 14
 	despotism = 12
 	conservatism = 7
 	liberalism = 4
 	libertarianism = 2
-	anarchism = 2
+	anarchism = 1
 }
 
 if = {

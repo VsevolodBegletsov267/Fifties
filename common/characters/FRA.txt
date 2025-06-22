@@ -8,7 +8,7 @@ characters = {
 			}
 		}
 		country_leader = {
-            ideology = national_socialism_subtype
+            ideology = french_national_socialism_subtype
             desc = FRA_pierre_clementi
 			expire="1965.1.1.1"
         }

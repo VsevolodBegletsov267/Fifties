@@ -1,0 +1,16 @@
+characters = {
+
+	HUN_ferenc_nagy = {
+		name = HUN_ferenc_nagy
+		portraits = {
+			civilian = {
+				large = GFX_portrait_HUN_ferenc_nagy
+			}
+		}
+		country_leader = {
+            ideology = despotism_subtype
+            desc = HUN_ferenc_nagy
+			expire="1965.1.1.1"
+        }
+	}
+}

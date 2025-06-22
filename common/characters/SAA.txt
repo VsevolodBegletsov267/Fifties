@@ -1,0 +1,46 @@
+characters = {
+
+	SAA_paul_pleiger = {
+		name = SAA_paul_pleiger
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SAA_paul_pleiger
+			}
+		}
+		country_leader = {
+            ideology = national_socialism_subtype
+            desc = SAA_paul_pleiger
+			expire="1965.1.1.1"
+        }
+	}
+	
+	SAA_heinrich_schneider = {
+		name = SAA_heinrich_schneider
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SAA_heinrich_schneider_big
+				small = GFX_portrait_SAA_heinrich_schneider_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = {}
+        }
+	}
+	
+	SAA_jean_coutrot = {
+		name = SAA_jean_coutrot
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SAA_jean_coutrot_big
+				small = GFX_portrait_SAA_jean_coutrot_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = {}
+        }
+	}
+}
