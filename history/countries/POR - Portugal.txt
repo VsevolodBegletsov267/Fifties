@@ -71,23 +71,23 @@ if = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = paternalism
+	ruling_party = despotism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	paternalism = 54
+	paternalism = 18
 	radical_socialism = 0
-	moderate_socialism = 1
-	social-democracy = 2
-	reactionism = 5
-	centrism = 16
-	despotism = 18
-	conservatism = 2
-	liberalism = 1
-	libertarianism = 1
+	moderate_socialism = 3
+	social-democracy = 3
+	reactionism = 4
+	centrism = 5
+	despotism = 52
+	conservatism = 12
+	liberalism = 3
+	libertarianism = 0
 	anarchism = 0
 }
 

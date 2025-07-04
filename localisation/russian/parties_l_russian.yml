@@ -1,4 +1,6 @@
 ﻿l_russian:
+ 
+ ###РАДИКАЛЬНЫЙ СОЦИАЛИЗМ
  radical_socialism: "Радикальный социализм"
  radical_socialism_noun: "Радикальный социализм"
  
@@ -10,30 +12,47 @@
  
  ultra-christian_syndicalism_subtype: "Ультрахристианский синдикализм"
  
+ ###УМЕРЕННЫЙ СОЦИАЛИЗМ
  moderate_socialism: "Умеренный социализм"
  moderate_socialism_noun: "Умеренный социализм"
  
+ ###СОЦИАЛ-ДЕМОКРАТИЯ
  social-democracy: "Социал-демократия"
  social-democracy_noun: "Социал-демократия"
  
+ ###РЕАКЦИОНИЗМ
  reactionism: "Реакционизм"
  reactionism_noun: "Реакционизм"
  
+ ###ЦЕНТРИЗМ
  centrism: "Центризм"
  centrism_noun: "Центризм"
  
+ liberal_conservatism_subtype: "Либеральный консерватизм"
+ 
+ christian_centrism_subtype: "Христианский центризм"
+ 
+ ###ПАТЕРНАЛИЗМ
  paternalism: "Патернализм"
  paternalism_noun: "Патернализм"
  
+ estado_novo_subtype: "Эстадо Ново"
+ 
+ ###ДЕСПОТИЗМ
  despotism: "Деспотизм"
  despotism_noun: "Центризм"
  
+ ###КОНСЕРВАТИЗМ
  conservatism: "Консерватизм"
  conservatism_noun: "Консерватизм"
  
+ paternalistic_conservatism_subtype: "Патерналисткий консерватизм"
+ 
+ ###ЛИБЕРАЛИЗМ
  liberalism: "Либерализм"
  liberalism_noun: "Либерализм"
  
+ ###ЛИБЕРТАРИАНСТВО
  libertarianism: "Либертарианство"
  libertarianism_noun: "Либертарианство"
  
@@ -41,6 +60,9 @@
  
  austrian_libertarianism_subtype: "Либертарианство австрийской школы"
  
+ pagan_agrarian_libertarianism_subtype: "Языческое аграрное либертариантсво"
+ 
+ ###АНАРХИЗМ
  anarchism: "Анархизм"
  anarchism_noun: "Анархизм"
  

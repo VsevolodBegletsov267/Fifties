@@ -51,6 +51,23 @@ spriteTypes = {
 		texturefile = "gfx/leaders/GER/GER_yalmar_shakht_president.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_GER_heinrich_bruning_big"
+		texturefile = "gfx/leaders/GER/GER_heinrich_bruning.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_GER_hans_globke_big"
+		texturefile = "gfx/leaders/GER/GER_hans_globke.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_GER_eugen_gerstenmaier_big"
+		texturefile = "gfx/leaders/GER/GER_eugen_gerstenmaier.png"
+	}
+	spriteType = {
+		name = "GFX_portrait_GER_erwin_rommel_big"
+		texturefile = "gfx/leaders/GER/GER_erwin_rommel.png"
+	}
+	
 	### POR
 	
 	spriteType = {
@@ -180,6 +197,11 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_portrait_SOV_andrey_sakharov"
+		texturefile = "gfx/leaders/SOV/SOV_andrey_sakharov.png"
+	}
+	
+	spriteType = {
 		name = "GFX_portrait_SOV_nikolay_talberg"
 		texturefile = "gfx/leaders/SOV/SOV_nikolay_talberg.png"
 	}
@@ -195,8 +217,8 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_portrait_RHI_fernand_de_brinon_small"
-		texturefile = "gfx/leaders/RHI/RHI_fernand_de_brinon_small.png"
+		name = "GFX_portrait_SOV_dobroslav"
+		texturefile = "gfx/leaders/SOV/SOV_dobroslav.png"
 	}
 	
 	### HUN
@@ -206,5 +228,18 @@ spriteTypes = {
 		texturefile = "gfx/leaders/HUN/HUN_ferenc_nagy.png"
 	}
 	
+	### SWI
+	
+	spriteType = {
+		name = "GFX_portrait_SWI_walther_bringolf"
+		texturefile = "gfx/leaders/SWI/SWI_walther_bringolf.png"
+	}
+	
+	### JAP
+	
+	spriteType = {
+		name = "GFX_portrait_JAP_hirohito_big"
+		texturefile = "gfx/leaders/JAP/JAP_hirohito_big.png"
+	}
 	
 }

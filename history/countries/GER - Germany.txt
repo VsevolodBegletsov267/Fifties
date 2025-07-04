@@ -445,18 +445,25 @@ set_autonomy = {
 
 # Setup German Politics
 set_politics = {
-	ruling_party = fascism
+	ruling_party = centrism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
-set_popularities = {
-	democratic = 35
-	fascism = 40
-	communism = 10
-	neutrality = 15
-}
 
+set_popularities = {
+	paternalism = 18
+	radical_socialism = 0
+	moderate_socialism = 3
+	social-democracy = 3
+	reactionism = 4
+	centrism = 52
+	despotism = 5
+	conservatism = 12
+	liberalism = 3
+	libertarianism = 0
+	anarchism = 0
+}
 # Wowow nice faction
 create_faction = Axis
 add_to_faction = GER
@@ -467,6 +474,10 @@ add_ideas = {
 }
 
 recruit_character = GER_yalmar_shakht
+recruit_character = GER_heinrich_bruning
+recruit_character = GER_hans_globke
+recruit_character = GER_eugen_gerstenmaier
+recruit_character = GER_erwin_rommel
 
 # Recruiting Starting Operatives
 if = {

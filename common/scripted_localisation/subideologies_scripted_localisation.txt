@@ -12,6 +12,13 @@ defined_text = {
 	
 	text = {
 		trigger = {
+			has_country_leader_ideology = pagan_agrarian_libertarianism_subtype
+		}
+		localization_key = pagan_agrarian_libertarianism_subtype
+	}
+	
+	text = {
+		trigger = {
 			has_country_leader_ideology = austrian_libertarianism_subtype
 		}
 		localization_key = austrian_libertarianism_subtype
@@ -31,5 +38,39 @@ defined_text = {
 			has_country_leader_ideology = french_national_socialism_subtype
 		}
 		localization_key = french_national_socialism_subtype
+	}
+	
+	#paternalism 
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = estado_novo_subtype
+		}
+		localization_key = estado_novo_subtype
+	}
+	
+	#centrism
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = liberal_conservatism_subtype
+		}
+		localization_key = liberal_conservatism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = christian_centrism_subtype
+		}
+		localization_key = christian_centrism_subtype
+	}
+	
+	#conservatism
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = paternalistic_conservatism_subtype
+		}
+		localization_key = paternalistic_conservatism_subtype
 	}
 }

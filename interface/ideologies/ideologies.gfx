@@ -9,4 +9,9 @@ spriteTypes = {
 		name = "GFX_ideology_french_national_socialism_subtype"
 		texturefile = "gfx/interface/ideologies/french_national_socialism_subtype.png"
 	}
+	
+	spriteType = {
+		name = "GFX_ideology_estado_novo_subtype"
+		texturefile = "gfx/interface/ideologies/estado_novo_subtype.png"
+	}
 }

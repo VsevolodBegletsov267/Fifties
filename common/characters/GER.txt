@@ -19,5 +19,65 @@ characters = {
 			expire="1965.1.1.1"
         }
 	}
+	
+	GER_heinrich_bruning = {
+		name = GER_heinrich_bruning
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_heinrich_bruning_big
+				small = GFX_portrait_GER_heinrich_bruning_small
+			}
+		}
+		country_leader = {
+            ideology = liberal_conservatism_subtype
+            desc = GER_heinrich_bruning
+			expire="1965.1.1.1"
+        }
+	}
+	
+	GER_hans_globke = {
+		name = GER_heinrich_bruning
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_hans_globke_big
+				small = GFX_portrait_GER_hans_globke_small
+			}
+		}
+		country_leader = {
+            ideology = liberal_conservatism_subtype
+            desc = GER_hans_globke
+			expire="1965.1.1.1"
+        }
+	}
+	
+	GER_eugen_gerstenmaier = {
+		name = GER_eugen_gerstenmaier
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_eugen_gerstenmaier_big
+				small = GFX_portrait_GER_eugen_gerstenmaier_small
+			}
+		}
+		country_leader = {
+            ideology = christian_centrism_subtype
+            desc = GER_eugen_gerstenmaier
+			expire="1965.1.1.1"
+        }
+	}
+	
+	GER_erwin_rommel = {
+		name = GER_eugen_gerstenmaier
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_erwin_rommel_big
+				small = GFX_portrait_GER_erwin_rommel_small
+			}
+		}
+		country_leader = {
+            ideology = paternalistic_conservatism_subtype
+            desc = GER_erwin_rommel
+			expire="1965.1.1.1"
+        }
+	}
 
 }

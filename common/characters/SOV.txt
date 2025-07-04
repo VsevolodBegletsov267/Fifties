@@ -28,6 +28,20 @@ characters = {
         }
 	}
 	
+	SOV_andrey_sakharov = {
+		name = SOV_andrey_sakharov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_andrey_sakharov
+			}
+		}
+		country_leader = {
+            ideology = libertarianism_subtype
+            desc = SOV_andrey_sakharov
+			expire="1965.1.1.1"
+        }
+	}
+	
 	SOV_nikolay_talberg = {
 		name = SOV_nikolay_talberg
 		portraits = {
@@ -74,6 +88,20 @@ characters = {
 			#ledger = civilian
 			desc = SOV_alexander_kerensky_desc
 			traits = {}
+        }
+	}
+	
+	SOV_dobroslav = {
+		name = SOV_dobroslav
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_dobroslav
+			}
+		}
+		country_leader = {
+            ideology = pagan_agrarian_libertarianism_subtype
+            desc = SOV_dobroslav
+			expire="1965.1.1.1"
         }
 	}
 

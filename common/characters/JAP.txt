@@ -1,0 +1,18 @@
+characters = {
+
+	JAP_hirohito = {
+		name = JAP_hirohito
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JAP_hirohito_big
+				small = GFX_portrait_JAP_hirohito_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = {}
+        }
+	}
+
+}

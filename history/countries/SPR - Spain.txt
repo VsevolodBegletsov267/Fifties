@@ -27,17 +27,17 @@ set_politics = {
 }
 
 set_popularities = {
-	paternalism = 13
-	radical_socialism = 34
-	moderate_socialism = 3
-	social-democracy = 5
-	reactionism = 5
-	centrism = 14
-	despotism = 12
-	conservatism = 7
-	liberalism = 4
-	libertarianism = 2
-	anarchism = 1
+	paternalism = 8
+	radical_socialism = 48
+	moderate_socialism = 6
+	social-democracy = 3
+	reactionism = 18
+	centrism = 3
+	despotism = 8
+	conservatism = 6
+	liberalism = 0
+	libertarianism = 0
+	anarchism = 0
 }
 
 if = {

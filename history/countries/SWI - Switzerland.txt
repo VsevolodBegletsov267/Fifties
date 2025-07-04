@@ -1,4 +1,4 @@
-capital = 219
+capital = 3
 
 # Starting tech
 set_technology = {
@@ -28,16 +28,10 @@ set_research_slots = 3
 set_convoys = 50
 set_stability = 0.75
 
-recruit_character = SOV_wolf_karpovsky
-recruit_character = SOV_alice_rosenbaum
-recruit_character = SOV_nikolay_talberg
-recruit_character = SOV_yuri_mirolyubov
-recruit_character = SOV_alexander_kerensky
-recruit_character = SOV_andrey_sakharov
-recruit_character = SOV_dobroslav
+recruit_character = SWI_walther_bringolf
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = moderate_socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -45,14 +39,14 @@ set_politics = {
 }
 set_popularities = {
 	paternalism = 5
-	radical_socialism = 4
-	moderate_socialism = 3
+	radical_socialism = 3
+	moderate_socialism = 34
 	social-democracy = 5
 	reactionism = 13
 	centrism = 14
 	despotism = 12
 	conservatism = 7
-	liberalism = 34
+	liberalism = 4
 	libertarianism = 2
 	anarchism = 1
 }

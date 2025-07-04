@@ -1,0 +1,17 @@
+characters = {
+
+	SWI_walther_bringolf = {
+		name = SWI_walther_bringolf
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SWI_walther_bringolf
+			}
+		}
+		country_leader = {
+            ideology = moderate_socialism_subtype
+            desc = SWI_walther_bringolf
+			expire="1965.1.1.1"
+        }
+	}
+
+}
