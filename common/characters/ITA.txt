@@ -8,7 +8,7 @@ characters = {
 			}
 		}
 		country_leader = {
-            ideology = radical_socialism_subtype
+            ideology = socialist_monarchism_subtype
             desc = ITA_amadeo_bordiga
 			expire="1965.1.1.1"
         }

@@ -55,17 +55,25 @@ spriteTypes = {
 		name = "GFX_portrait_GER_heinrich_bruning_big"
 		texturefile = "gfx/leaders/GER/GER_heinrich_bruning.png"
 	}
+	
 	spriteType = {
 		name = "GFX_portrait_GER_hans_globke_big"
 		texturefile = "gfx/leaders/GER/GER_hans_globke.png"
 	}
+	
 	spriteType = {
 		name = "GFX_portrait_GER_eugen_gerstenmaier_big"
 		texturefile = "gfx/leaders/GER/GER_eugen_gerstenmaier.png"
 	}
+	
 	spriteType = {
 		name = "GFX_portrait_GER_erwin_rommel_big"
 		texturefile = "gfx/leaders/GER/GER_erwin_rommel.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_GER_konrad_adenauer_big"
+		texturefile = "gfx/leaders/GER/GER_konrad_adenauer.png"
 	}
 	
 	### POR
@@ -240,6 +248,13 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_JAP_hirohito_big"
 		texturefile = "gfx/leaders/JAP/JAP_hirohito_big.png"
+	}
+	
+	### PAP
+	
+	spriteType = {
+		name = "GFX_portrait_PAP_pius_xii"
+		texturefile = "gfx/leaders/PAP/PAP_pius_xii.png"
 	}
 	
 }

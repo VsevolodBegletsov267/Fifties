@@ -46,7 +46,7 @@ guiTypes = {
 		iconType ={
 			name ="pol_faction_icon"
 			spriteType = "GFX_pol_factions_strip"
-			position = { x= 18 y = 303 }
+			position = { x= 2 y = 288 }
 			Orientation = "UPPER_LEFT"
 			frame = 1
 		}
@@ -603,7 +603,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "country_politics_idea_category_entry"
-		position = { x = 0 y = 0 }
+		position = { x = 20 y = 0 }
 		size = { width=550 height= 100 }
 		clipping = no
 		

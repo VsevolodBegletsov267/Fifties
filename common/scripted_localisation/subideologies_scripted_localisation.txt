@@ -40,6 +40,13 @@ defined_text = {
 		localization_key = french_national_socialism_subtype
 	}
 	
+	text = {
+		trigger = {
+			has_country_leader_ideology = socialist_monarchism_subtype
+		}
+		localization_key = socialist_monarchism_subtype
+	}
+	
 	#paternalism 
 	
 	text = {
@@ -47,6 +54,13 @@ defined_text = {
 			has_country_leader_ideology = estado_novo_subtype
 		}
 		localization_key = estado_novo_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = papacy_subtype
+		}
+		localization_key = papacy_subtype
 	}
 	
 	#centrism

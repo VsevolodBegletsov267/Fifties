@@ -14,4 +14,14 @@ spriteTypes = {
 		name = "GFX_ideology_estado_novo_subtype"
 		texturefile = "gfx/interface/ideologies/estado_novo_subtype.png"
 	}
+	
+	spriteType = {
+		name = "GFX_ideology_papacy_subtype"
+		texturefile = "gfx/interface/ideologies/papacy_subtype.png"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_socialist_monarchism_subtype"
+		texturefile = "gfx/interface/ideologies/socialist_monarchism_subtype.png"
+	}
 }

@@ -12,6 +12,8 @@
  
  ultra-christian_syndicalism_subtype: "Ультрахристианский синдикализм"
  
+ socialist_monarchism_subtype: "Социалистический монархизм"
+ 
  ###УМЕРЕННЫЙ СОЦИАЛИЗМ
  moderate_socialism: "Умеренный социализм"
  moderate_socialism_noun: "Умеренный социализм"
@@ -37,6 +39,8 @@
  paternalism_noun: "Патернализм"
  
  estado_novo_subtype: "Эстадо Ново"
+ 
+ papacy_subtype: "Папство"
  
  ###ДЕСПОТИЗМ
  despotism: "Деспотизм"

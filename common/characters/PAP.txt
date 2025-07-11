@@ -1,0 +1,18 @@
+characters = {
+
+	PAP_pius_xii = {
+		name = PAP_pius_xii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PAP_pius_xii
+			}
+		}
+		country_leader = {
+            ideology = papacy_subtype
+            desc = PAP_pius_xii_desc
+			expire="1965.1.1.1"
+			traits = { }
+        }
+	}
+	
+}

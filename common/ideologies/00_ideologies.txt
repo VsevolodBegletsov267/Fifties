@@ -9,6 +9,7 @@ ideologies = {
 			national_socialism_subtype = { }
 			french_national_socialism_subtype = { }
 			national_socialist_zionism_subtype = { }
+			socialist_monarchism_subtype = { }
 			
 		}
 
@@ -404,6 +405,7 @@ ideologies = {
 		types = {
 
 			paternalism_subtype = {	}
+			papacy_subtype = { }
 			
 		}
 
