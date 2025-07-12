@@ -257,4 +257,11 @@ spriteTypes = {
 		texturefile = "gfx/leaders/PAP/PAP_pius_xii.png"
 	}
 	
+	### BOH
+
+	spriteType = {
+		name = "GFX_portrait_BOH_Yan_Masaryk"
+		texturefile = "gfx/leaders/BOH/BOH_Yan_Masaryk.png"
+	}
+
 }

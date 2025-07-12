@@ -1,0 +1,16 @@
+characters = {
+
+	BOH_Yan_Masaryk = {
+		name = BOH_Yan_Masaryk
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BOH_Yan_Masaryk
+			}
+		}
+		country_leader = {
+            ideology = socialist_monarchism_subtype
+            desc = BOH_Yan_Masaryk
+			expire="1965.1.1.1"
+        }
+	}
+}
