@@ -352,6 +352,8 @@ ideologies = {
 
 		types = {
 
+			prussian_conservatism_subtype = { }
+			populist_conservatism_subtype = { }
 			conservatism_subtype = { }
 			paternalistic_conservatism_subtype = { }
 			

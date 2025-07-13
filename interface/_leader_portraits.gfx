@@ -75,7 +75,22 @@ spriteTypes = {
 		name = "GFX_portrait_GER_konrad_adenauer_big"
 		texturefile = "gfx/leaders/GER/GER_konrad_adenauer.png"
 	}
+
+	spriteType = {
+		name = "GFX_portrait_GER_franz_von_papen_big"
+		texturefile = "gfx/leaders/GER/GER_franz_von_papen.png"
+	}
 	
+	spriteType = {
+		name = "GFX_portrait_GER_hasso_von_manteuffel_big"
+		texturefile = "gfx/leaders/GER/GER_hasso_von_manteuffel.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_GER_julius_leber_big"
+		texturefile = "gfx/leaders/GER/GER_julius_leber.png"
+	}
+
 	### POR
 	
 	spriteType = {

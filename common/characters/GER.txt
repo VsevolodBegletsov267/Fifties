@@ -36,7 +36,7 @@ characters = {
 	}
 	
 	GER_hans_globke = {
-		name = GER_heinrich_bruning
+		name = GER_hans_globke
 		portraits = {
 			civilian = {
 				large = GFX_portrait_GER_hans_globke_big
@@ -66,7 +66,7 @@ characters = {
 	}
 	
 	GER_erwin_rommel = {
-		name = GER_eugen_gerstenmaier
+		name = GER_erwin_rommel
 		portraits = {
 			civilian = {
 				large = GFX_portrait_GER_erwin_rommel_big
@@ -76,6 +76,48 @@ characters = {
 		country_leader = {
             ideology = paternalistic_conservatism_subtype
             desc = GER_erwin_rommel
+			expire="1965.1.1.1"
+        }
+	}
+
+	GER_franz_von_papen = {
+		name = GER_franz_von_papen
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_franz_von_papen_big
+			}
+		}
+		country_leader = {
+            ideology = prussian_conservatism
+            desc = GER_franz_von_papen
+			expire="1965.1.1.1"
+        }
+	}
+
+	GER_hasso_von_manteuffel = {
+		name = GER_hasso_von_manteuffel
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_hasso_von_manteuffel_big
+			}
+		}
+		country_leader = {
+            ideology = populist_conservatism_subtype
+            desc = GER_hasso_von_manteuffel
+			expire="1965.1.1.1"
+        }
+	}
+
+	GER_julius_leber = {
+		name = GER_julius_leber
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_julius_leber_big
+			}
+		}
+		country_leader = {
+            ideology = social-democracy_subtype
+            desc = GER_julius_leber
 			expire="1965.1.1.1"
         }
 	}
