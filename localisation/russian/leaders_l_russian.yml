@@ -14,6 +14,9 @@
  GER_eugen_gerstenmaier: "Ойген Герстенмайер"
  GER_erwin_rommel: "Эрвин Роммель"
  GER_konrad_adenauer: "Конрад Аденауэр"
+ GER_franz_von_papen: "Франц Фон Папен"
+ GER_hasso_von_manteuffel: "Хассо Фон Мантойфель"
+ GER_julius_leber: "Юлиус Лебер"
  
  LIE_franz_joseph_ii: "Франц-Иосиф II"
  
@@ -42,6 +45,7 @@
  SOV_alexander_kerensky: "Александр Керенский"
  SOV_andrey_sakharov: "Андрей Сахаров"
  SOV_dobroslav: "Доброслав"
+ SOV_dobroslav_desc: "Самый добрый и величественный древний рус во всей нынешней руси."
  
  SWI_walther_bringolf: "Вальтер Брингольф"
  
@@ -50,3 +54,9 @@
  JAP_hirohito: "Хирохито"
  
  PAP_pius_xii: "Пий XII"
+
+ BOH_yan_masaryk: "Ян Масарик"
+
+ JOR_o_connor: "О Коннор"
+
+ NMB_walter_nehring: "Вальтер Неринг"

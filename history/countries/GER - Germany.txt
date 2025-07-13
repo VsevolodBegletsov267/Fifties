@@ -478,6 +478,9 @@ recruit_character = GER_heinrich_bruning
 recruit_character = GER_hans_globke
 recruit_character = GER_eugen_gerstenmaier
 recruit_character = GER_erwin_rommel
+recruit_character = GER_franz_von_papen
+recruit_character = GER_hasso_von_manteuffel
+recruit_character = GER_julius_leber
 
 # Recruiting Starting Operatives
 if = {

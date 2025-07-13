@@ -1,0 +1,18 @@
+characters = {
+
+    NMB_walter_nehring = {
+		name = NMB_walter_nehring
+		portraits = {
+			army = {
+				large = GFX_portrait_NMB_walter_nehring
+			}
+		}
+		corps_commander = {
+            skill = 1
+            attack_skill = 2
+            defense_skill = 3
+            planning_skill = 4
+            logistics_skill = 5
+        }
+	}
+}

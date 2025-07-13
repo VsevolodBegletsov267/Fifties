@@ -51,6 +51,10 @@
  conservatism_noun: "Консерватизм"
  
  paternalistic_conservatism_subtype: "Патерналисткий консерватизм"
+
+ prussian_conservatism_subtype: "Прусский консерватизм"
+
+ populist_conservatism_subtype: "Популисткий консерватизм"
  
  ###ЛИБЕРАЛИЗМ
  liberalism: "Либерализм"

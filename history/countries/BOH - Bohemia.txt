@@ -1,4 +1,4 @@
-capital = 455
+capital = 9
 
 # Starting tech
 set_technology = {
@@ -84,39 +84,27 @@ set_research_slots = 3
 set_convoys = 50
 set_stability = 0.75
 
-set_cosmetic_tag = JOR_emirate
-
-puppet = IRQ
-puppet = SYR
+recruit_character = BOH_yan_masaryk
 
 set_politics = {
-	ruling_party = liberalism
-	last_election = "1935.3.5"
+	ruling_party = radical_socialism
+	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = no
-}
+	elections_allowed = yes
 
+}
 set_popularities = {
-	paternalism = 5
-	radical_socialism = 2
-	moderate_socialism = 3
-	social-democracy = 3
-	reactionism = 2
+	paternalism = 10
+	radical_socialism = 60
+	moderate_socialism = 1
+	social-democracy = 1
+	reactionism = 4
 	centrism = 2
-	despotism = 2
-	conservatism = 1
-	liberalism = 60
-	libertarianism = 12
-	anarchism = 8
-}
-
-recruit_character = JOR_o_connor
-
-set_popularities = {
-	democratic = 60
-	fascism = 10
-	communism = 20
-	neutrality = 10
+	despotism = 5
+	conservatism = 12
+	liberalism = 3
+	libertarianism = 1
+	anarchism = 1
 }
 
 add_ideas = {
