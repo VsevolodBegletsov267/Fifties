@@ -1,36 +1,28 @@
-
-state = {
-	id = 834
-	name = "STATE_834"
-	manpower = 183748
+state = { 
+	id = 834 
+	name = "STATE_834" 
+	manpower = 183748 
 	
-	state_category = rural
-
-	history = {
-		owner = UKR
-		victory_points = {
-			3757 2 
-		}
-		victory_points = {
-			741 1 
-		}
-		buildings = {
+	state_category = rural 
+	local_supplies = 6 
+	history = { 
+		owner = UKR 
 		
-			infrastructure = 2
+		victory_points = { 741 1 }
+		victory_points = { 3757 2 }
+		
+		buildings = { 
+			infrastructure = 2 }
+		
+		add_core_of = UKR 
+		add_core_of = MOL 
+		
+		
+		1939.1.1 = { 
 			
-		}
-		add_core_of = UKR
-		add_core_of = MOL
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 2
-			}
+			buildings = { 
+				industrial_complex = 2 }
 		}
 	}
-
-	provinces = {
-		741 754 3757 9576
-	}
-
-	local_supplies = 6.0 
+	provinces = { 741 754 3757 9576 }
 }

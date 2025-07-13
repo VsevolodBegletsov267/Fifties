@@ -1,0 +1,23 @@
+state = { 
+	id = 498 
+	name = "STATE_498" 
+	manpower = 649000 # A third removed for Ceara and Pernambuco each, was 7746000
+	
+	state_category = town # Was city
+	local_supplies = 0 
+	
+	resources = { tungsten = 3 } 
+	history = { 
+		owner = BRA 
+		
+		victory_points = { 10933 3 }
+		
+		buildings = { 
+			infrastructure = 3 
+			industrial_complex = 1 
+		}
+		
+		add_core_of = BRA 
+	}
+	provinces = { 2175 10933 13273 }
+}

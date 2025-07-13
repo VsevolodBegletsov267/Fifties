@@ -1,0 +1,22 @@
+state = { 
+	id = 1025 
+	name = "STATE_1025" 
+	manpower = 902375 
+	
+	state_category = town 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = FRF 
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 2 
+			air_base = 1 
+		}
+		
+		add_core_of = FRF 
+		add_core_of = LEB 
+	}
+	provinces = { 11919 }
+}

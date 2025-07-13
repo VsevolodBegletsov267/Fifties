@@ -1,37 +1,27 @@
-state = {
-	id = 85
-	name = "STATE_85"
-	manpower = 366730
+state = { 
+	id = 85 
+	name = "STATE_85" 
+	manpower = 366730 
 	
-	state_category = city
-
-	history = {
-
-		owner = GER
-		add_core_of = POL
-		add_core_of = DNZ
-
-		victory_points = {
-			362 10 # Danzig
+	state_category = city 
+	local_supplies = 0 
+	history = { 
+		owner = GER 
+		
+		victory_points = { 362 10 }
+		
+		buildings = { 
+			infrastructure = 3 
+			arms_factory = 2 
+			industrial_complex = 1 
+			dockyard = 3 
+			362 = { naval_base = 5 }
 		}
 		
-		set_demilitarized_zone = yes
-		
-		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 1
-			dockyard = 3
-			362 = {
-				naval_base = 5
-			}
-		}
-		
+		add_core_of = POL 
+		add_core_of = DNZ 
+		# Danzig
+		set_demilitarized_zone = yes 
 	}
-
-	provinces = {
-		362
-	}
-
-	local_supplies = 0.0 
+	provinces = { 362 }
 }

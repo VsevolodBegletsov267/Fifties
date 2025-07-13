@@ -1,0 +1,18 @@
+state = { 
+	id = 884 
+	name = "STATE_884" # Upper Nile 
+	manpower = 1040121 
+	
+	state_category = pastoral 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = ENG 
+		
+		buildings = { 
+			infrastructure = 2 }
+		
+		add_core_of = SUD 
+	}
+	provinces = { 2096 10859 10877 12800 }
+}

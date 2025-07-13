@@ -1,0 +1,25 @@
+state = { 
+	id = 1023 
+	name = "STATE_1023" 
+	manpower = 902375 
+	
+	state_category = town 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = KUR 
+		
+		victory_points = { 3916 3 }
+		victory_points = { 10106 5 }
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 2 
+			air_base = 1 
+		}
+		
+		add_core_of = KUR 
+		add_core_of = IRQ 
+	}
+	provinces = { 3916 5014 10106 10804 10811 }
+}

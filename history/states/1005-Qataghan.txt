@@ -1,0 +1,20 @@
+state = { 
+	id = 1005 
+	name = "STATE_1005" 
+	manpower = 925226 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	
+	resources = { chromium = 3 } 
+	history = { 
+		owner = AFG 
+		
+		victory_points = { 10781 1 }
+		
+		add_core_of = AFG 
+		add_core_of = TAJ 
+	}
+	provinces = { 7519 10781 10826 12314 12653 }
+}

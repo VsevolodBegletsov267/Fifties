@@ -1,0 +1,20 @@
+state = { 
+	id = 733 
+	name = "STATE_733" 
+	manpower = 29500 
+	
+	state_category = small_island 
+	local_supplies = 0 
+	history = { 
+		owner = ENG 
+		
+		victory_points = { 12251 1 }
+		
+		buildings = { 
+			infrastructure = 2 
+			12251 = { naval_base = 2 }
+		}
+	}
+	#Port Blair 
+	provinces = { 10321 12251 }
+}

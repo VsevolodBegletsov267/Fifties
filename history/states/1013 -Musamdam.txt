@@ -1,0 +1,21 @@
+state = { 
+	id = 1013 
+	name = "STATE_1013" 
+	manpower = 33600 
+	
+	state_category = pastoral 
+	local_supplies = 4 
+	
+	resources = { oil = 1 } 
+	history = { 
+		owner = OMA 
+		
+		buildings = { 
+			infrastructure = 1 
+			13369 = { naval_base = 1 }
+		}
+		
+		add_core_of = OMA 
+	}
+	provinces = { 13369 }
+}

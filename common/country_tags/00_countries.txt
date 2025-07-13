@@ -347,6 +347,14 @@ LIE = "countries/Liechtenstein.txt"
 MCO = "countries/Monaco.txt"
 GRC = "countries/Greek Communists.txt"
 BOH	= "countries/Bohemia.txt"
+NGC = "countries/New Greece.txt"
+SDG = "countries/Syrian Democratic Government.txt"
+ITO = "countries/Italian Order.txt"
+ISA = "countries/International Straits Area.txt"
+FRT = "countries/French Turkey.txt"
+FSS = "countries/French Syrian State.txt"
+FRF = "countries/French Resistance Forces.txt"
+BRS = "countries/British Syria and Iraq.txt"
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")
 
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")

@@ -1,0 +1,21 @@
+state = { 
+	id = 147 
+	name = "STATE_147" #SALLA
+	manpower = 4630 
+	
+	state_category = enclave 
+	local_supplies = 0 
+	history = { 
+		owner = FIN 
+		
+		victory_points = { 197 1 }
+		
+		buildings = { 
+			infrastructure = 1 }
+		
+		add_core_of = FIN 
+		add_core_of = KAR 
+		add_core_of = SMI 
+	}
+	provinces = { 197 9158 11085 }
+}

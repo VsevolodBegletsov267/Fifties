@@ -1,32 +1,20 @@
-state = {
-	id = 1018
-	name = "STATE_1018"
-	manpower = 10000
-	resources={
-	}
+state = { 
+	id = 1018 
+	name = "STATE_1018" 
+	manpower = 10000 
 	
-	state_category = rural
-
-	history = {
-
-		owner = AND
-		add_core_of = AND
-
-		victory_points = {
-			13377 10
-		}
-
-		buildings = {
-			infrastructure = 1
-
-			# Gileppe Dam
-		}
+	state_category = rural 
+	local_supplies = 14 
+	history = { 
+		owner = AND 
 		
+		victory_points = { 13377 10 }
+		
+		buildings = { 
+			infrastructure = 1 }
+		
+		add_core_of = AND 
 	}
-
-	provinces = {
-		13377
-	}
-
-	local_supplies = 14.0 
+	# Gileppe Dam
+	provinces = { 13377 }
 }

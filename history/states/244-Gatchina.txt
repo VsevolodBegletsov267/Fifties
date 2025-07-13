@@ -1,0 +1,23 @@
+state = { 
+	id = 244 
+	name = "STATE_244" # Volkhov
+	manpower = 195325 
+	
+	state_category = rural 
+	local_supplies = 0 
+	history = { 
+		owner = SOV 
+		
+		victory_points = { 9197 1 }
+		
+		buildings = { 
+			infrastructure = 3 
+			# Volkhov Hydroelectric Station
+			9197 = { dam = 1 }
+		}
+		
+		add_core_of = SOV 
+	}
+	# Volkhov
+	provinces = { 70 3072 3110 6035 6095 9164 9197 11174 }
+}

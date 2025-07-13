@@ -1,0 +1,25 @@
+state = { 
+	id = 995 
+	name = "STATE_995" 
+	manpower = 1272324 
+	
+	state_category = city 
+	buildings_max_level_factor = 1 
+	local_supplies = 6 
+	history = { 
+		owner = BRM 
+		
+		victory_points = { 1330 15 }
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 1 
+			arms_factory = 1 
+			1330 = { naval_base = 1 }
+		}
+		
+		add_core_of = BRM 
+	}
+	# Rangoon
+	provinces = { 1330 1650 10154 10283 10344 12127 }
+}

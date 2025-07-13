@@ -1,46 +1,41 @@
-state= {
-	id=132
-	name="STATE_132" # Lancashire
-	manpower = 5770454
+state = { 
+	id = 132 
+	name = "STATE_132" # Lancashire
+	manpower = 5770454 
 	
-	state_category = metropolis
+	state_category = metropolis 
+	local_supplies = 0 
 	
-	resources={
-		steel=31 # was: 56
-		aluminium=2 # was: 4
-	}
-
-	history= {
-		owner = BRR
-		victory_points = {
-			6384 30 
-		}
-		victory_points = {
-			6318 5 
+	resources = { 
+		steel = 31 
+		aluminium = 2 
+	} 
+	history = { 
+		owner = BRR 
+		
+		victory_points = { 6318 5 }
+		victory_points = { 6384 30 }
+		
+		buildings = { 
+			infrastructure = 4 
+			arms_factory = 1 
+			industrial_complex = 1 
+			dockyard = 3 
+			air_base = 3 
+			6384 = { naval_base = 5 }
 		}
 		
-		buildings = {
-			infrastructure = 4 #was: 8
-			arms_factory = 1
-			industrial_complex = 1
-			dockyard = 3
-			air_base = 3
-			6384 = {
-				naval_base = 5
-			}
-		}
-		add_core_of = BRR
-		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				dockyard = 4
-				industrial_complex = 2
+		add_core_of = BRR 
+		add_core_of = ENG 
+		
+		
+		1939.1.1 = { 
+			
+			buildings = { 
+				dockyard = 4 
+				industrial_complex = 2 
 			}
 		}
 	}
-	provinces= {
-		3205 6318 6335 6384
- 	}
-
-	local_supplies=0.0 
+	provinces = { 3205 6318 6335 6384 }
 }

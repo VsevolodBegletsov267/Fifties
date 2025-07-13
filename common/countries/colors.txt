@@ -1142,3 +1142,31 @@ NMB = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 178 155 156 }
 }
+NGC = {
+	color = rgb { 109 112 119 }
+	color_ui = rgb { 109 112 119 }
+}
+SDG = {
+	color = rgb { 247 176 96 }
+	color_ui = rgb { 247 176 96 }
+}
+ITO = {
+	color = rgb { 44 197 124 }
+	color_ui = rgb { 44 197 124 }
+}
+ISA = {
+	color = rgb { 196 255 103 }
+	color_ui = rgb { 196 255 103 }
+}
+FRT = {
+	color = rgb { 161 158 205 }
+	color_ui = rgb { 161 158 205 }
+}
+FSS = {
+	color = rgb { 89 67 178 }
+	color_ui = rgb { 89 67 178 }
+}
+BRS = {
+	color = rgb { 165 89 101 }
+	color_ui = rgb { 165 89 101 }
+}

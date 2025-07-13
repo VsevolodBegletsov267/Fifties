@@ -1,0 +1,15 @@
+state = { 
+	id = 969 
+	name = "STATE_969" 
+	manpower = 10000 
+	
+	state_category = pastoral 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = BRA 
+		
+		add_core_of = BRA 
+	}
+	provinces = { 5214 13340 13361 }
+}

@@ -1,0 +1,19 @@
+state = { 
+	id = 445 
+	name = "STATE_445" 
+	manpower = 405100 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = RAJ 
+		
+		buildings = { 
+			infrastructure = 1 }
+		
+		add_core_of = PAK 
+		add_core_of = KHL 
+	}
+	provinces = { 4990 7847 7903 10813 }
+}

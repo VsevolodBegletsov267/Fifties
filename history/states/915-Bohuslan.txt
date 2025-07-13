@@ -1,0 +1,19 @@
+state = { 
+	id = 915 
+	name = "STATE_915" # Bohuslän
+	manpower = 96212 
+	
+	state_category = rural 
+	local_supplies = 0 
+	history = { 
+		owner = SWE 
+		
+		victory_points = { 6310 1 }
+		
+		buildings = { 
+			infrastructure = 3 }
+		
+		add_core_of = SWE 
+	}
+	provinces = { 171 6310 }
+}

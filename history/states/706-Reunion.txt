@@ -1,0 +1,19 @@
+state = { 
+	id = 706 
+	name = "STATE_706" 
+	manpower = 186637 
+	
+	state_category = small_island 
+	local_supplies = 0 
+	history = { 
+		owner = FRA 
+		
+		buildings = { 
+			infrastructure = 2 
+			13017 = { naval_base = 1 }
+		}
+		
+		add_core_of = MAD 
+	}
+	provinces = { 13017 }
+}

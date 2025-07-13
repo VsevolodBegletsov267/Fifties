@@ -1,0 +1,23 @@
+state = { 
+	id = 1012 
+	name = "STATE_1012" 
+	manpower = 480164 
+	
+	state_category = town 
+	# Kalat
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = RAJ 
+		
+		victory_points = { 8098 1 }
+		
+		buildings = { 
+			infrastructure = 1 }
+		
+		add_core_of = KLT 
+		add_core_of = PAK 
+		add_core_of = BLC 
+	}
+	provinces = { 7049 8098 8066 }
+}

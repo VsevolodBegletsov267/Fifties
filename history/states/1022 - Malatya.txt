@@ -1,0 +1,21 @@
+state = { 
+	id = 1022 
+	name = "STATE_1022" 
+	manpower = 902375 
+	
+	state_category = town 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = TUR 
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 2 
+			air_base = 1 
+		}
+		
+		add_core_of = TUR 
+	}
+	provinces = { 4008 4124 7026 7143 }
+}

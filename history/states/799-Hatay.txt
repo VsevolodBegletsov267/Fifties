@@ -1,0 +1,21 @@
+state = { 
+	id = 799 
+	name = "STATE_799" 
+	manpower = 234379 
+	
+	state_category = enclave 
+	local_supplies = 0 
+	history = { 
+		owner = FRF 
+		
+		victory_points = { 12029 1 }
+		
+		buildings = { 
+			infrastructure = 1 }
+		
+		add_core_of = TUR 
+		add_core_of = SYR 
+		add_core_of = FRF 
+	}
+	provinces = { 12029 }
+}

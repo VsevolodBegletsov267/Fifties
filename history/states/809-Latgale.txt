@@ -1,0 +1,24 @@
+state = { 
+	id = 809 
+	name = "STATE_809" 
+	manpower = 215500 
+	
+	state_category = town 
+	buildings_max_level_factor = 1 
+	history = { 
+		owner = LAT 
+		
+		victory_points = { 222 1 }
+		victory_points = { 310 3 }
+		
+		#Rezekne
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 1 
+			arms_factory = 1 
+		}
+		
+		add_core_of = LAT 
+	}
+	provinces = { 265 3255 3525 6222 6342 11358 }
+}

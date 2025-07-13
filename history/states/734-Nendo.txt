@@ -1,0 +1,20 @@
+state = { 
+	id = 734 
+	name = "STATE_734" 
+	manpower = 5167 
+	
+	state_category = tiny_island 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = FRA 
+		
+		buildings = { 
+			infrastructure = 2 
+			7390 = { naval_base = 1 }
+		}
+		
+		add_core_of = TAH 
+	}
+	provinces = { 7390 }
+}

@@ -1,0 +1,22 @@
+state = { 
+	id = 1027 
+	name = "STATE_1027" 
+	manpower = 902375 
+	
+	state_category = town 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = FSS 
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 2 
+			air_base = 1 
+		}
+		
+		add_core_of = FSS 
+		add_core_of = TUR 
+	}
+	provinces = { 806 3889 }
+}

@@ -1,0 +1,23 @@
+state = { 
+	id = 497 
+	name = "STATE_497" 
+	manpower = 575050 # was 2950100, then 1150100
+	
+	state_category = pastoral # Was rural
+	local_supplies = 0 
+	
+	resources = { rubber = 13 } 
+	history = { 
+		owner = BRA 
+		
+		victory_points = { 12933 2 }
+		
+		buildings = { 
+			infrastructure = 1 
+			air_base = 1 
+		}
+		
+		add_core_of = BRA 
+	}
+	provinces = { 2150 5220 12913 12933 12947 }
+}

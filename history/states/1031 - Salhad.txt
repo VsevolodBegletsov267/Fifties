@@ -1,0 +1,21 @@
+state = { 
+	id = 1031 
+	name = "STATE_1031" 
+	manpower = 902375 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = BRS 
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 2 
+			air_base = 1 
+		}
+		
+		add_core_of = BRS 
+	}
+	provinces = { 13380 13381 }
+}

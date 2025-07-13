@@ -1,39 +1,28 @@
-state = {
-
-	id = 664
-
-	name = "STATE_664"
-
-	manpower = 854300
-
-	resources = {
-		steel = 13 # was: 20
-		chromium = 3 # was: 4
-	}
+state = { 
+	id = 664 
+	name = "STATE_664" 
+	manpower = 854300 
 	
-	state_category = town
+	state_category = town 
+	local_supplies = 3 
 	
-	history = {
-
-		owner = SLO
-
-		buildings = {
-			infrastructure = 3 #was: 6
-			industrial_complex = 3
-		}
-
-		victory_points = {
-			6573 1 # Kosice
-		}
-		add_core_of = SLO
-
-		# This should isntead be reclaimable through Hungarian focuses with w
+	resources = { 
+		steel = 13 
+		chromium = 3 
+	} 
+	history = { 
+		owner = SLO 
 		
+		victory_points = { 6573 1 }
+		
+		buildings = { 
+			infrastructure = 3 
+			industrial_complex = 3 
+		}
+		
+		# Kosice
+		add_core_of = SLO 
 	}
-	
-	provinces = {
-		3565 3716 6561 6573 9537 11679 
-	}
-
-	local_supplies = 3.0 
+	# This should isntead be reclaimable through Hungarian focuses with w
+	provinces = { 3565 3716 6561 6573 9537 11679 }
 }
