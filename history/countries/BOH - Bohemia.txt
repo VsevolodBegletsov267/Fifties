@@ -84,7 +84,7 @@ set_research_slots = 3
 set_convoys = 50
 set_stability = 0.75
 
-recruit_character = BOH_Yan_Masaryk
+recruit_character = BOH_yan_masaryk
 
 set_politics = {
 	ruling_party = radical_socialism

@@ -1,0 +1,17 @@
+characters = {
+
+	JOR_o_connor = {
+		name = JOR_o_connor
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JOR_o_connor
+			}
+		}
+		country_leader = {
+            ideology = liberalism_subtype
+            desc = JOR_o_connor
+			expire="1965.1.1.1"
+        }
+	}
+
+}

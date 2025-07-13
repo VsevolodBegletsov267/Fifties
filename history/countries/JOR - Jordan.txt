@@ -90,12 +90,28 @@ puppet = IRQ
 puppet = SYR
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1936.1.1"
+	ruling_party = liberalism
+	last_election = "1935.3.5"
 	election_frequency = 48
-	elections_allowed = yes
-
+	elections_allowed = no
 }
+
+set_popularities = {
+	paternalism = 5
+	radical_socialism = 2
+	moderate_socialism = 3
+	social-democracy = 3
+	reactionism = 2
+	centrism = 2
+	despotism = 2
+	conservatism = 1
+	liberalism = 60
+	libertarianism = 12
+	anarchism = 8
+}
+
+recruit_character = JOR_o_connor
+
 set_popularities = {
 	democratic = 60
 	fascism = 10

@@ -260,8 +260,21 @@ spriteTypes = {
 	### BOH
 
 	spriteType = {
-		name = "GFX_portrait_BOH_Yan_Masaryk"
-		texturefile = "gfx/leaders/BOH/BOH_Yan_Masaryk.png"
+		name = "GFX_portrait_BOH_yan_masaryk"
+		texturefile = "gfx/leaders/BOH/BOH_yan_masaryk.png"
+	}
+
+	### JOR 
+
+	spriteType = {
+		name = "GFX_portrait_JOR_o_connor"
+		texturefile = "gfx/leaders/JOR/JOR_o_connor.png"
+	}
+
+	### NMB 
+	spriteType = {
+		name = "GFX_portrait_NMB_walter_nehring"
+		texturefile = "gfx/leaders/NMB/NMB_walter_nehring.png"
 	}
 
 }

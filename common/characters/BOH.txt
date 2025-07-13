@@ -1,15 +1,15 @@
 characters = {
 
-	BOH_Yan_Masaryk = {
-		name = BOH_Yan_Masaryk
+	BOH_yan_masaryk = {
+		name = BOH_yan_masaryk
 		portraits = {
 			civilian = {
-				large = GFX_portrait_BOH_Yan_Masaryk
+				large = GFX_portrait_BOH_yan_masaryk
 			}
 		}
 		country_leader = {
             ideology = socialist_monarchism_subtype
-            desc = BOH_Yan_Masaryk
+            desc = BOH_yan_masaryk
 			expire="1965.1.1.1"
         }
 	}

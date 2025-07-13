@@ -1134,6 +1134,11 @@ GRC = {
 	color = rgb { 154 66 66 }
 	color_ui = rgb { 154 66 66 }	
 }
-
-
-
+BOH = {
+	color = rgb { 94 167 196 }
+	color_ui = rgb { 94 167 196 }
+}
+NMB = {
+	color = HSV { 0.1 0.15 0.4 }
+	color_ui = rgb { 178 155 156 }
+}
