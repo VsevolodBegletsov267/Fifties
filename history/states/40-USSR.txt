@@ -16,7 +16,7 @@ state = {
 		}
 		
 		add_core_of = SOV 
-		add_core_of = ALT #Could be a claim too 
+		add_core_of = ALT #Could be a claim too  
 		
 		
 		1939.1.1 = { 

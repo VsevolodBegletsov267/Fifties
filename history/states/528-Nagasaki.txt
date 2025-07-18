@@ -32,7 +32,7 @@ state = {
 			buildings = { 
 				dockyard = 4 
 				industrial_complex = 3 
-				7110 = { naval_facility = 1 # Sasebo Naval Arsenal 
+				7110 = { naval_facility = 1 # Sasebo Naval Arsenal  
 				}
 			}
 		}
