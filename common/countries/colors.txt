@@ -1170,3 +1170,23 @@ BRS = {
 	color = rgb { 165 89 101 }
 	color_ui = rgb { 165 89 101 }
 }
+IRO = {
+	color = rgb { 109 154 169 }
+	color_ui = rgb { 109 154 169 }
+}
+EMI = {
+	color = rgb { 206 175 134 }
+	color_ui = rgb { 206 175 134 }
+}
+IQT = {
+	color = rgb { 159 157 188 }
+	color_ui = rgb { 159 157 188 }
+}
+IQK = {
+	color = rgb { 210 177 188 }
+	color_ui = rgb { 210 177 188 }
+}
+MBR = {
+	color = rgb { 167 192 134 }
+	color_ui = rgb { 167 192 134 }
+}

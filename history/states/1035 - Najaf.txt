@@ -1,0 +1,23 @@
+state = { 
+	id = 1035 
+	name = "STATE_1035" 
+	manpower = 902375 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = IQT 
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 2 
+			air_base = 1 
+			7982 = { naval_base = 4 }
+		}
+		
+		add_core_of = IQT 
+		add_core_of = IRQ 
+	}
+	provinces = { 13383 }
+}

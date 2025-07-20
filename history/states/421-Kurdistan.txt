@@ -6,7 +6,7 @@ state = {
 	state_category = rural 
 	local_supplies = 0 
 	history = { 
-		owner = PER 
+		owner = IRO 
 		
 		buildings = { 
 			infrastructure = 1 }

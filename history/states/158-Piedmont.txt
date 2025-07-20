@@ -37,7 +37,7 @@ state = {
 				arms_factory = 10 
 				industrial_complex = 2 
 				dockyard = 3 
-				6788 = { naval_facility = 1 # Genoa Facilities  
+				6788 = { naval_facility = 1 # Genoa Facilities      
 				}
 			}
 		}

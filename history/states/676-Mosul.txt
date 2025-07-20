@@ -19,5 +19,5 @@ state = {
 		add_core_of = KUR 
 		add_core_of = ASY 
 	}
-	provinces = { 1600 1938 6826 8123 10793 12372 }
+	provinces = { 1600 1938 6826 8123 12372 }
 }

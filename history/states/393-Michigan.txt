@@ -31,7 +31,7 @@ state = {
 			
 			buildings = { 
 				industrial_complex = 7 
-				6710 = { land_facility = 1 # Detroit Arsenal  
+				6710 = { land_facility = 1 # Detroit Arsenal      
 				}
 			}
 		}

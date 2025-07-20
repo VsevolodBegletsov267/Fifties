@@ -201,9 +201,6 @@ adjacency_rule = {
 adjacency_rule = {
 	name = "DARDANELLES_STRAIT"
 
-	is_friend = {
-tur_is_friend_for_dardanelles = yes	}
-
 	contested = {
 		army = no
 		navy = no

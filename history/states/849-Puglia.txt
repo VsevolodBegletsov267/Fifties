@@ -18,9 +18,9 @@ state = {
 			industrial_complex = 1 
 			dockyard = 4 
 			air_base = 5 
-			9784 = { #Bari  
+			9784 = { #Bari      
 				naval_base = 3 }
-			11837 = { #Taranto  
+			11837 = { #Taranto      
 				naval_base = 10 }
 		}
 		

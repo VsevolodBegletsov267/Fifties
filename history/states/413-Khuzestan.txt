@@ -8,7 +8,7 @@ state = {
 	
 	resources = { oil = 28 } 
 	history = { 
-		owner = PER 
+		owner = IRO 
 		
 		victory_points = { 7953 1 }
 		

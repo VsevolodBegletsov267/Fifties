@@ -17,5 +17,5 @@ state = {
 		
 		add_core_of = BRS 
 	}
-	provinces = { 1631 }
+	provinces = { 1631 13382 13384 13385 13386 13387 }
 }

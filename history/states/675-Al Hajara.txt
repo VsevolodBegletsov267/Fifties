@@ -6,7 +6,7 @@ state = {
 	state_category = wasteland 
 	local_supplies = 0 
 	history = { 
-		owner = IRQ 
+		owner = MBR 
 		
 		victory_points = { 12879 1 }
 		

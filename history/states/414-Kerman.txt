@@ -6,7 +6,7 @@ state = {
 	state_category = wasteland 
 	local_supplies = 0 
 	history = { 
-		owner = PER 
+		owner = IRO 
 		
 		victory_points = { 10913 1 }
 		
@@ -15,5 +15,5 @@ state = {
 		
 		add_core_of = PER 
 	}
-	provinces = { 1986 10913 11249 12809 }
+	provinces = { 10913 11249 12809 }
 }

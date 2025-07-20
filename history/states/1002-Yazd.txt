@@ -6,8 +6,9 @@ state = {
 	state_category = rural 
 	local_supplies = 0 
 	history = { 
-		owner = PER 
+		owner = IRO 
 		
+		victory_points = { 4928 1 }
 		victory_points = { 8031 1 }
 		
 		buildings = { 
@@ -15,5 +16,5 @@ state = {
 		
 		add_core_of = PER 
 	}
-	provinces = { 8031 1963 10828 }
+	provinces = { 1963 4928 8031 10828 }
 }

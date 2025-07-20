@@ -27,7 +27,7 @@ state = {
 			
 			buildings = { 
 				dockyard = 1 
-				911 = { naval_facility = 1 # Toulon arsenal  
+				911 = { naval_facility = 1 # Toulon arsenal      
 				}
 			}
 		}
