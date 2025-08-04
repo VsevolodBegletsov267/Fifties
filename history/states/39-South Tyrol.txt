@@ -19,5 +19,5 @@ state = {
 		add_core_of = LBV 
 		add_core_of = AUS 
 	}
-	provinces = { 6675 9630 11615 }
+	provinces = { 9630 11615 }
 }

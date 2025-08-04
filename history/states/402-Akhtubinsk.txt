@@ -9,7 +9,7 @@ state = {
 	
 	resources = { chromium = 15 } 
 	history = { 
-		owner = SOV 
+		owner = KAZ 
 		
 		victory_points = { 7341 1 }
 		

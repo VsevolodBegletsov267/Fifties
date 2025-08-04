@@ -8,7 +8,7 @@ state = {
 	
 	resources = { oil = 9 } 
 	history = { 
-		owner = SOV 
+		owner = DAG 
 		
 		victory_points = { 3672 5 }
 		

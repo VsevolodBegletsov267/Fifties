@@ -43,5 +43,4 @@ characters = {
 			traits = {}
         }
 	}
-
 }

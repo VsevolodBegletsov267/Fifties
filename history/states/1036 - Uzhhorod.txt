@@ -1,0 +1,23 @@
+state = { 
+	id = 1036 
+	name = "STATE_1036" 
+	manpower = 47345 
+	
+	state_category = town 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = SLO 
+		
+		victory_points = { 11691 2 }
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 1 
+			air_base = 1 
+		}
+		
+		add_core_of = SLO 
+	}
+	provinces = { 11691 }
+}

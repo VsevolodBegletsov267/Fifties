@@ -8,8 +8,6 @@ state = {
 	history = { 
 		owner = ITA 
 		
-		victory_points = { 9598 1 }
-		
 		buildings = { 
 			infrastructure = 2 }
 		
@@ -17,5 +15,5 @@ state = {
 		add_core_of = LBV 
 		add_claim_by = AUS 
 	}
-	provinces = { 656 6631 9598 11598 }
+	provinces = { 6631 6675 }
 }

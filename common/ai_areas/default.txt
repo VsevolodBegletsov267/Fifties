@@ -1,0 +1,312 @@
+areas = {
+	suez = {
+		strategic_regions = {
+			128
+			28
+		}
+	}
+
+	scandinavia = {
+		strategic_regions = {
+			11
+			191
+			10
+			192
+			276
+			12
+			13
+			277
+			278
+		}
+	}
+
+	italy = {
+		strategic_regions = {
+			23
+			21
+		}
+	}
+
+	sardinia = {
+		strategic_regions = {
+			169
+		}
+	}
+
+	albania = {
+		strategic_regions = {
+			24
+		}
+	}
+
+	greater_balkans = {
+		strategic_regions = {
+			24
+			25
+			26
+		}
+	}
+
+	UK = {
+		strategic_regions = {
+			1
+			2
+			3
+			4
+		}
+	}
+
+	UK_excluding_ni = {
+		strategic_regions = {
+			1
+			2
+			3
+		}
+	}
+
+	north_africa = {
+		strategic_regions = {
+			128
+			225
+			126
+			182
+		}
+	}
+
+	torch_landing_zone = {
+		strategic_regions = {
+			126
+			182
+		}
+	}
+
+	vichy_mainland = {
+		strategic_regions = {
+			20
+		}
+	}
+
+	europe = {
+		continents = {
+			europe
+		}
+	}
+
+	mainland_europe = {
+		strategic_regions = {
+			208
+			19
+			20
+			5
+			41
+			209
+			210
+			23
+			21
+			7
+			6
+			8
+			22
+			38
+			39
+			37
+			27
+			24
+			26
+			25
+		}
+	}
+
+	normandy_landing_zone = {
+		strategic_regions = {
+			208
+			20
+			19
+		}
+	}
+
+	north_america = {
+		continents = {
+			north_america
+		}
+	}
+
+	south_america = {
+		continents = {
+			south_america
+		}
+	}
+
+	africa = {
+		continents = {
+			africa
+		}
+	}
+
+	asia = {
+		continents = {
+			asia
+		}
+	}
+
+	middle_east = {
+		continents = {
+			middle_east
+		}
+	}
+
+	pacific = {
+		strategic_regions = {
+			105
+			180
+			97
+			32
+			84
+			95
+			94
+			177
+			172
+			78
+			109
+			160
+			83
+			167
+			91
+			178
+			179
+		}
+	}
+
+	oceania = {
+		strategic_regions = {
+			156
+			157
+			86
+			98
+			81
+			194
+			84
+			193
+		}
+	}
+
+	home_islands = {
+		strategic_regions = {
+			76
+			154
+			160
+		}
+	}
+
+	just_philippines = {
+		strategic_regions = {
+			160
+		}
+	}
+
+	east_indies = {
+		strategic_regions = {
+			167
+			93
+			158
+			159
+			187
+		}
+	}
+
+	burma = {
+		strategic_regions = {
+			189
+			142
+			141
+			295
+			294
+			293
+			292
+		}
+	}
+
+	horn_of_africa = {
+		strategic_regions = {
+			17
+			273
+			274
+		}
+	}
+
+	east_africa = {
+		strategic_regions = {
+			216
+			17
+			273
+			274
+			217
+			185
+			181
+		}
+	}
+
+	defend_moscow_zone = {
+		strategic_regions = {
+			133
+			150
+			137
+		}
+	}
+
+	belgian_congo = {
+		strategic_regions = {
+			227
+			271
+			272
+		}
+	}
+
+	just_finland = {
+		strategic_regions = {
+			13
+			277
+			278
+		}
+	}
+
+	just_norway = {
+		strategic_regions = {
+			11
+			191
+		}
+	}
+
+	just_denmark_excluding_greenland = {
+		strategic_regions = {
+			275
+		}
+	}
+
+	just_iceland = {
+		strategic_regions = {
+			161
+		}
+	}
+
+	winter_war_front = {
+		strategic_regions = {
+			132
+			13
+			265
+		}
+	}
+
+	andaman_islands = {
+		strategic_regions = {
+			101
+		}
+	}
+
+	japan = {
+		strategic_regions = {
+			282
+		}
+	}
+
+}

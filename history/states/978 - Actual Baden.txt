@@ -11,7 +11,6 @@ state = {
 	history = { 
 		owner = GER 
 		
-		victory_points = { 3530 10 }
 		victory_points = { 6712 1 }
 		victory_points = { 11640 1 }
 		
@@ -37,13 +36,11 @@ state = {
 			buildings = { 
 				arms_factory = 3 
 				industrial_complex = 2 
-				#Westwall Forts
-				3530 = { bunker = 2 }
 				6542 = { bunker = 2 }
 				6712 = { bunker = 2 }
 				11640 = { bunker = 2 }
 			}
 		}
 	}
-	provinces = { 3530 3679 3692 6542 6568 6712 11640 }
+	provinces = { 3679 3692 6542 6712 11640 }
 }

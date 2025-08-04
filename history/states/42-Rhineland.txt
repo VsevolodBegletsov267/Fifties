@@ -25,5 +25,5 @@ state = {
 		add_core_of = GER 
 		add_core_of = RHI 
 	}
-	provinces = { 563 3423 3558 9575 11531 11547 }
+	provinces = { 563 3558 9575 11531 11547 }
 }

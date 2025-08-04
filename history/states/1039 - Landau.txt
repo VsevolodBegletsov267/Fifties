@@ -1,0 +1,29 @@
+state = { 
+	id = 1039 
+	name = "STATE_1039" 
+	manpower = 125623 
+	
+	state_category = town 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = RHI 
+		
+		victory_points = { 3530 10 }
+		
+		buildings = { 
+			infrastructure = 2 }
+		
+		add_core_of = RHI 
+		
+		
+		1939.1.1 = { 
+			
+			buildings = { 
+				#Westwall Forts
+				3530 = { bunker = 2 }
+			}
+		}
+	}
+	provinces = { 3530 6568 }
+}
