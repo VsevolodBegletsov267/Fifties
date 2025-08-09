@@ -10,6 +10,7 @@ state = {
 		owner = DAG 
 		
 		victory_points = { 3530 10 }
+		victory_points = { 6701 3 }
 		victory_points = { 7624 1 }
 		
 		buildings = { 
@@ -18,5 +19,5 @@ state = {
 		add_core_of = DAG 
 		add_core_of = SOV 
 	}
-	provinces = { 1450 3711 4463 7554 7624 9645 }
+	provinces = { 1450 3668 3711 4463 6701 7554 7624 9645 }
 }

@@ -16,9 +16,10 @@ state = {
 			infrastructure = 2 
 			industrial_complex = 1 
 			arms_factory = 1 
+			310 = { bunker = 2 }
 		}
 		
 		add_core_of = LAT 
 	}
-	provinces = { 265 3255 3525 6222 6342 11358 }
+	provinces = { 265 310 3255 3525 6222 6342 11358 }
 }

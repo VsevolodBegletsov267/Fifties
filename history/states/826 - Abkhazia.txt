@@ -9,6 +9,7 @@ state = {
 	history = { 
 		owner = GEO 
 		
+		victory_points = { 9663 1 }
 		victory_points = { 11617 1 }
 		
 		buildings = { 
@@ -19,5 +20,5 @@ state = {
 		add_core_of = GEO 
 		add_core_of = ABK 
 	}
-	provinces = { 672 11599 11617 11647 }
+	provinces = { 672 9663 11599 11617 11647 }
 }
