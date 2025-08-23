@@ -11,20 +11,12 @@ state = {
 		victory_points = { 7530 1 }
 		victory_points = { 10497 1 }
 		victory_points = { 12476 1 }
+		victory_points = { 12387 1 }
 		
 		buildings = { 
-			infrastructure = 1 }
+			infrastructure = 1 
+		}
 		
-		if = { 
-			limit = { has_dlc = "Battle for the Bosporus" }
-			add_core_of = KUR 
-		}
-		if = { 
-			limit = {  NOT = { has_dlc = "Battle for the Bosporus" }
-			}
-			add_core_of = TUR 
-			add_core_of = KUR 
-		}
 	}
-	provinces = { 864 1463 7530 10497 12318 12476 }
+	provinces = { 864 1463 7530 10497 12318 12387 12476 }
 }

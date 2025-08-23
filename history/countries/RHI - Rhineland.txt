@@ -35,6 +35,8 @@ recruit_character = RHI_robert_ley
 recruit_character = RHI_viktor_lutze
 recruit_character = RHI_fernand_de_brinon
 
+set_cosmetic_tag = RHI_french_protectorate 
+
 set_politics = {
 	ruling_party = radical_socialism
 	last_election = "1936.1.1"

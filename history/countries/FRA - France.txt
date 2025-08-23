@@ -349,6 +349,15 @@ recruit_character = FRA_joseph_bethenod
 
 recruit_character = FRA_pierre_clementi
 
+set_autonomy = {
+    target = RHI
+    autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+    target = FLA
+    autonomy_state = autonomy_puppet
+}
+
 if = {
 	limit = {
 		OR = {

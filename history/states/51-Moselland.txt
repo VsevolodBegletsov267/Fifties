@@ -1,29 +1,28 @@
 state = { 
 	id = 51 
 	name = "STATE_51" 
-	manpower = 6144743 
+	manpower = 4237456
 	
 	state_category = megalopolis #was metropolis, 2 slots diff
 	local_supplies = 0 
 	
-	resources = { steel = 35 } 
+	resources = { steel = 18 } 
 	history = { 
 		owner = RHI 
 		
 		victory_points = { 587 5 }
-		victory_points = { 6469 10 }
 		victory_points = { 11435 1 }
 		
 		# Bitburg
 		buildings = { 
-			infrastructure = 4 
+			infrastructure = 3
 			arms_factory = 3 
-			industrial_complex = 4 
-			air_base = 3 
+			industrial_complex = 2
+			air_base = 2
 		}
 		
 		add_core_of = GER 
 		add_core_of = RHI 
 	}
-	provinces = { 529 587 3423 3444 3512 3547 6469 6570 9482 9522 11435 11470 11494 }
+	provinces = { 587 3423 3444 3547 9522 11435 11470 11494 }
 }

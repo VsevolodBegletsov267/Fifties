@@ -8,20 +8,19 @@ state = {
 	history = { 
 		owner = GER 
 		
-		victory_points = { 279 1 }
 		victory_points = { 3295 5 }
 		victory_points = { 9263 5 }
 		
 		# Bydgoszcz
 		buildings = { 
 			infrastructure = 3 
-			arms_factory = 2 
-			industrial_complex = 1 
-			air_base = 2 
+			arms_factory = 1
+			air_base = 1
 			9263 = { naval_base = 1 }
 		}
 		
+		add_claim_by = GER
 		add_core_of = POL 
 	}
-	provinces = { 243 279 334 389 3295 3324 6347 9263 }
+	provinces = { 334 389 3324 9263 }
 }

@@ -1,0 +1,11 @@
+RHI_french_protectorate = {
+	color = rgb { 13 69 181 }
+	color_ui = rgb { 13 69 181 }
+}
+FLA_french_protectorate = {
+	color = rgb { 8 73 204 }
+	color_ui = rgb { 8 73 204 }
+}
+
+
+
