@@ -252,6 +252,16 @@ spriteTypes = {
 		texturefile = "gfx/leaders/HUN/HUN_ferenc_nagy.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_HUN_George_Soros_kingdom"
+		texturefile = "gfx/leaders/HUN/HUN_George_Soros_kingdom.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_HUN_George_Soros_eurasia"
+		texturefile = "gfx/leaders/HUN/HUN_George_Soros_eurasia.png"
+	}
+	
 	### SWI
 	
 	spriteType = {

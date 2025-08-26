@@ -118,9 +118,9 @@ if = {
 		mtg_transport = 1
 	}
 }
-
+set_cosmetic_tag = SPR_timed
 set_politics = {
-	ruling_party = democratic
+	ruling_party = radical_socialism
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes

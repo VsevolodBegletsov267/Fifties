@@ -20,6 +20,7 @@ if = {
 		}
 	}
 }
+set_cosmetic_tag = POR_timed
 
 set_research_slots = 3
 

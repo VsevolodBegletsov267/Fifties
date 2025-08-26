@@ -13,4 +13,18 @@ characters = {
 			expire="1965.1.1.1"
         }
 	}
+	
+	HUN_George_Soros = {
+		name = HUN_George_Soros
+		portraits = {
+			civilian = {
+				large = GFX_portrait_HUN_George_Soros_kingdom
+			}
+		}
+		country_leader = {
+            ideology = libertarianism_subtype
+            desc = HUN_George_Soros
+			expire="1970.1.1.1"
+        }
+	}
 }

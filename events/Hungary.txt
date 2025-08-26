@@ -1,0 +1,40 @@
+add_namespace = HUN_soros
+
+country_event = {
+	id = HUN_soros.1
+	immediate = { log = "[GetDateText]: [Root.GetName]: event HUN_soros.1" }
+	title = HUN_soros.1.t
+	desc = HUN_soros.1.desc
+	picture = GFX_report_event_ORE_orenburg_city_1
+
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	option = { #
+		name = HUN_soros.1.a
+		set_cosmetic_tag = HUN_soros_kingdom
+		set_politics = {
+			ruling_party = libertarianism
+			elections_allowed = no
+		}
+		set_popularities = {
+			libertarianism = 100
+		}
+	}
+}
+country_event = {
+	id = HUN_soros.2
+	immediate = { log = "[GetDateText]: [Root.GetName]: event HUN_soros.2" }
+	title = HUN_soros.2.t
+	desc = HUN_soros.2.desc
+	picture = GFX_report_event_ORE_orenburg_city_1
+
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	option = { #
+		name = HUN_soros.2.a
+		drop_cosmetic_tag = yes
+		set_cosmetic_tag = HUN_soros_eurasia
+	}
+}

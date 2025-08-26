@@ -6,6 +6,23 @@ FLA_french_protectorate = {
 	color = rgb { 8 73 204 }
 	color_ui = rgb { 8 73 204 }
 }
+HUN_soros_kingdom = {
+	color = rgb { 204 219 42 }
+	color_ui = rgb { 204 219 42 }
+}
+HUN_soros_eurasia = {
+	color = rgb { 224 126 126 }
+	color_ui = rgb { 224 126 126 }
+}
+
+SPR_timed = {
+	color = rgb { 158 11 11 }
+	color_ui = rgb { 158 11 11 }
+}
+POR_timed = {
+	color = rgb { 4 72 176 }
+	color_ui = rgb { 4 72 176 }
+}
 
 
 
