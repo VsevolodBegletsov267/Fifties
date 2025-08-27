@@ -14,12 +14,12 @@ state = {
 		# Bydgoszcz
 		buildings = { 
 			infrastructure = 3 
-			arms_factory = 1
-			air_base = 1
+			arms_factory = 1 
+			air_base = 1 
 			9263 = { naval_base = 1 }
 		}
 		
-		add_claim_by = GER
+		add_claim_by = GER 
 		add_core_of = POL 
 	}
 	provinces = { 334 389 3324 9263 }

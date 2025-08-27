@@ -18,5 +18,5 @@ state = {
 		add_core_of = SLO 
 	}
 	# Presov
-	provinces = { 555 581 3550 3581 6586 6604 11554 }
+	provinces = { 555 581 3550 3581 6586 11554 }
 }

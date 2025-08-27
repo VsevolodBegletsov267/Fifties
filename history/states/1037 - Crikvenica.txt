@@ -15,5 +15,5 @@ state = {
 		add_core_of = AUS 
 		add_core_of = CRO 
 	}
-	provinces = { 11564 13252 }
+	provinces = { 591 11564 13252 }
 }

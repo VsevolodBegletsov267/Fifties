@@ -1,7 +1,7 @@
 state = { 
 	id = 51 
 	name = "STATE_51" 
-	manpower = 4237456
+	manpower = 4237456 
 	
 	state_category = megalopolis #was metropolis, 2 slots diff
 	local_supplies = 0 
@@ -15,10 +15,10 @@ state = {
 		
 		# Bitburg
 		buildings = { 
-			infrastructure = 3
+			infrastructure = 3 
 			arms_factory = 3 
-			industrial_complex = 2
-			air_base = 2
+			industrial_complex = 2 
+			air_base = 2 
 		}
 		
 		add_core_of = GER 

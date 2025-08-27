@@ -9,8 +9,8 @@ state = {
 		owner = GER 
 		
 		victory_points = { 564 3 }
-		victory_points = { 6488 20 }
 		victory_points = { 6444 2 }
+		victory_points = { 6488 20 }
 		
 		buildings = { 
 			infrastructure = 4 
@@ -23,7 +23,6 @@ state = {
 		add_core_of = GER 
 		add_core_of = HES 
 		add_core_of = PRE 
-		
 	}
 	provinces = { 564 589 3397 3524 6444 6488 6549 9486 9524 9547 11445 11533 }
 }

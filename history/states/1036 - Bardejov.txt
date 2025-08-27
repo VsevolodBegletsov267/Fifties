@@ -1,0 +1,21 @@
+state = { 
+	id = 1036 
+	name = "STATE_1036" 
+	manpower = 47345 
+	
+	state_category = town 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = UKR 
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 1 
+			air_base = 1 
+		}
+		
+		add_core_of = SLO 
+	}
+	provinces = { 6604 13389 }
+}

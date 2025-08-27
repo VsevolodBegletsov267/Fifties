@@ -10,13 +10,11 @@ state = {
 		
 		victory_points = { 7530 1 }
 		victory_points = { 10497 1 }
-		victory_points = { 12476 1 }
 		victory_points = { 12387 1 }
+		victory_points = { 12476 1 }
 		
 		buildings = { 
-			infrastructure = 1 
-		}
-		
+			infrastructure = 1 }
 	}
 	provinces = { 864 1463 7530 10497 12318 12387 12476 }
 }
