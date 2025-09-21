@@ -1190,3 +1190,7 @@ MBR = {
 	color = rgb { 167 192 134 }
 	color_ui = rgb { 167 192 134 }
 }
+NIS = {
+	color = rgb { 103 73 162 }
+	color_ui = rgb { 103 73 162 }
+}

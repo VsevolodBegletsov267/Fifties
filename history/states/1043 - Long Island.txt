@@ -1,0 +1,21 @@
+state = { 
+	id = 1043 
+	name = "STATE_1043" 
+	manpower = 5421024 
+	
+	state_category = town 
+	local_supplies = 0 
+	history = { 
+		owner = NIS 
+		
+		victory_points = { 859 3 }
+		
+		buildings = { 
+			infrastructure = 1 
+			industrial_complex = 1 
+		}
+		
+		add_core_of = NIS 
+	}
+	provinces = { 859 }
+}
