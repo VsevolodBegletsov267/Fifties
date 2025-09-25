@@ -1194,3 +1194,7 @@ NIS = {
 	color = rgb { 103 73 162 }
 	color_ui = rgb { 103 73 162 }
 }
+FLO = {
+	color = rgb { 213 212 200 }
+	color_ui = rgb { 213 212 200 }
+}

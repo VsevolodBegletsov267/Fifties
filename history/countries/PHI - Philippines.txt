@@ -1,0 +1,47 @@
+﻿capital = 327
+
+oob = "PHI_1936"
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+		set_air_oob = "PHI_1936_air_bba"
+	else = {
+		set_air_oob = "PHI_1936_air_legacy"
+		set_technology = {
+			early_fighter = 1
+			early_bomber = 1
+		}
+	}
+}
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+}
+
+set_convoys = 5
+
+set_cosmetic_tag = PHI_spanish_syndi
+set_politics = {
+	ruling_party = radical_socialism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	paternalism = 3
+	radical_socialism = 38
+	moderate_socialism = 2
+	social-democracy = 3
+	reactionism = 8
+	centrism = 20
+	despotism = 13
+	conservatism = 6
+	liberalism = 5
+	libertarianism = 1
+	anarchism = 1
+}

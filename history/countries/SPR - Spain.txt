@@ -118,6 +118,39 @@ if = {
 		mtg_transport = 1
 	}
 }
+
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = FLO
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.5
+	}
+	set_autonomy = {
+		target = CUB
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.5
+	}
+	set_autonomy = {
+		target = PHI
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.5
+	}
+	
+	else = {
+		puppet = FLO
+		puppet = CUB
+		puppet = PHI
+	}
+}
+
+create_faction = holy_sindicalist_union
+
 set_cosmetic_tag = SPR_timed
 set_politics = {
 	ruling_party = radical_socialism

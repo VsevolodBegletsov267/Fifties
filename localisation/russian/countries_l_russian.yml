@@ -5290,6 +5290,12 @@
  EMI_DEF: "Эмират"
  EMI_ADJ: "Эмиратск."
  NIS: "Новый Израиль"
+ FLO: "Флорида"
+ 
+ FLO_spanish_syndi: "Испанская Флорида"
+ CUB_spanish_syndi: "Испанская Вест-Индия"
+ DOM_spanish_syndi: "Испанская Доминикана"
+ PHI_spanish_syndi: "Испанский протекторат Филиппины"
  
  RHI_french_protectorate: "Французский протекторат Рейнланд"
  FLA_french_protectorate: "Французский протекторат Фландрия"

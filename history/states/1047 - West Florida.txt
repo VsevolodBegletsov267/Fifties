@@ -1,0 +1,25 @@
+state = { 
+	id = 1047 
+	name = "STATE_1047" 
+	manpower = 1564433 
+	
+	state_category = town 
+	local_supplies = 0 
+	history = { 
+		owner = FLO 
+		
+		victory_points = { 4464 1 }
+		victory_points = { 7480 1 }
+		
+		buildings = { 
+			infrastructure = 1 
+			industrial_complex = 1 
+			4464 = { naval_base = 4 }
+			7480 = { naval_base = 3 }
+			10352 = { naval_base = 1 }
+		}
+		
+		add_core_of = FLO 
+	}
+	provinces = { 492 1453 1615 4464 4650 4756 7480 7524 7668 10352 10449 10520 11942 }
+}
