@@ -6,9 +6,10 @@ state = {
 	state_category = rural 
 	local_supplies = 0 
 	history = { 
-		owner = FRA 
+		owner = ENG 
 		
 		victory_points = { 2080 1 }
+		victory_points = { 12830 1 }
 		
 		buildings = { 
 			infrastructure = 2 
@@ -19,5 +20,5 @@ state = {
 		
 		add_core_of = CMR 
 	}
-	provinces = { 2080 5036 5054 6039 7963 9137 11194 }
+	provinces = { 1993 2080 5036 5054 6008 6039 7963 8078 9137 11012 11194 12830 13396 13397 13398 }
 }

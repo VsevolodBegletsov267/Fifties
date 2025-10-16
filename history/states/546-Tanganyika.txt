@@ -9,7 +9,7 @@ state = {
 	
 	resources = { rubber = 2 } 
 	history = { 
-		owner = ENG 
+		owner = TZN 
 		
 		victory_points = { 2196 1 }
 		

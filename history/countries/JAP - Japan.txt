@@ -81,6 +81,11 @@ if = {
 }
 
 recruit_character = JAP_hirohito
+recruit_character = JAP_ryo_yamada
+recruit_character = JAP_kikuri_hiroi
+recruit_character = JAP_nijika_ijichi
+recruit_character = JAP_ikuyo_kita
+recruit_character = JAP_hitory_gotoh
 
 set_research_slots = 3
 set_convoys = 50

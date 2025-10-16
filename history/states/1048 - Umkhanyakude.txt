@@ -1,0 +1,20 @@
+state = { 
+	id = 1048 
+	name = "STATE_1048" 
+	manpower = 534978 
+	
+	state_category = town 
+	local_supplies = 0 
+	history = { 
+		owner = JAB 
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 1 
+			air_base = 1 
+		}
+		
+		add_core_of = JAB 
+	}
+	provinces = { 8178 }
+}

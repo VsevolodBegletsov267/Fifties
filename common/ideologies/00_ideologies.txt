@@ -10,6 +10,7 @@ ideologies = {
 			french_national_socialism_subtype = { }
 			national_socialist_zionism_subtype = { }
 			socialist_monarchism_subtype = { }
+			esperanto_globalism_subtype = { }
 			
 		}
 
@@ -59,6 +60,7 @@ ideologies = {
 		types = {
 			
 			moderate_socialism_subtype = { }
+			marxism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -163,6 +165,8 @@ ideologies = {
 		types = {
 
 			anarchism_subtype = { }
+			anarcho-monarchism_subtype = { }
+
 		}
 
 		dynamic_faction_names = {
@@ -208,6 +212,9 @@ ideologies = {
 			austrian_libertarianism_subtype = { }
 			objectivism_subtype = { }
 			pagan_agrarian_libertarianism_subtype = { }
+			alcoholic_libertarianism_subtype = { }
+			american_libertarianism_subtype = { }
+			
 		}
 		
 		dynamic_faction_names = {
@@ -308,6 +315,7 @@ ideologies = {
 			centrism_subtype = { }
 			liberal_conservatism_subtype = { }
 			christian_centrism_subtype = { }
+			absolute_centrism_subtype = { }
 			
 		}
 

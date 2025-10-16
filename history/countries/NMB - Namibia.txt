@@ -28,10 +28,12 @@ set_research_slots = 3
 set_convoys = 50
 set_stability = 0.75
 
+set_cosmetic_tag = NMB_german_colony
+
 recruit_character = NMB_walter_nehring
 
 set_politics = {
-	ruling_party = radical_socialism
+	ruling_party = despotism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes

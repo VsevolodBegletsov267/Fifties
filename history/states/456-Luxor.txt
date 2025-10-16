@@ -6,11 +6,9 @@ state = {
 	state_category = rural 
 	local_supplies = 0 
 	history = { 
-		owner = ENG 
+		owner = EGY 
 		
-		victory_points = { 11974 1 }
 		victory_points = { 11999 1 }
-		victory_points = { 12071 3 }
 		
 		buildings = { 
 			infrastructure = 2 
@@ -21,5 +19,5 @@ state = {
 		add_core_of = EGY 
 	}
 	# Aswan
-	provinces = { 1028 1064 1151 1206 7030 7073 7144 10028 10097 10844 11974 11999 12044 12071 12771 }
+	provinces = { 1028 1206 4910 7156 10097 10844 11999 12771 13400 13401 13404 }
 }

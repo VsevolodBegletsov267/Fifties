@@ -270,7 +270,32 @@ spriteTypes = {
 	}
 	
 	### JAP
-	
+
+	spriteType = {
+		name = "GFX_portrait_JAP_ryo_yamada_big"
+		texturefile = "gfx/leaders/JAP/JAP_ryo_yamada_big.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_JAP_kikuri_hiroi_big"
+		texturefile = "gfx/leaders/JAP/JAP_kikuri_hiroi_big.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_JAP_nijika_ijichi_big"
+		texturefile = "gfx/leaders/JAP/JAP_nijika_ijichi_big.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_JAP_ikuyo_kita"
+		texturefile = "gfx/leaders/JAP/JAP_ikuyo_kita_big.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_JAP_hitory_gotoh"
+		texturefile = "gfx/leaders/JAP/JAP_hitori_gotoh.png"
+	}
+
 	spriteType = {
 		name = "GFX_portrait_JAP_hirohito_big"
 		texturefile = "gfx/leaders/JAP/JAP_hirohito_big.png"
@@ -298,6 +323,7 @@ spriteTypes = {
 	}
 
 	### NMB 
+	
 	spriteType = {
 		name = "GFX_portrait_NMB_walter_nehring"
 		texturefile = "gfx/leaders/NMB/NMB_walter_nehring.png"

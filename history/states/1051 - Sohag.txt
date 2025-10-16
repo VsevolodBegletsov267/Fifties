@@ -1,0 +1,20 @@
+state = { 
+	id = 1051 
+	name = "STATE_1051" 
+	manpower = 127656 
+	
+	state_category = town 
+	local_supplies = 0 
+	history = { 
+		owner = EGS 
+		
+		victory_points = { 11974 1 }
+		victory_points = { 12071 3 }
+		
+		buildings = { 
+			infrastructure = 2 }
+		
+		add_core_of = EGY 
+	}
+	provinces = { 1064 1151 7030 7073 7144 10028 11974 12044 12071 13402 13403 }
+}

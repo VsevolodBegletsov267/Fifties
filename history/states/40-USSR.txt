@@ -9,6 +9,8 @@ state = {
 		owner = SOV 
 		
 		victory_points = { 1794 1 }
+		victory_points = { 7708 1 }
+		victory_points = { 12594 2 }
 		
 		buildings = { 
 			infrastructure = 1 
@@ -16,7 +18,7 @@ state = {
 		}
 		
 		add_core_of = SOV 
-		add_core_of = ALT #Could be a claim too                           
+		add_core_of = ALT #Could be a claim too                                      
 		
 		
 		1939.1.1 = { 
@@ -25,5 +27,5 @@ state = {
 				industrial_complex = 2 }
 		}
 	}
-	provinces = { 1297 1779 1794 1797 4803 7680 10537 10546 11410 12515 12528 12613 }
+	provinces = { 1297 1779 1794 1797 1864 4661 4803 4867 7680 7708 7890 10202 10537 10546 10584 11410 12515 12528 12564 12594 12613 12616 }
 }

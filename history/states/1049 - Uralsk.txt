@@ -1,0 +1,23 @@
+state = { 
+	id = 1049 
+	name = "STATE_1049" 
+	manpower = 503543 
+	
+	state_category = town 
+	local_supplies = 0 
+	history = { 
+		owner = KAZ 
+		
+		victory_points = { 3618 1 }
+		victory_points = { 11537 1 }
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 1 
+			air_base = 1 
+		}
+		
+		add_core_of = KAZ 
+	}
+	provinces = { 432 464 508 566 576 615 1318 3404 3502 3515 3618 6491 6498 6523 6551 6615 9453 9462 9469 9526 9538 9549 11442 11455 11469 11473 11510 11524 11537 11552 }
+}

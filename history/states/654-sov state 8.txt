@@ -17,5 +17,5 @@ state = {
 		add_core_of = ALT 
 	}
 	#Oyrot-Tura/Gorno-Altaysk
-	provinces = { 4781 4800 10531 10713 12509 }
+	provinces = { 1749 4781 4800 10531 10713 12427 12509 }
 }

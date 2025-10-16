@@ -5291,6 +5291,14 @@
  EMI_ADJ: "Эмиратск."
  NIS: "Новый Израиль"
  FLO: "Флорида"
+ URA: "Урал"
+ 
+ URA_yeltsin: "Союз Свободных Областей"
+ 
+ CMR_german_colony: "Немецкий Камерун"
+ TOG_german_colony: "Немецкий Тоголенд"
+ NMB_german_colony: "Немецкая Юго-Западная Африка"
+ TZN_german_colony: "Немецкая Юго-Восточная Африка"
  
  FLO_spanish_syndi: "Испанская Флорида"
  CUB_spanish_syndi: "Испанская Вест-Индия"

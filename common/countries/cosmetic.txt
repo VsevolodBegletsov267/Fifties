@@ -39,6 +39,26 @@ PHI_spanish_syndi = {
 	color = rgb { 168 28 33 }
 	color_ui = rgb { 168 28 33 }
 }
+URA_yeltsin = {
+	color = rgb { 140 223 171 }
+	color_ui = rgb { 140 223 171 }
+}
+CMR_german_colony = {
+	color = rgb { 121 121 121 }
+	color_ui = rgb { 121 121 121 }
+}
+TOG_german_colony = {
+	color = rgb { 139 139 139 }
+	color_ui = rgb { 139 139 139 }
+}
+NMB_german_colony = {
+	color = rgb { 159 159 159 }
+	color_ui = rgb { 159 159 159 }
+}
+TZN_german_colony = {
+	color = rgb { 134 134 134 }
+	color_ui = rgb { 134 134 134 }
+}
 
 
 

@@ -15,4 +15,73 @@ characters = {
         }
 	}
 
+	JAP_hitory_gotoh = {
+		name = JAP_hitory_gotoh
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JAP_hitory_gotoh_big
+			}
+		}
+		country_leader = {
+			ideology = absolute_centrism_subtype
+			desc = JAP_hitory_gotoh_desc
+			expire="1965.1.1.1"
+		}
+	}
+
+	JAP_ikuyo_kita = {
+		name = JAP_ikuyo_kita
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JAP_ikuyo_kita_big
+			}
+		}
+		country_leader = {
+			ideology = anarcho-monarchism_subtype
+			desc = JAP_ikuyo_kita_desc
+			expire="1965.1.1.1"
+		}
+	}
+
+	JAP_nijika_ijichi = {
+		name = JAP_nijika_ijichi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JAP_nijika_ijichi_big
+			}
+		}
+		country_leader = {
+			ideology = utopian_anarchism_subtype
+			desc = JAP_nijika_ijichi_desc
+			expire="1965.1.1.1"
+		}
+	}
+
+	JAP_kikuri_hiroi = {
+		name = JAP_kikuri_hiroi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JAP_kikuri_hiroi_big
+			}
+		}
+		country_leader = {
+			ideology = alcoholic_libertarianism_subtype
+			desc = JAP_kikuri_hiroi_desc
+			expire="1965.1.1.1"
+		}
+	}
+
+	JAP_ryo_yamada = {
+		name = JAP_ryo_yamada
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JAP_ryo_yamada_big
+			}
+		}
+		country_leader = {
+			ideology = social-minarchism_subtype
+			desc = JAP_ryo_yamada_desc
+			expire="1965.1.1.1"
+		}
+	}
 }

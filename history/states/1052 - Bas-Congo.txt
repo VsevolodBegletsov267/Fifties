@@ -1,0 +1,25 @@
+state = { 
+	id = 1052 
+	name = "STATE_1052" 
+	manpower = 1185764 
+	
+	state_category = town 
+	local_supplies = 0 
+	history = { 
+		owner = POR 
+		
+		victory_points = { 5117 5 }
+		victory_points = { 12925 2 }
+		victory_points = { 13365 1 }
+		
+		buildings = { 
+			infrastructure = 1 
+			industrial_complex = 1 
+			10968 = { naval_base = 1 coastal_bunker = 2 bunker = 2 }
+		}
+		
+		add_core_of = POR 
+		add_core_of = COG 
+	}
+	provinces = { 5117 10968 12925 13365 }
+}
