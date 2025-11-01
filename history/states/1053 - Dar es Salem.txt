@@ -1,0 +1,25 @@
+state = { 
+	id = 1053 
+	name = "STATE_1053" 
+	manpower = 2322321 
+	
+	state_category = town 
+	local_supplies = 0 
+	history = { 
+		owner = DES 
+		
+		victory_points = { 2196 1 }
+		
+		buildings = { 
+			infrastructure = 3 
+			industrial_complex = 2 
+			naval_base = 1 
+			arms_factory = 1 
+			2196 = { naval_base = 2 }
+		}
+		
+		add_core_of = TZN 
+		add_core_of = DES 
+	}
+	provinces = { 2196 }
+}

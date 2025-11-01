@@ -59,6 +59,14 @@ TZN_german_colony = {
 	color = rgb { 134 134 134 }
 	color_ui = rgb { 134 134 134 }
 }
+DES_german_tanzania = {
+	color = rgb { 130 130 130 }
+	color_ui = rgb { 130 130 130 }
+}
+MGH_german_tanzania = {
+	color = rgb { 145 145 145 }
+	color_ui = rgb {  145 145 145 }
+}
 
 
 

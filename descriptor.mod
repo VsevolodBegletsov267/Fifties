@@ -24,4 +24,4 @@ tags={
 }
 name="Fifties"
 supported_version="1.16.*"
-path="C:/Users/Alexa/Documents/Paradox Interactive/Hearts of Iron IV/mod/Fifties"
+path="C:/Users/ChurchhellaKom/Documents/Paradox Interactive/Hearts of Iron IV/mod/Fifties"

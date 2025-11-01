@@ -16,5 +16,5 @@ state = {
 		
 		add_core_of = MLW 
 	}
-	provinces = { 2255 12908 12986 13209 }
+	provinces = { 2255 12986 13209 }
 }

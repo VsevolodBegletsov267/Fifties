@@ -1210,3 +1210,11 @@ EGS = {
 	color = rgb { 189 51 51 }
 	color_ui = rgb { 189 51 51 }
 }
+DES = {
+	color = rgb { 204 229 255 }
+	color_ui = rgb { 204 229 255 }
+}
+MGH = {
+	color = rgb { 255 205 255 }
+	color_ui = rgb { 255 205 255 }
+}

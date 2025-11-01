@@ -339,6 +339,7 @@ ASY = "countries/Assyria.txt"
 BHR = "countries/Bahrain.txt"
 IMO = "countries/Omani Imamate.txt"
 BLC = "countries/Balochistan.txt"
+
 SAA = "countries/Saar.txt"
 FLA = "countries/Flanders.txt"
 BRR = "countries/British Radicals.txt"
@@ -365,6 +366,8 @@ FLO = "countries/Florida.txt"
 URA = "countries/Ural.txt"
 JAB = "countries/Japanese Businessmen.txt"
 EGS = "countries/Egyptian Socialists.txt"
+DES = "countries/Dar es Salaam.txt"
+MGH = "countries/Medical Unit GH.txt"
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")
 
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")
