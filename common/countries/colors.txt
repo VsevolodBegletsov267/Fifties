@@ -225,8 +225,8 @@ PRU = {
 	color_ui = rgb { 255 286 295 }
 }
 SAF = {
-	color = rgb { 195 147 200 }
-	color_ui = rgb { 238 209 248 }
+	color = rgb { 202 161 148 }
+	color_ui = rgb { 202 161 148 }
 }
 SAU = {
 	color = rgb { 211 190 192 }
@@ -1217,4 +1217,8 @@ DES = {
 MGH = {
 	color = rgb { 255 205 255 }
 	color_ui = rgb { 255 205 255 }
+}
+NRH = {
+	color = rgb { 135 156 133 }
+	color_ui = rgb { 135 156 133 }
 }

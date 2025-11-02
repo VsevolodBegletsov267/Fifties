@@ -9,12 +9,10 @@ state = {
 	history = { 
 		owner = ENG 
 		
-		victory_points = { 10929 1 }
-		
 		buildings = { 
 			infrastructure = 2 }
 		
 		add_core_of = ZIM 
 	}
-	provinces = { 1874 2151 2216 4851 7842 10929 13407 13409 }
+	provinces = { 2151 4851 7842 13407 13409 13412 }
 }

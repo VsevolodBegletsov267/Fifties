@@ -328,5 +328,40 @@ spriteTypes = {
 		name = "GFX_portrait_NMB_walter_nehring"
 		texturefile = "gfx/leaders/NMB/NMB_walter_nehring.png"
 	}
+	
+	### SAF
+	
+	spriteType = {
+		name = "GFX_portrait_SAF_gascoyne-cecil_big"
+		texturefile = "gfx/leaders/SAF/SAF_gascoyne-cecil_big.png"
+	}
+	
+	### TZN
+	
+	spriteType = {
+		name = "GFX_portrait_TZN_herbert_backe_big"
+		texturefile = "gfx/leaders/TZN/TZN_herbert_backe_big.png"
+	}
+	
+	### DES
+	
+	spriteType = {
+		name = "GFX_portrait_DES_max-erwin_von_schoibner-richter_big"
+		texturefile = "gfx/leaders/DES/DES_max-erwin_von_schoibner-richter_big.png"
+	}
+	
+	### MGH
+	
+	spriteType = {
+		name = "GFX_portrait_MGH_carl_gebhardt_big"
+		texturefile = "gfx/leaders/MGH/MGH_carl_gebhardt_big.png"
+	}
+	
+	### NRH
+	
+	spriteType = {
+		name = "GFX_portrait_NRH_ian_smith_big"
+		texturefile = "gfx/leaders/NRH/NRH_ian_smith_big.png"
+	}
 
 }

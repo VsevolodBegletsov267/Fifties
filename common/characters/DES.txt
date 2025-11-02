@@ -1,0 +1,16 @@
+characters = {
+
+	DES_max-erwin_von_schoibner-richter = {
+		name = DES_max-erwin_von_schoibner-richter
+		portraits = {
+			civilian = {
+				large = GFX_portrait_DES_max-erwin_von_schoibner-richter_big
+			}
+		}
+		country_leader = {
+            ideology = despotism_subtype
+            desc = DES_max-erwin_von_schoibner-richter
+			expire="1965.1.1.1"
+        }
+	}
+}

@@ -11,18 +11,16 @@ state = {
 		owner = ENG 
 		
 		victory_points = { 1468 3 }
-		victory_points = { 4696 1 }
 		
 		buildings = { 
 			infrastructure = 3 
 			industrial_complex = 2 
 			air_base = 1 
 			1468 = { naval_base = 2 }
-			4696 = { naval_base = 2 }
 		}
 		
 		add_core_of = ENG 
 		add_core_of = SAF 
 	}
-	provinces = { 1468 1494 1833 4556 4584 4696 7576 7900 }
+	provinces = { 1468 1494 1833 4556 4584 7576 7900 }
 }

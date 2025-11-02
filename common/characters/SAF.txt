@@ -1,0 +1,16 @@
+characters = {
+
+	SAF_gascoyne-cecil = {
+		name = SAF_gascoyne-cecil
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SAF_gascoyne-cecil_big
+			}
+		}
+		country_leader = {
+            ideology = centrism_subtype
+            desc = SAF_gascoyne-cecil
+			expire="1965.1.1.1"
+        }
+	}
+}

@@ -1,0 +1,16 @@
+characters = {
+
+	NRH_ian_smith = {
+		name = NRH_ian_smith
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NRH_ian_smith_big
+			}
+		}
+		country_leader = {
+            ideology = despotism_subtype
+            desc = NRH_ian_smith
+			expire="1965.1.1.1"
+        }
+	}
+}

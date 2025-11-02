@@ -85,6 +85,9 @@ set_convoys = 50
 set_stability = 0.75
 
 set_cosmetic_tag = DES_german_tanzania
+
+recruit_character = DES_max-erwin_von_schoibner-richter
+
 set_politics = {
 	ruling_party = despotism
 	last_election = "1936.1.1"

@@ -1,0 +1,22 @@
+state = { 
+	id = 1056 
+	name = "STATE_1056" 
+	manpower = 1324342 
+	
+	state_category = town 
+	local_supplies = 0 
+	history = { 
+		owner = NRH 
+		
+		victory_points = { 10929 1 }
+		
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 2 
+			arms_factory = 1 
+		}
+		
+		add_core_of = NRH 
+	}
+	provinces = { 1874 2216 10929 13413 13414 }
+}

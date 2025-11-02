@@ -85,6 +85,9 @@ set_convoys = 50
 set_stability = 0.75
 
 set_cosmetic_tag = MGH_german_tanzania
+
+recruit_character = MGH_carl_gebhardt
+
 set_politics = {
 	ruling_party = despotism
 	last_election = "1936.1.1"

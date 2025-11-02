@@ -1,0 +1,16 @@
+characters = {
+
+	MGH_carl_gebhardt = {
+		name = MGH_carl_gebhardt
+		portraits = {
+			civilian = {
+				large = GFX_portrait_MGH_carl_gebhardt_big
+			}
+		}
+		country_leader = {
+            ideology = despotism_subtype
+            desc = MGH_carl_gebhardt
+			expire="1965.1.1.1"
+        }
+	}
+}

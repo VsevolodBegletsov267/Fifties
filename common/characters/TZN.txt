@@ -1,0 +1,16 @@
+characters = {
+
+	TZN_herbert_backe = {
+		name = TZN_herbert_backe
+		portraits = {
+			civilian = {
+				large = GFX_portrait_TZN_herbert_backe_big
+			}
+		}
+		country_leader = {
+            ideology = despotism_subtype
+            desc = TZN_herbert_backe
+			expire="1965.1.1.1"
+        }
+	}
+}
