@@ -6,7 +6,7 @@ state = {
 	state_category = rural 
 	local_supplies = 14 
 	history = { 
-		owner = AND 
+		owner = SPR 
 		
 		victory_points = { 13377 10 }
 		
@@ -14,6 +14,7 @@ state = {
 			infrastructure = 1 }
 		
 		add_core_of = AND 
+		add_core_of = SPR
 	}
 	# Gileppe Dam
 	provinces = { 13377 }

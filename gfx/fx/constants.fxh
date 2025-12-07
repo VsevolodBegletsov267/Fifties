@@ -11,7 +11,7 @@ Code
 // --------------------------------------------------------------
 // ------------------    Light          -------------------------
 // --------------------------------------------------------------
-static const float NIGHT_AMBIENT_BOOST = 3.0f; // can just be baked into the below later ye?
+static const float NIGHT_AMBIENT_BOOST = 0.2f; // can just be baked into the below later ye?
 
 
 static const float3 DayAmbientMapPosX = float3(0.1, 0.1, 0.05);  // right
@@ -87,11 +87,11 @@ static const float 	SNOW_FROST_MIN_EFFECT  		= 0.4f;
 static const float3 ICE_COLOR 					= float3( 0.5f, 0.6f, 0.9f );
 static const float 	ICE_NOISE_TILING  			= 0.1f; //0.068f;
 
-static const float WATER_COLOR_LIGHTNESS = 0.5;
+static const float WATER_COLOR_LIGHTNESS = 0.6;
 static const float WATER_RIPPLE_EFFECT = 0.0025;
 
-static const float COLORMAP_OVERLAY_STRENGTH 	= 0.1f;
-static const float COLORMAP_MUD_OVERLAY_STRENGTH = 0.3f;
+static const float COLORMAP_OVERLAY_STRENGTH 	= 1.0f;
+static const float COLORMAP_MUD_OVERLAY_STRENGTH = 1.0f;
 
 static const float3 FAKE_CUBEMAP_COLOR 			= float3(0.0f, 0.0f, 0.0f);
 
@@ -234,9 +234,9 @@ static const float PARTICLE_FADE_STOP_DISTANCE = 350;
 // --------------------------------------------------------------
 // -------------    RIM LIGHT (PDXMESH)   -----------------------
 // --------------------------------------------------------------
-static const float 	RIM_START 		= 0.55f;
+static const float 	RIM_START 		= 0.25f;
 static const float 	RIM_END 		= 0.6f;
-static const float4 RIM_COLOR 		= float4( 0.3f, 0.3f, 0.3f, 0.0f );
+static const float4 RIM_COLOR 		= float4( 0.1f, 0.1f, 0.1f, 0.0f );
 
 
 // --------------------------------------------------------------

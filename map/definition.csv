@@ -2253,7 +2253,7 @@
 2252;11;37;236;sea;false;ocean;0
 2253;11;38;244;sea;false;ocean;0
 2254;11;40;232;sea;false;ocean;0
-2255;11;40;236;lake;false;lakes;5
+2255;11;40;236;lake;false;lakes;0
 2256;12;0;240;sea;true;ocean;0
 2257;12;2;248;sea;true;ocean;0
 2258;12;4;236;sea;true;ocean;0
@@ -2279,7 +2279,7 @@
 2278;12;37;240;sea;false;ocean;0
 2279;12;38;248;sea;false;ocean;0
 2280;12;40;236;sea;false;ocean;0
-2281;12;40;240;lake;false;lakes;5
+2281;12;40;240;lake;false;lakes;0
 2282;13;0;244;sea;true;ocean;0
 2283;13;2;232;sea;false;ocean;0
 2284;13;4;240;sea;true;ocean;0
@@ -2306,7 +2306,7 @@
 2305;13;37;244;sea;false;ocean;0
 2306;13;38;232;sea;false;ocean;0
 2307;13;40;240;sea;false;ocean;0
-2308;13;40;244;lake;false;lakes;5
+2308;13;40;244;lake;false;lakes;0
 2309;14;0;248;sea;true;ocean;0
 2310;14;2;236;sea;false;ocean;0
 2311;14;4;244;sea;true;ocean;0
@@ -13133,7 +13133,7 @@
 13132;251;235;162;lake;false;lakes;0
 13133;67;60;225;lake;false;lakes;0
 13134;245;202;253;lake;false;lakes;3
-13135;158;239;15;lake;false;lakes;5
+13135;158;239;15;lake;false;lakes;0
 13136;113;142;204;lake;false;lakes;0
 13137;151;30;108;lake;false;lakes;5
 13138;191;135;77;lake;false;lakes;5
@@ -13171,7 +13171,7 @@
 13170;103;49;206;lake;false;lakes;0
 13171;193;137;179;lake;false;lakes;0
 13172;229;61;74;lake;false;lakes;0
-13173;101;33;178;lake;false;lakes;5
+13173;101;33;178;lake;false;lakes;0
 13174;15;170;21;lake;false;lakes;0
 13175;20;5;54;lake;false;lakes;0
 13176;230;234;25;lake;false;lakes;0
@@ -13407,10 +13407,11 @@
 13406;131;49;188;land;false;hills;5
 13407;218;168;184;land;false;plains;5
 13408;204;121;234;land;false;mountain;5
-13409;80;150;108;land;false;unknown;0
-13410;144;215;238;land;false;unknown;0
-13411;131;18;131;land;false;unknown;0
+13409;80;150;108;land;false;plains;5
+13410;144;215;238;land;false;desert;5
+13411;131;18;131;land;false;mountain;5
 13412;164;69;231;land;false;hills;5
 13413;149;12;92;land;false;hills;5
 13414;143;172;99;land;false;forest;5
 13415;198;219;132;land;false;desert;5
+13416;2;224;79;land;false;mountain;5

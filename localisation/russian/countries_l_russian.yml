@@ -321,6 +321,7 @@
  SPR_ADJ: "Испанск"
  SPR_subject: "$OVERLORDADJ$ая $SPR$"
  SPR_subject_DEF: "$OVERLORDADJ$ая $SPR$"
+ ITA_radical_socialism: "Социалистическое Королевство Италия"
  ITA_fascism: "Италия"
  ITA_fascism_DEF: "Италия"
  ITA_democratic: "Итальянская Республика"
@@ -5295,6 +5296,8 @@
  NRH: "Северная Родезия"
  
  URA_yeltsin: "Союз Свободных Областей"
+ 
+ PAP_crusade_x: "Десятый Крестовый поход"
  
  CMR_german_colony: "Немецкий Камерун"
  TOG_german_colony: "Немецкий Тоголенд"
