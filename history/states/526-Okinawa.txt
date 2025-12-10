@@ -5,6 +5,8 @@ state = {
 	
 	state_category = small_island 
 	local_supplies = 0 
+	
+	resources = { coal = 4 } 
 	history = { 
 		owner = JAP 
 		

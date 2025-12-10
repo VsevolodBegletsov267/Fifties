@@ -11,8 +11,7 @@ state = {
 		victory_points = { 4901 3 }
 		victory_points = { 7969 5 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = PER 
 		add_core_of = AZR 

@@ -6,6 +6,8 @@ state = {
 	state_category = town 
 	buildings_max_level_factor = 1 
 	local_supplies = 9 
+	
+	resources = { coal = 2 } 
 	history = { 
 		owner = POL 
 		
@@ -22,8 +24,7 @@ state = {
 		
 		1939.1.1 = { 
 			
-			buildings = { 
-				air_base = 3 }
+			buildings = { air_base = 3 }
 		}
 	}
 	provinces = { 3521 3559 6484 6580 9452 9521 9544 11399 11466 }

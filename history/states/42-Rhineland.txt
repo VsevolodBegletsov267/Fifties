@@ -9,6 +9,7 @@ state = {
 	resources = { 
 		steel = 50 
 		aluminium = 14 
+		coal = 14 
 	} 
 	history = { 
 		owner = RHI 

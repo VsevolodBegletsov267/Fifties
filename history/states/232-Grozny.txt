@@ -10,8 +10,7 @@ state = {
 	history = { 
 		owner = SOV 
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		# Derbent
 		add_core_of = SOV 

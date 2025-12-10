@@ -25,8 +25,7 @@ state = {
 		
 		1939.1.1 = { 
 			
-			buildings = { 
-				anti_air_building = 5 }
+			buildings = { anti_air_building = 5 }
 		}
 	}
 	provinces = { 281 348 395 3384 6332 11265 }

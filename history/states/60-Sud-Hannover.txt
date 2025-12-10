@@ -10,6 +10,7 @@ state = {
 		steel = 9 
 		chromium = 3 
 		tungsten = 3 
+		coal = 8 
 	} 
 	history = { 
 		owner = GER 

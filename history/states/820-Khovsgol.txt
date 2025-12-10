@@ -12,8 +12,7 @@ state = {
 		victory_points = { 7676 1 }
 		victory_points = { 7717 2 }
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		#Erdenet, was in 1834 before
 		add_core_of = MON 

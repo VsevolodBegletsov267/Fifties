@@ -9,6 +9,7 @@ state = {
 	resources = { 
 		steel = 24 
 		aluminium = 8 
+		coal = 30 
 	} 
 	history = { 
 		owner = FRA 
@@ -29,8 +30,7 @@ state = {
 		
 		1939.1.1 = { 
 			
-			buildings = { 
-				industrial_complex = 6 }
+			buildings = { industrial_complex = 6 }
 		}
 	}
 	provinces = { 575 3476 3536 6504 9500 11483 11548 11606 }

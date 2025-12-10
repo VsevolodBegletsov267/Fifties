@@ -11,8 +11,7 @@ state = {
 		
 		victory_points = { 3933 1 }
 		
-		buildings = { 
-			infrastructure = 3 }
+		buildings = { infrastructure = 3 }
 		
 		add_core_of = NAV 
 		add_core_of = SPR 

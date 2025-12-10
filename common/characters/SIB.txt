@@ -1,0 +1,16 @@
+characters = {
+
+	SIB_egor_ligachev = {
+		name = SIB_egor_ligachev
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SIB_egor_ligachev_big
+			}
+		}
+		country_leader = {
+            ideology = moderate_socialism_subtype
+            desc = SIB_egor_ligachev
+			expire="1965.1.1.1"
+        }
+	}
+}

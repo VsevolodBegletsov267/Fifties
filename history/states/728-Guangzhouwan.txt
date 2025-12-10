@@ -5,6 +5,8 @@ state = {
 	
 	state_category = enclave 
 	local_supplies = 0 
+	
+	resources = { coal = 6 } 
 	history = { 
 		owner = FRA 
 		

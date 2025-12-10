@@ -11,8 +11,7 @@ state = {
 		victory_points = { 741 1 }
 		victory_points = { 3757 2 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = UKR 
 		add_core_of = MOL 
@@ -20,8 +19,7 @@ state = {
 		
 		1939.1.1 = { 
 			
-			buildings = { 
-				industrial_complex = 2 }
+			buildings = { industrial_complex = 2 }
 		}
 	}
 	provinces = { 741 754 3757 9576 }

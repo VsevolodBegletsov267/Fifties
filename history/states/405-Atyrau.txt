@@ -24,8 +24,7 @@ state = {
 		
 		1939.1.1 = { 
 			
-			buildings = { 
-				industrial_complex = 3 }
+			buildings = { industrial_complex = 3 }
 		}
 	}
 	provinces = { 1459 4629 7682 10488 11687 }

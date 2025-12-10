@@ -9,6 +9,7 @@ state = {
 	resources = { 
 		rubber = 75 
 		oil = 5 
+		coal = 2 
 	} 
 	history = { 
 		owner = INS 
@@ -16,7 +17,7 @@ state = {
 		victory_points = { 10237 1 }
 		
 		buildings = { 
-			infrastructure = 1  
+			infrastructure = 1 
 			1316 = { naval_base = 1 }
 			10237 = { naval_base = 3 }
 			10325 = { naval_base = 1 }

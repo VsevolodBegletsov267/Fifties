@@ -1,7 +1,7 @@
 state = { 
 	id = 823 
 	name = "STATE_823" #Karakalpakstan
-	manpower = 258430 #Was 516860 but was divided by 2 due to Khiva (831) becoming a new state 
+	manpower = 258430 #Was 516860 but was divided by 2 due to Khiva (831) becoming a new state
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
@@ -11,8 +11,7 @@ state = {
 		
 		victory_points = { 1614 1 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = SOV 
 		add_core_of = UZB 

@@ -11,6 +11,7 @@ state = {
 		owner = ISA 
 		
 		victory_points = { 9833 25 }
+		victory_points = { 11811 1 }
 		
 		buildings = { 
 			infrastructure = 3 

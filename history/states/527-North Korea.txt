@@ -9,6 +9,7 @@ state = {
 	resources = { 
 		steel = 18 
 		tungsten = 28 
+		coal = 7 
 	} 
 	history = { 
 		owner = JAP 

@@ -7,7 +7,10 @@ state = {
 	buildings_max_level_factor = 1 
 	local_supplies = 12 
 	
-	resources = { tungsten = 10 } 
+	resources = { 
+		tungsten = 10 
+		coal = 3 
+	} 
 	history = { 
 		owner = SPR 
 		

@@ -12,8 +12,7 @@ state = {
 		victory_points = { 560 1 }
 		victory_points = { 3392 1 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = UKR 
 		add_core_of = BLR 

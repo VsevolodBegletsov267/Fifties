@@ -10,8 +10,7 @@ state = {
 		
 		victory_points = { 6310 1 }
 		
-		buildings = { 
-			infrastructure = 3 }
+		buildings = { infrastructure = 3 }
 		
 		add_core_of = SWE 
 	}

@@ -6,7 +6,10 @@ state = {
 	state_category = metropolis 
 	local_supplies = 0 
 	
-	resources = { steel = 41 } 
+	resources = { 
+		steel = 41 
+		coal = 13 
+	} 
 	history = { 
 		owner = GER 
 		

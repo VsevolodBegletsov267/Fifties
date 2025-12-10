@@ -11,8 +11,7 @@ state = {
 		
 		victory_points = { 12557 1 }
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		#Choibalsan
 		add_core_of = MON 

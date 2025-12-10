@@ -9,6 +9,7 @@ state = {
 	resources = { 
 		steel = 8 
 		aluminium = 6 
+		coal = 25 
 	} 
 	history = { 
 		owner = GER 
@@ -17,8 +18,7 @@ state = {
 		victory_points = { 11467 5 }
 		
 		# Oppeln
-		buildings = { 
-			infrastructure = 3 }
+		buildings = { infrastructure = 3 }
 		
 		add_core_of = GER 
 		add_core_of = SIL 

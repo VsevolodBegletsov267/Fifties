@@ -5,13 +5,14 @@ state = {
 	
 	state_category = city 
 	local_supplies = 10 
+	
+	resources = { coal = 82 } 
 	history = { 
 		owner = SOV 
 		
 		victory_points = { 6474 10 }
 		
-		buildings = { 
-			infrastructure = 3 }
+		buildings = { infrastructure = 3 }
 		
 		add_core_of = UKR 
 		add_core_of = SOV 

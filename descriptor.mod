@@ -18,10 +18,10 @@ replace_path="history/countries"
 replace_path="history/states"
 replace_path="gfx/flags"
 replace_path="events"
-version="0.1"
+version="1.0"
 tags={
 	"Alternative History"
 }
 name="Fifties"
 supported_version="1.16.*"
-path="C:/Users/ChurchhellaKom/Documents/Paradox Interactive/Hearts of Iron IV/mod/Fifties"
+path="C:/Users/docto/OneDrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/Fifties"

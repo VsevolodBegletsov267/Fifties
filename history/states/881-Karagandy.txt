@@ -6,11 +6,12 @@ state = {
 	state_category = pastoral 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	
+	resources = { coal = 6 } 
 	history = { 
 		owner = KAZ 
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		#victory_points = {
 		#	7597 1

@@ -10,11 +10,10 @@ state = {
 		
 		victory_points = { 13377 10 }
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		add_core_of = AND 
-		add_core_of = SPR
+		add_core_of = SPR 
 	}
 	# Gileppe Dam
 	provinces = { 13377 }

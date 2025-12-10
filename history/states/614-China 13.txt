@@ -5,11 +5,12 @@ state = {
 	
 	state_category = town 
 	local_supplies = 0 
+	
+	resources = { coal = 5 } 
 	history = { 
 		owner = CHI 
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = CHI 
 		add_core_of = PRC 

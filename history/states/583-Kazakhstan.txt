@@ -11,8 +11,7 @@ state = {
 		
 		victory_points = { 10312 1 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = KAZ 
 		add_core_of = SOV 

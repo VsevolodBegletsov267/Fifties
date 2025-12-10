@@ -6,7 +6,10 @@ state = {
 	state_category = rural 
 	local_supplies = 0 
 	
-	resources = { chromium = 12 } 
+	resources = { 
+		chromium = 12 
+		coal = 3 
+	} 
 	history = { 
 		owner = MOR 
 		

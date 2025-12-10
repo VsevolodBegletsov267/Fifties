@@ -9,6 +9,7 @@ state = {
 		owner = POL 
 		
 		victory_points = { 279 1 }
+		victory_points = { 3295 5 }
 		
 		# Bydgoszcz
 		buildings = { 
@@ -20,5 +21,5 @@ state = {
 		
 		add_core_of = POL 
 	}
-	provinces = { 279 243 3295 6347 }
+	provinces = { 243 279 3295 6347 }
 }

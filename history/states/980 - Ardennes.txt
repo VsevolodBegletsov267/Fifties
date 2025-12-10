@@ -6,7 +6,10 @@ state = {
 	state_category = rural 
 	local_supplies = 14 
 	
-	resources = { steel = 9 } 
+	resources = { 
+		steel = 9 
+		coal = 7 
+	} 
 	history = { 
 		owner = FRA 
 		

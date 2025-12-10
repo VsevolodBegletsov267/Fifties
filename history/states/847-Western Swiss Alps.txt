@@ -15,5 +15,5 @@ state = {
 		
 		add_core_of = SWI 
 	}
-	provinces = { 636 9587 3612 9618 }
+	provinces = { 636 3612 9587 9618 }
 }

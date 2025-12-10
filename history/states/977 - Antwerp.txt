@@ -8,6 +8,8 @@ state = {
 	#}
 	state_category = metropolis 
 	local_supplies = 0 
+	
+	resources = { coal = 2 } 
 	history = { 
 		owner = FLA 
 		
@@ -25,5 +27,5 @@ state = {
 		add_core_of = BEL 
 		add_core_of = FLA 
 	}
-	provinces = { 6598 9574 13068 11419 }
+	provinces = { 6598 9574 11419 13068 }
 }

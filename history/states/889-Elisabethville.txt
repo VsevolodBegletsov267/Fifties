@@ -7,14 +7,16 @@ state = {
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
 	
-	resources = { tungsten = 2 } 
+	resources = { 
+		tungsten = 2 
+		coal = 4 
+	} 
 	history = { 
 		owner = BEL 
 		
 		victory_points = { 191 2 }
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		if = { 
 			limit = { has_dlc = "Gotterdammerung" }

@@ -11,8 +11,7 @@ state = {
 		victory_points = { 1822 2 }
 		victory_points = { 7604 1 }
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		add_core_of = PER 
 		add_core_of = KUR 

@@ -12,11 +12,10 @@ state = {
 		victory_points = { 11371 1 }
 		
 		#Sligo
-		buildings = { 
-			infrastructure = 3 }
+		buildings = { infrastructure = 3 }
 		
 		add_core_of = IRE 
-		add_core_of = BRR
+		add_core_of = BRR 
 	}
 	provinces = { 337 3396 9255 9303 9321 9369 11238 11287 11371 }
 }

@@ -5,6 +5,8 @@ state = {
 	
 	state_category = city 
 	local_supplies = 0 
+	
+	resources = { coal = 8 } 
 	history = { 
 		owner = USA 
 		
@@ -20,8 +22,7 @@ state = {
 		
 		1939.1.1 = { 
 			
-			buildings = { 
-				industrial_complex = 4 }
+			buildings = { industrial_complex = 4 }
 		}
 	}
 	provinces = { 860 1587 4594 4622 5059 7422 7640 10192 11509 12735 12803 }

@@ -12,8 +12,7 @@ state = {
 		victory_points = { 6571 1 }
 		victory_points = { 11691 2 }
 		
-		buildings = { 
-			infrastructure = 3 }
+		buildings = { infrastructure = 3 }
 		
 		# Uzhhorod
 		add_core_of = SLO 

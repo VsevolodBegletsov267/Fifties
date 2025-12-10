@@ -11,8 +11,7 @@ state = {
 		victory_points = { 9989 1 }
 		victory_points = { 10061 2 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		#Sidi Barrani
 		add_core_of = EGY 

@@ -6,7 +6,10 @@ state = {
 	state_category = megalopolis #was metropolis, 2 slots diff
 	local_supplies = 0 
 	
-	resources = { steel = 18 } 
+	resources = { 
+		steel = 18 
+		coal = 60 
+	} 
 	history = { 
 		owner = RHI 
 		

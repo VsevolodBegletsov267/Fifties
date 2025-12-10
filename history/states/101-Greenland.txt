@@ -6,7 +6,10 @@ state = {
 	state_category = wasteland 
 	local_supplies = 0 
 	
-	resources = { aluminium = 10 } 
+	resources = { 
+		aluminium = 10 
+		coal = 1 
+	} 
 	history = { 
 		owner = DEN 
 		

@@ -9,6 +9,7 @@ state = {
 		owner = TUR 
 		
 		victory_points = { 784 1 }
+		victory_points = { 3870 5 }
 		victory_points = { 6807 3 }
 		victory_points = { 9861 5 }
 		

@@ -16,8 +16,7 @@ state = {
 		victory_points = { 2195 1 }
 		victory_points = { 5165 1 }
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		add_core_of = PAR 
 		add_core_of = BOL 

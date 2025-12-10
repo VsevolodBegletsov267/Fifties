@@ -9,12 +9,10 @@ state = {
 	history = { 
 		owner = DAG 
 		
-		victory_points = { 3530 10 }
 		victory_points = { 6701 3 }
 		victory_points = { 7624 1 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = DAG 
 		add_core_of = SOV 

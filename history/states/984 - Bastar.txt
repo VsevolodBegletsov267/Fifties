@@ -8,8 +8,7 @@ state = {
 	history = { 
 		owner = RAJ 
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 	}
-	provinces = { 7465 1622 12490 12241 12420 4557 1579 10469 }
+	provinces = { 1579 1622 4557 7465 10469 12241 12420 12490 }
 }

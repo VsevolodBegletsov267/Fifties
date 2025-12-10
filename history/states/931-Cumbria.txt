@@ -16,8 +16,7 @@ state = {
 		victory_points = { 11332 3 }
 		
 		#Carlisle
-		buildings = { 
-			infrastructure = 3 }
+		buildings = { infrastructure = 3 }
 		
 		add_core_of = BRR 
 		add_core_of = ENG 

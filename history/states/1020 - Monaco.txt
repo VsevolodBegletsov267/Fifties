@@ -10,8 +10,7 @@ state = {
 		
 		victory_points = { 13379 10 }
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		add_core_of = MCO 
 	}

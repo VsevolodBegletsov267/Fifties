@@ -6,11 +6,12 @@ state = {
 	state_category = pastoral 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	
+	resources = { coal = 1 } 
 	history = { 
 		owner = MAN 
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = CHI 
 		add_core_of = MAN 

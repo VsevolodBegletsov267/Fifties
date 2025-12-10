@@ -363,5 +363,12 @@ spriteTypes = {
 		name = "GFX_portrait_NRH_ian_smith_big"
 		texturefile = "gfx/leaders/NRH/NRH_ian_smith_big.png"
 	}
+	
+	### SIB
+	
+	spriteType = {
+		name = "GFX_portrait_SIB_egor_ligachev_big"
+		texturefile = "gfx/leaders/SIB/SIB_egor_ligachev_big.png"
+	}
 
 }

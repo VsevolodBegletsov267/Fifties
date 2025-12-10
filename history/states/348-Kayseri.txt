@@ -10,10 +10,11 @@ state = {
 	history = { 
 		owner = FRT 
 		
-		victory_points = { 3870 5 }
+		victory_points = { 10056 1 }
+		victory_points = { 11746 5 }
+		victory_points = { 11810 5 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = TUR 
 		add_core_of = FRT 

@@ -17,5 +17,5 @@ state = {
 		
 		add_core_of = DAH 
 	}
-	provinces = { 10919 12874 12762 }
+	provinces = { 10919 12762 12874 }
 }

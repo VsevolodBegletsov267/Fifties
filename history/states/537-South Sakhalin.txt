@@ -6,7 +6,10 @@ state = {
 	state_category = rural 
 	local_supplies = 0 
 	
-	resources = { oil = 3 } 
+	resources = { 
+		oil = 3 
+		coal = 2 
+	} 
 	history = { 
 		owner = JAP 
 		

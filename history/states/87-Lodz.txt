@@ -20,8 +20,7 @@ state = {
 		
 		1939.1.1 = { 
 			
-			buildings = { 
-				air_base = 3 }
+			buildings = { air_base = 3 }
 		}
 	}
 	provinces = { 493 584 9439 9508 9546 11428 11515 }

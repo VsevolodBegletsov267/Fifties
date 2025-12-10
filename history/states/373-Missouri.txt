@@ -6,7 +6,10 @@ state = {
 	state_category = large_city 
 	local_supplies = 7 
 	
-	resources = { aluminium = 12 } 
+	resources = { 
+		aluminium = 12 
+		coal = 5 
+	} 
 	history = { 
 		owner = USA 
 		

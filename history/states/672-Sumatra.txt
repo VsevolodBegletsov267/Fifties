@@ -10,6 +10,7 @@ state = {
 		rubber = 150 
 		oil = 12 
 		aluminium = 28 
+		coal = 4 
 	} 
 	history = { 
 		owner = INS 

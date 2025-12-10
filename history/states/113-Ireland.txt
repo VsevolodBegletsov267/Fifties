@@ -9,6 +9,7 @@ state = {
 	resources = { 
 		aluminium = 0 
 		steel = 2 
+		coal = 1 
 	} 
 	history = { 
 		owner = BRR 
@@ -27,7 +28,7 @@ state = {
 		}
 		
 		add_core_of = IRE 
-		add_core_of = BRR
+		add_core_of = BRR 
 	}
 	provinces = { 285 303 369 3342 3359 7377 11293 11303 }
 }

@@ -11,8 +11,7 @@ state = {
 		
 		victory_points = { 4927 1 }
 		
-		buildings = { 
-			infrastructure = 2 }
+		buildings = { infrastructure = 2 }
 		
 		add_core_of = MLI 
 	}

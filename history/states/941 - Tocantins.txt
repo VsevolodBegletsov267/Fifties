@@ -11,8 +11,7 @@ state = {
 		
 		victory_points = { 5151 1 }
 		
-		buildings = { 
-			infrastructure = 0 }
+		buildings = { infrastructure = 0 }
 		
 		add_core_of = BRA 
 	}

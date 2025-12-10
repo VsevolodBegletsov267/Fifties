@@ -6,6 +6,8 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	
+	resources = { coal = 5 } 
 	history = { 
 		owner = CAN 
 		

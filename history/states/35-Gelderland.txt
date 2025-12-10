@@ -6,6 +6,8 @@ state = {
 	state_category = city 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	
+	resources = { coal = 12 } 
 	history = { 
 		owner = HOL 
 		

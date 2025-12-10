@@ -28,8 +28,7 @@ state = {
 		
 		1939.1.1 = { 
 			
-			buildings = { 
-				dockyard = 2 }
+			buildings = { dockyard = 2 }
 		}
 	}
 	provinces = { 958 3762 11834 11849 11875 }

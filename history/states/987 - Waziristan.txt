@@ -8,8 +8,7 @@ state = {
 	history = { 
 		owner = RAJ 
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		add_core_of = NWF 
 		add_core_of = PAK 

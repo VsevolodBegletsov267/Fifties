@@ -5,6 +5,8 @@ state = {
 	
 	state_category = town 
 	local_supplies = 0 
+	
+	resources = { coal = 16 } 
 	history = { 
 		owner = SOV 
 		

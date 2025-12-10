@@ -10,8 +10,7 @@ state = {
 		
 		victory_points = { 13376 10 }
 		
-		buildings = { 
-			infrastructure = 1 }
+		buildings = { infrastructure = 1 }
 		
 		add_core_of = PAP 
 		add_core_of = ITA 
