@@ -1321,3 +1321,7 @@ NRH = {
 	color = rgb { 135 156 133 }
 	color_ui = rgb { 135 156 133 }
 }
+NAR = {
+	color = rgb { 111 95 118 }
+	color_ui = rgb { 111 95 118 }
+}
