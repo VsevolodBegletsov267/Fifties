@@ -17,7 +17,7 @@ state = {
 		}
 		
 		add_core_of = ALG 
-		add_core_of = NAR
+		add_core_of = NAR 
 	}
 	provinces = { 1058 1160 4046 7065 7081 7166 9976 10078 11953 12051 13077 }
 }

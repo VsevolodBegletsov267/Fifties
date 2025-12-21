@@ -1,0 +1,17 @@
+characters = {
+
+	LIB_hussein_maziq = {
+		name = LIB_hussein_maziq
+		portraits = {
+			civilian = {
+				large = GFX_portrait_LIB_hussein_maziq_big
+			}
+		}
+		country_leader = {
+            ideology = islamic_progressivism_subtype
+            desc = LIB_hussein_maziq
+			expire="1965.1.1.1"
+        }
+	}
+
+}

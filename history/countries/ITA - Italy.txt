@@ -766,6 +766,8 @@ set_popularities = {
 }
 
 recruit_character = ITA_amadeo_bordiga
+recruit_character = ITA_giacomo_matteotti
+recruit_character = ITA_giuseppe_saragat
 
 ########################################
 ##### MISSIOLINIS - TRIGGER EVENTS #####

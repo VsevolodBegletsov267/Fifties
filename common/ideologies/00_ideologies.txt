@@ -316,6 +316,7 @@ ideologies = {
 			liberal_conservatism_subtype = { }
 			christian_centrism_subtype = { }
 			absolute_centrism_subtype = { }
+			teodemocracy_subtype = { }
 			
 		}
 

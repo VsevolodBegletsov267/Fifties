@@ -1,0 +1,30 @@
+characters = {
+
+	IDE_alexander_kazembek = {
+		name = IDE_alexander_kazembek
+		portraits = {
+			civilian = {
+				large = GFX_portrait_IDE_alexander_kazembek_big
+			}
+		}
+		country_leader = {
+            ideology = teodemocracy_subtype
+            desc = IDE_alexander_kazembek
+			expire="1965.1.1.1"
+        }
+	}
+	
+	IDE_valeriy_yemelyanov = {
+		name = IDE_valeriy_yemelyanov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_IDE_valeriy_yemelyanov_big
+			}
+		}
+		country_leader = {
+            ideology = islamic_socialism_subtype
+            desc = IDE_valeriy_yemelyanov
+			expire="1965.1.1.1"
+        }
+	}
+}

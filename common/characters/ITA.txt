@@ -13,5 +13,35 @@ characters = {
 			expire="1965.1.1.1"
         }
 	}
+	
+	ITA_giacomo_matteotti = {
+		name = ITA_giacomo_matteotti
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ITA_giacomo_matteotti_big
+				small = GFX_portrait_ITA_giacomo_matteotti_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = {}
+        }
+	}
+	
+	ITA_giuseppe_saragat = {
+		name = ITA_giuseppe_saragat
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ITA_giuseppe_saragat_big
+				small = GFX_portrait_ITA_giuseppe_saragat_small
+			}
+		}
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			traits = {}
+        }
+	}
 
 }
