@@ -1,0 +1,75 @@
+add_namespace = portrait_picker
+
+country_event = { #Alice_portrait
+	id = portrait_picker.1
+	title = portrait_picker.1.t 
+	desc = portrait_picker.1.d 
+	picture = GFX_alice_rosenbaum_Portrait_Event
+
+	is_triggered_only = yes
+	
+	option = {
+		name = portrait_picker.1.a
+		hidden_effect = {		
+			set_country_leader_portrait = { portrait = "gfx/leaders/SOV/SOV_alice_rosenbaum_mother.png" }
+			remove_country_leader_trait = elite_puppet
+			remove_country_leader_trait = victory_of_feminism
+			remove_country_leader_trait = shock_therapist
+			retire_country_leader = yes
+			retire_ideology_leader = despotism
+		}
+		add_country_leader_role = {
+			character = SOV_alice_rosenbaum
+			promote_leader = yes
+			country_leader = {
+				ideology = development_dictatorship_subtype
+				expire = "1965.1.1.1"
+				traits = { objectivism_subtype mammy_of_russia dictatorship_without_pleasure }
+			}
+		}
+		set_politics = { ruling_party = despotism }		
+	}
+	option = {
+		name = portrait_picker.1.b
+		hidden_effect = {
+			set_country_leader_portrait = { portrait = "gfx/leaders/SOV/SOV_alice_rosenbaum_puppet.png" }
+			remove_country_leader_trait = mammy_of_russia
+			remove_country_leader_trait = dictatorship_without_pleasure
+			remove_country_leader_trait = shock_therapist
+			remove_country_leader_trait = victory_of_feminism
+			retire_country_leader = yes
+			retire_ideology_leader = liberalism
+		}
+		add_country_leader_role = {
+			character = SOV_alice_rosenbaum
+			promote_leader = yes
+			country_leader = {
+				ideology = authoritarian_liberalism_subtype
+				expire = "1965.1.1.1"
+				traits = { elite_puppet }
+			}
+		}
+		set_politics = { ruling_party = liberalism }
+	}
+	option = {
+		name = portrait_picker.1.c
+		set_country_leader_portrait = { portrait = "gfx/leaders/SOV/SOV_alice_rosenbaum_shock.png" }
+		hidden_effect = {
+			remove_country_leader_trait = mammy_of_russia
+			remove_country_leader_trait = dictatorship_without_pleasure
+			remove_country_leader_trait = elite_puppet
+			retire_country_leader = yes
+			retire_ideology_leader = libertarianism
+		}
+		add_country_leader_role = {
+			character = SOV_alice_rosenbaum
+			promote_leader = yes
+			country_leader = {
+				ideology = austrian_libertarianism_subtype
+				expire = "1965.1.1.1"
+				traits = { shock_therapist victory_of_feminism}
+			}
+		}
+		set_politics = { ruling_party = libertarianism }
+	}
+}

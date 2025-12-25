@@ -24,6 +24,15 @@ defined_text = {
 		localization_key = austrian_libertarianism_subtype
 	}
 	
+	#liberalism
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = authoritarian_liberalism_subtype
+		}
+		localization_key = authoritarian_liberalism_subtype
+	}
+	
 	#radical_socialism
 	
 	text = {
@@ -61,6 +70,15 @@ defined_text = {
 			has_country_leader_ideology = papacy_subtype
 		}
 		localization_key = papacy_subtype
+	}
+	
+	#despotism
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = development_dictatorship_subtype
+		}
+		localization_key = development_dictatorship_subtype
 	}
 	
 	#centrism

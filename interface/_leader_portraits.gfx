@@ -216,8 +216,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_portrait_SOV_alice_rosenbaum"
+		name = "GFX_portrait_SOV_alice_rosenbaum_big"
 		texturefile = "gfx/leaders/SOV/SOV_alice_rosenbaum.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SOV_alice_rosenbaum_small"
+		texturefile = "gfx/leaders/SOV/SOV_alice_rosenbaum_small.png"
 	}
 	
 	spriteType = {

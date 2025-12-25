@@ -264,6 +264,7 @@ ideologies = {
 		types = {
 
 			liberalism_subtype = { }
+			authoritarian_liberalism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -463,6 +464,7 @@ ideologies = {
 
 			despotism_subtype = { }
 			estado_novo_subtype = { }
+			development_dictatorship_subtype = { }
 		}
 		
 		dynamic_faction_names = {

@@ -1,0 +1,25 @@
+political_actions = {
+	SOV_alice_rosenbaum_Picker = {
+		icon = GFX_decision_portraits_picker
+		allowed = { 
+			tag = SOV
+		}
+		visible = {
+			has_country_leader = {
+				name = "Алиса Розенбаум"
+				ruling_only = yes
+			}
+		}
+		cost = 0
+		fire_only_once = no
+		days_re_enable = 1
+		ai_will_do = {
+			factor = 0
+		}
+		
+		complete_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision SOV_alice_rosenbaum_Picker"
+			country_event = portrait_picker.1
+		}
+	}
+}

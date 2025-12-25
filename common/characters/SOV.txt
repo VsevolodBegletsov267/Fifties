@@ -18,13 +18,20 @@ characters = {
 		name = SOV_alice_rosenbaum
 		portraits = {
 			civilian = {
-				large = GFX_portrait_SOV_alice_rosenbaum
+				large = GFX_portrait_SOV_alice_rosenbaum_big
+				small = GFX_portrait_SOV_alice_rosenbaum_small
 			}
 		}
 		country_leader = {
             ideology = objectivism_subtype
             desc = SOV_alice_rosenbaum
 			expire="1965.1.1.1"
+        }
+		advisor = {
+            slot = political_advisor
+			#ledger = civilian
+			desc = SOV_alice_rosenbaum_desc
+			traits = { enemy_of_totalitarism }
         }
 	}
 	
