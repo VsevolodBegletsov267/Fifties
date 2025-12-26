@@ -46,14 +46,14 @@ set_politics = {
 set_popularities = {
 	paternalism = 5
 	radical_socialism = 4
-	moderate_socialism = 3
+	moderate_socialism = 2
 	social-democracy = 5
 	reactionism = 13
 	centrism = 14
 	despotism = 12
 	conservatism = 7
-	liberalism = 34
-	libertarianism = 2
+	liberalism = 3
+	libertarianism = 34
 	anarchism = 1
 }
 
