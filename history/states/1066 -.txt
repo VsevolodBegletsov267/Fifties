@@ -1,0 +1,22 @@
+state = { 
+	id = 1066 
+	name = "STATE_1066" 
+	manpower = 303125
+	
+	state_category = pastoral 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	
+	resources = {  } 
+	history = { 
+		owner = DAG 
+		
+		victory_points = {  }
+		
+		buildings = { infrastructure = 2 }
+		
+		add_core_of = SOV 
+		add_core_of = DAG 
+	}
+	provinces = { 6702 6718 6733 11633 11661 11690 }
+}

@@ -9,7 +9,7 @@ state = {
 	
 	resources = { chromium = 8 } 
 	history = { 
-		owner = SOV 
+		owner = DAG 
 		
 		victory_points = { 9628 3 }
 		
@@ -17,6 +17,7 @@ state = {
 		
 		add_core_of = SOV 
 		add_core_of = NOA 
+		add_core_of = DAG
 	}
 	provinces = { 9628 9647 11609 }
 }

@@ -15,10 +15,11 @@ state = {
 		#victory_points = {
 		#	7350 1 # Kurchatov
 		#}
+		victory_points = { 4867 2 }
 		buildings = { infrastructure = 2 }
 		
 		add_core_of = KAZ 
 		add_core_of = SOV 
 	}
-	provinces = { 1287 1818 4674 7350 10161 10218 10292 10610 10653 12635 13151 }
+	provinces = { 1287 1818 4674 4867 7350 10161 10218 10292 10584 10610 10653 12564 12635 13151 }
 }

@@ -8,7 +8,7 @@ state = {
 	
 	resources = { oil = 10 } 
 	history = { 
-		owner = SOV 
+		owner = DAG 
 		
 		buildings = { infrastructure = 2 }
 		

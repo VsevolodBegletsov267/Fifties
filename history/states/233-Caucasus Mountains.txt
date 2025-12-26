@@ -15,5 +15,5 @@ state = {
 		
 		add_core_of = SOV 
 	}
-	provinces = { 3698 6692 6721 9649 9674 11664 }
+	provinces = { 3698 6692 6721 9674 }
 }
