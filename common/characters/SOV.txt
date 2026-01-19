@@ -24,7 +24,7 @@ characters = {
 		}
 		country_leader = {
             ideology = objectivism_subtype
-            desc = SOV_alice_rosenbaum
+            desc = SOV_alice_rosenbaum_desc
 			expire="1965.1.1.1"
         }
 		advisor = {

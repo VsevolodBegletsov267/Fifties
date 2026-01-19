@@ -79,8 +79,10 @@ leader_traits = {
 	
 	mammy_of_russia = {
 		random = no
-		monthly_population = 0.5
-		stability_weekly_factor = 0.3
+		production_factory_efficiency_gain_factor = 0.1
+		consumer_goods_factor = 0.15
+		production_speed_buildings_factor = 0.25
+		recruitable_population  = 0.2
 	}
 	dictatorship_without_pleasure = {
 		random = no
@@ -92,7 +94,7 @@ leader_traits = {
 	}
 	shock_therapist = {
 		random = no
-		political_power_factor = 0.1
+		political_power_factor = 0.05
 		mobilization_laws_cost_factor = -0.25
 		trade_laws_cost_factor = -0.25
 		economy_cost_factor = -0.25
@@ -103,7 +105,7 @@ leader_traits = {
 		random = no
 		political_power_factor = 0.05 
 		opinion_gain_monthly_factor = 0.05
-		local_manpower = 0.1
+		recruitable_population  = 0.1
 	}
 	
 	enemy_of_totalitarism = {

@@ -13,8 +13,8 @@ ENG = {
 	color_ui = rgb { 255 113 161 }
 }
 SOV = {
-	color = rgb { 100 130 106 }
-	color_ui = rgb { 100 130 106 }
+	color = rgb { 165 165 122 }
+	color_ui = rgb { 165 165 122 }
 }
 SWE = {
 	color = rgb { 76 172 247 }
