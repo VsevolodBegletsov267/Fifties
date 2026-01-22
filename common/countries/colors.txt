@@ -13,8 +13,8 @@ ENG = {
 	color_ui = rgb { 255 113 161 }
 }
 SOV = {
-	color = rgb { 165 165 122 }
-	color_ui = rgb { 165 165 122 }
+	color = rgb { 100 130 106 }
+	color_ui = rgb { 100 130 106 }
 }
 SWE = {
 	color = rgb { 76 172 247 }
@@ -1205,7 +1205,7 @@ HBC = {
 	color = rgb { 156 27 22 }
 	color_ui = rgb { 94 17 14 }
 }
-AND = {
+ADR = {
 	color = rgb { 204 165 189 }
 	color_ui = rgb { 204 165 189 }	
 }
@@ -1328,4 +1328,8 @@ NAR = {
 IDE = { 
 	color = rgb { 109 186 145 }
 	color_ui = rgb { 109 186 145 }
+}
+SMA = {
+    color = rgb { 94 153 255 }
+	color_ui = rgb { 94 153 255 }
 }
