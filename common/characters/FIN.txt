@@ -1,0 +1,16 @@
+characters = {
+
+	FIN_theodore_i = {
+		name = FIN_theodore_i
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FIN_theodore_i
+			}
+		}
+		country_leader = {
+            ideology = progressive_constitutional_monarchy_subtype
+            desc = FIN_theodore_i
+			expire="1965.1.1.1"
+        }
+	}
+}

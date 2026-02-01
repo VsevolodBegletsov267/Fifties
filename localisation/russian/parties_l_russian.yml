@@ -21,6 +21,7 @@
  ###СОЦИАЛ-ДЕМОКРАТИЯ
  social-democracy: "Социал-демократия"
  social-democracy_noun: "Социал-демократия"
+ socialist_agrarianism_subtype: "Социалистический Аграризм"
  
  ###РЕАКЦИОНИЗМ
  reactionism: "Реакционизм"
@@ -43,6 +44,10 @@
  estado_novo_subtype: "Эстадо Ново"
  
  papacy_subtype: "Папство"
+ 
+ constitutional_monarchy_subtype: "Конституционная Монархия"
+ 
+ progressive_constitutional_monarchy_subtype: "Конституционная Монархия"
  
  ###ДЕСПОТИЗМ
  despotism: "Деспотизм"

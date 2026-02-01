@@ -250,6 +250,25 @@ spriteTypes = {
 		texturefile = "gfx/leaders/SOV/SOV_dobroslav.png"
 	}
 	
+	###BLR
+	
+	spriteType = {
+		name = "GFX_portrait_BLR_nikita_i"
+		texturefile = "gfx/leaders/BLR/BLR_nikita_i.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_BLR_adolf_klimovich"
+		texturefile = "gfx/leaders/BLR/BLR_adolf_klimovich.png"
+	}
+	
+	###FIN 
+	
+	spriteType = {
+		name = "GFX_portrait_FIN_theodore_i"
+		texturefile = "gfx/leaders/FIN/FIN_theodore_i.png"
+	}
+	
 	### HUN
 	
 	spriteType = {

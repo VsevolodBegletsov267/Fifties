@@ -1,0 +1,31 @@
+characters = {
+	
+	BLR_nikita_i = {
+		name = BLR_nikita_i
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BLR_nikita_i
+			}
+		}
+		country_leader = {
+            ideology = constitutional_monarchy_subtype
+            desc = BLR_nikita_i
+			expire="1965.1.1.1"
+        }
+	}
+	
+	BLR_adolf_klimovich = {
+		name = BLR_adolf_klimovich
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BLR_adolf_klimovich
+			}
+		}
+		country_leader = {
+            ideology = christian_centrism_subtype
+            desc = BLR_adolf_klimovich
+			expire="1965.1.1.1"
+        }
+	}
+
+}

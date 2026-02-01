@@ -113,6 +113,7 @@ ideologies = {
 		types = {
 			
 			social-democracy_subtype = { }
+			socialist_agrarianism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -418,6 +419,8 @@ ideologies = {
 
 			paternalism_subtype = {	}
 			papacy_subtype = { }
+			constitutional_monarchy_subtype = { }
+			progressive_constitutional_monarchy_subtype = { }
 			
 		}
 

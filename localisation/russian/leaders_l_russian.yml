@@ -71,6 +71,15 @@
  SOV_dobroslav: "Доброслав"
  SOV_dobroslav_desc: "Самый добрый и величественный древний рус во всей нынешней руси."
  
+ ### BLR
+ 
+ BLR_nikita_i: "Никита I"
+ BLR_adolf_klimovich: "Адольф Климович"
+ 
+ ### FIN
+ 
+ FIN_theodore_i: "Теодор I"
+ 
  ### SWI
  
  SWI_walther_bringolf: "Вальтер Брингольф"

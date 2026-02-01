@@ -56,6 +56,15 @@ defined_text = {
 		localization_key = socialist_monarchism_subtype
 	}
 	
+	#social-democracy
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = socialist_agrarianism_subtype
+		}
+		localization_key = socialist_agrarianism_subtype
+	}
+	
 	#paternalism 
 	
 	text = {
@@ -70,6 +79,20 @@ defined_text = {
 			has_country_leader_ideology = papacy_subtype
 		}
 		localization_key = papacy_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = constitutional_monarchy_subtype
+		}
+		localization_key = constitutional_monarchy_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = progressive_constitutional_monarchy_subtype
+		}
+		localization_key = progressive_constitutional_monarchy_subtype
 	}
 	
 	#despotism
