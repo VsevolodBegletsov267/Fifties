@@ -367,7 +367,7 @@ HBC = "countries/Hebei-Chahar.txt"
 SAA = "countries/Saar.txt"
 FLA = "countries/Flanders.txt"
 BRR = "countries/British Radicals.txt"
-AND = "countries/Andorra.txt"
+ADR = "countries/Andorra.txt"
 LIE = "countries/Liechtenstein.txt"
 MCO = "countries/Monaco.txt"
 GRC = "countries/Greek Communists.txt"
@@ -396,6 +396,7 @@ NRH = "countries/North Rodessa.txt"
 SIB = "countries/Siberia.txt"
 NAR = "countries/North Africa Republic.txt"
 IDE = "countries/Idel-Ural.txt"
+SMA = "countries/San-Marino.txt"
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")
 
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")

@@ -12,7 +12,7 @@ state = {
 		
 		buildings = { infrastructure = 1 }
 		
-		add_core_of = AND 
+		add_core_of = ADR 
 		add_core_of = SPR 
 	}
 	# Gileppe Dam
