@@ -1,17 +1,13 @@
 state = { 
 	id = 1066 
 	name = "STATE_1066" 
-	manpower = 303125
+	manpower = 303125 
 	
 	state_category = pastoral 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	
-	resources = {  } 
 	history = { 
 		owner = DAG 
-		
-		victory_points = {  }
 		
 		buildings = { infrastructure = 2 }
 		

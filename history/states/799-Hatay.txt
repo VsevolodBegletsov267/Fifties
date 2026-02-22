@@ -6,7 +6,7 @@ state = {
 	state_category = enclave 
 	local_supplies = 0 
 	history = { 
-		owner = FRF 
+		owner = SYR 
 		
 		victory_points = { 12029 1 }
 		

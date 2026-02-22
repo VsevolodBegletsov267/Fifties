@@ -9,7 +9,7 @@ state = {
 	
 	resources = { steel = 12 } 
 	history = { 
-		owner = USA 
+		owner = NEE 
 		
 		victory_points = { 6732 20 }
 		victory_points = { 9832 1 }

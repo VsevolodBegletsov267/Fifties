@@ -248,7 +248,7 @@ PixelShader =
 			float vOpacity = cam_distance( SNOW_CAM_MIN, SNOW_CAM_MAX );
 			vOpacity = SNOW_OPACITY_MIN + vOpacity * ( SNOW_OPACITY_MAX - SNOW_OPACITY_MIN );
 
-			float vSnowAlpha = smoothstep( 0.0f, 3.0f, saturate( vIsSnow * vOpacity * 1.7 ) );
+			float vSnowAlpha = smoothstep( 0.0f, 1.0f, saturate( vIsSnow * vOpacity * 1.7 ) );
 			vColor = lerp( vColor, 
 			               lerp( saturate(SNOW_WATER_COLOR * vReflectColor), SNOW_COLOR, smoothstep(0.4, 0.75, saturate(vNoiseColor + waterSideAlpha))), 
 			               vSnowAlpha );
@@ -276,7 +276,7 @@ PixelShader =
 		
 			float3 waterColor = tex2D( WaterColor, Input.vWorldUV ).rgb;
 		#ifdef LOW_END_GFX
-			float4 diffuseColor = float4( waterColor, 0.1f );
+			float4 diffuseColor = float4( waterColor, 1.0f );
 			float2 waterSideAlpha = float2( 0, ( 1.0f - vNewUV.y ) * 0.8f );
 		#else
 			float4 diffuseColor = tex2D( Diffuse, float2( vNewUV.x, 1.0f - vNewUV.y ) );
@@ -337,7 +337,7 @@ PixelShader =
 		#endif
 		
 			// Gradient Borders
-			float gradientBorderFactor = 0.5f - gradient_border_camera_distance();
+			float gradientBorderFactor = 1.0f - gradient_border_camera_distance();
 
 			float vBloomAlpha = 0.0f;	
 		#ifndef LOW_END_GFX
@@ -352,10 +352,10 @@ PixelShader =
 			float3 reflection = reflect( vEyeDir, normal );
 			float3 reflectiveColor = texCUBE( ReflectionCubeMap, reflection ).rgb * 1.3;
 
-			float fresnelBias = 0.0f;
+			float fresnelBias = 0.5f;
 			float fresnel = saturate( dot( -vEyeDir, normal ) ) * 0.5f;
 			fresnel = saturate( fresnelBias + ( 1.0f - fresnelBias ) * pow( 1.0f - fresnel, 10.0) );
-			waterColor = waterColor * ( 0.45f - fresnel ) + reflectiveColor * fresnel;
+			waterColor = waterColor * ( 1.0f - fresnel ) + reflectiveColor * fresnel;
 
 			float3 diffuse = lerp( waterColor, diffuseColor.rgb, waterSideAlpha.x );
 			

@@ -1879,6 +1879,14 @@ SIB_ligachev = {
 	color = rgb { 178 67 67 }
 	color_ui = rgb { 178 67 67 }
 }
+JOR_british = {
+	color = rgb { 184 90 75 }
+	color_ui = rgb { 184 90 75 }
+}
+SUE_italian = {
+	color = rgb { 199 169 178 }
+	color_ui = rgb { 199 169 178 }
+}
 
 
 

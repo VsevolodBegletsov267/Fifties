@@ -7,7 +7,7 @@ state = {
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
 	history = { 
-		owner = ITA 
+		owner = SUE 
 		
 		victory_points = { 4073 3 }
 		victory_points = { 12049 5 }

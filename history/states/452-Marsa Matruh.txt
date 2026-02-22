@@ -6,7 +6,7 @@ state = {
 	state_category = wasteland 
 	local_supplies = 9 
 	history = { 
-		owner = ENG 
+		owner = KEG 
 		
 		victory_points = { 9989 1 }
 		victory_points = { 10061 2 }

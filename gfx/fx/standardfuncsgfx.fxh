@@ -497,7 +497,7 @@ PixelShader =
 	// Direct lighting
 	float3 FresnelSchlick(float3 SpecularColor, float3 E, float3 H)
 	{
-		return SpecularColor + (vec3(1.0f) - SpecularColor) * pow(1.0f - saturate(dot(E, H)), 5.0);
+		return SpecularColor + (vec3(1.0f) - SpecularColor) * pow(1.0 - saturate(dot(E, H)), 5.0);
 	}
 
 	// Indirect lighting
@@ -641,7 +641,7 @@ PixelShader =
 	//-------------------------------
 	void CalculateSunLight(LightingProperties aProperties, float aShadowTerm, float3 vLightSourceDirection, out float3 aDiffuseLightOut, out float3 aSpecularLightOut )
 	{
-		float vDayFactor = 0.6f - DayNightFactor( CalcGlobeNormal( aProperties._WorldSpacePos.xz ) );
+		float vDayFactor = 1.0f - DayNightFactor( CalcGlobeNormal( aProperties._WorldSpacePos.xz ) );
 		float vNightFactor = DayNightFactor( CalcGlobeNormal( aProperties._WorldSpacePos.xz ), MOON_FEATHER_MIN, MOON_FEATHER_MAX );
 
 		aShadowTerm = aShadowTerm * saturate( vDayFactor + vNightFactor );
@@ -842,11 +842,11 @@ PixelShader =
 		vCh = vInit;
 
 		const float PulseSpeedMult = 3.5f;
-		float FX = tex2D( gbTex2, uv ).b;
-		vStrength *= lerp( lerp( 0.45f, 1.0f, 1.0f - FX ), 1.0f, ( sin( vGlobalTime * PulseSpeedMult ) + 1.0f ) / 2 );
+		float2 FX_Alpha = tex2D( gbTex2, uv ).bg;
+		vStrength *= lerp( lerp( 0.45f, 1.0f, 1.0f - FX_Alpha.r ), 1.0f, ( sin( vGlobalTime * PulseSpeedMult ) + 1.0f ) / 2 );
 
-		float vFullWidth = 5.25f / 255.0f;//lerp( 5.25f, 0.01f, FX ) / 255.f;
-		float vGradientWidth = 0.5f / 255.0f;//lerp( 0.5f, 0.1f, FX ) / 255.f;
+		float vFullWidth = 5.25f / 255.0f;//lerp( 5.25f, 0.01f, FX_Alpha.r ) / 255.f;
+		float vGradientWidth = 0.5f / 255.0f;//lerp( 0.5f, 0.1f, FX_Alpha.r ) / 255.f;
 
 		// Grab multisampled border color
 		float4 vGBDist = gradient_border_multisample_alpha( tex2D( gbTex, uv ), gbTex, uv );
@@ -877,14 +877,10 @@ PixelShader =
 
 		vCh = lerp( vCh, vGBDist.rgb, max( vMaxGradient, vThick )* vStrength);
 
-		// Compensate the brightness since the 2nd layer is now black (not white) although it's alpha is 0
-		vCh *= 1.15f;
-		vCh = min( vCh, float3( 1, 1, 1 ) );
-
 		// Make the outline edge darker
 		vCh = lerp( vCh, vCh * .5, vThick );
 
-		return max( vMaxGradient, vThick );
+		return max( vMaxGradient, vThick ) * FX_Alpha.g;
 	}
 
 	void gradient_border_apply( inout float3 vColor, float3 vNormal, float2 vUV, 
@@ -914,12 +910,12 @@ PixelShader =
 		
 		float vAlpha1 = gradient_border_process_channel( vGradMix, vColor, vGBCamDistCh1, vNormal, vUV, TexCh1, TexCh2, vOutlineMult, vOutlineCutoff.x, GB_STRENGTH_CH1 );
 		// Now mix, the resultat with background
-		float TranspA = 1.0f - tex2D( TexCh2, vUV ).g;		
+		float TranspA = tex2D( TexCh2, vUV ).g;		
 		vColor = lerp( vColor, vGradMix, ( GB_OPACITY_NEAR + ( 1.0f - vGBCamDist ) * ( GB_OPACITY_FAR - GB_OPACITY_NEAR ) ) * TranspA );
 		
 		
 		float vAlpha2 = gradient_border_process_channel( vGradMix, vColor, vGBCamDistCh2, vNormal, vUV2, TexCh1, TexCh2, vOutlineMult, vOutlineCutoff.y, (1.0 - vAlpha1 * GB_STRENGTH_CH1 * GB_FIRST_LAYER_PRIORITY) * GB_STRENGTH_CH2 );
-		float TranspB = 1.0f - tex2D( TexCh2, vUV2 ).g;
+		float TranspB = tex2D( TexCh2, vUV2 ).g;
 		vColor = lerp( vColor, vGradMix, ( GB_OPACITY_NEAR + ( 1.0f - vGBCamDist ) * ( GB_OPACITY_FAR - GB_OPACITY_NEAR ) ) * TranspB );
 		
 	//vColor = GetOverlay( vColor, ToLinear(vGradMix), 0.80);

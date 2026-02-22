@@ -1,5 +1,5 @@
 state = { 
-	id = 1067
+	id = 1067 
 	name = "STATE_1067" 
 	manpower = 13437 
 	
@@ -11,10 +11,10 @@ state = {
 		victory_points = { 13419 5 }
 		
 		buildings = { infrastructure = 2 }
-		 
+		
 		add_core_of = ITA 
-		add_core_of = SMA
+		add_core_of = SMA 
 	}
 	# Gileppe Dam
-	provinces = { 13419  }
+	provinces = { 13419 }
 }

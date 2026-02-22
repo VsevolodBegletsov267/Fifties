@@ -29,7 +29,7 @@ PixelShader =
 		for (int i = 0; i < 4; ++i)
 		{
 			float LightIndex = LightIndices[i] * 255.0;
-			if (LightIndex >= 100.0)
+			if (LightIndex >= 255.0)
 				break;
 			
 			float4 LightData1 = tex2Dlod(LightDataSampler, float4((LightIndex * 2 + 0.5) * INV_LIGHT_DATA_TEXTURE_SIZE, 0, 0, 0));

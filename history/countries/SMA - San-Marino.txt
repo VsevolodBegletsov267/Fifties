@@ -1,4 +1,4 @@
-capital = 1018
+capital = 1067
 
 # Starting tech
 set_technology = {
@@ -85,17 +85,24 @@ set_convoys = 50
 set_stability = 0.75
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = centrism
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
-
+	elections_allowed = no
 }
+
 set_popularities = {
-	democratic = 60
-	fascism = 10
-	communism = 20
-	neutrality = 10
+	paternalism = 1
+	radical_socialism = 3
+	moderate_socialism = 20
+	social-democracy = 3
+	reactionism = 8
+	centrism = 38
+	despotism = 13
+	conservatism = 6
+	liberalism = 5
+	libertarianism = 2
+	anarchism = 1
 }
 
 add_ideas = {

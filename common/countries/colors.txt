@@ -311,8 +311,8 @@ RAJ = {
 }
 
 CRO = {
-	color = rgb { 230 110 220 }
-	color_ui = rgb { 270 255 162 }
+	color = rgb { 128 121 166 }
+	color_ui = rgb { 128 121 166 }
 }
 
 PRC = {
@@ -1322,14 +1322,31 @@ NRH = {
 	color_ui = rgb { 135 156 133 }
 }
 NAR = {
-	color = rgb { 111 95 118 }
-	color_ui = rgb { 111 95 118 }
+	color = rgb { 171 154 121 }
+	color_ui = rgb { 171 154 121 }
 }
 IDE = { 
 	color = rgb { 109 186 145 }
 	color_ui = rgb { 109 186 145 }
 }
+
 SMA = {
     color = rgb { 94 153 255 }
 	color_ui = rgb { 94 153 255 }
+}
+ALA = {
+    color = rgb { 116 139 167 }
+	color_ui = rgb { 116 139 167 }
+}
+NEE = {
+    color = rgb { 116 168 153 }
+	color_ui = rgb { 116 168 153 }
+}
+SUE = {
+    color = rgb { 184 157 110 }
+	color_ui = rgb { 184 157 110 }
+}
+KEG = {
+    color = rgb { 171 204 155 }
+	color_ui = rgb { 171 204 155 }
 }

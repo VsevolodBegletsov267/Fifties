@@ -12,7 +12,7 @@ state = {
 		steel = 3 
 	} 
 	history = { 
-		owner = ENG 
+		owner = KEG 
 		
 		victory_points = { 1071 1 }
 		victory_points = { 4076 10 }

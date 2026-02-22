@@ -11,7 +11,7 @@ Code
 // --------------------------------------------------------------
 // ------------------    Light          -------------------------
 // --------------------------------------------------------------
-static const float NIGHT_AMBIENT_BOOST = 0.2f; // can just be baked into the below later ye?
+static const float NIGHT_AMBIENT_BOOST = 3.0f; // can just be baked into the below later ye?
 
 
 static const float3 DayAmbientMapPosX = float3(0.1, 0.1, 0.05);  // right
@@ -58,7 +58,7 @@ static const float TERRAIN_WATER_CLIP_HEIGHT    = 3.0f;
 static const float TERRAIN_WATER_CLIP_CAM_HI	= 700.0f;
 static const float TERRAIN_WATER_CLIP_CAM_LO	= 50.0f;
 
-static const float MUD_TILING 					= 0.07;
+static const float MUD_TILING 					= 0.09;
 static const float MUD_NORMAL_CUTOFF 			= 10.982;
 static const float MUD_STRENGHTEN 				= 1.0;
 
@@ -87,11 +87,11 @@ static const float 	SNOW_FROST_MIN_EFFECT  		= 0.4f;
 static const float3 ICE_COLOR 					= float3( 0.5f, 0.6f, 0.9f );
 static const float 	ICE_NOISE_TILING  			= 0.1f; //0.068f;
 
-static const float WATER_COLOR_LIGHTNESS = 0.6;
+static const float WATER_COLOR_LIGHTNESS = 0.5;
 static const float WATER_RIPPLE_EFFECT = 0.0025;
 
-static const float COLORMAP_OVERLAY_STRENGTH 	= 1.0f;
-static const float COLORMAP_MUD_OVERLAY_STRENGTH = 1.0f;
+static const float COLORMAP_OVERLAY_STRENGTH 	= 0.75f;
+static const float COLORMAP_MUD_OVERLAY_STRENGTH = 0.5f;
 
 static const float3 FAKE_CUBEMAP_COLOR 			= float3(0.0f, 0.0f, 0.0f);
 
@@ -194,7 +194,7 @@ static const float  SHADOW_WEIGHT_TREE   		= 0.7f;
 
 static const float GB_CAM_MIN = 100.0f;
 static const float GB_CAM_MAX = 350.0f;
-static const float GB_CAM_MAX_FILLING_CLAMP = 1.0f; // 0 to 1 value for clamping the fill when camera is at max distance
+static const float GB_CAM_MAX_FILLING_CLAMP = 0.8f; // 0 to 1 value for clamping the fill when camera is at max distance
 static const float GB_THRESHOLD = 0.05f; // interpolation time
 static const float GB_THRESHOLD2 = 0.25f; // interpolation time
 //static const float3 GB_OUTLINE_COLOR = float3( 0.0f, 0.0f, 0.0f );
@@ -204,8 +204,8 @@ static const float GB_OPACITY_FAR = 0.85f;  // Transparency when camera is far
 static const float BORDER_NIGHT_DESATURATION_MAX = 0.2f; // how much border colors can get desaturated at night. 1.0f is full grey
 static const float BORDER_FOW_REMOVAL_FACTOR = .8f; // How much of the FOW that is removed from the borders. 1.0f is no FOW
 static const float BORDER_LIGHT_REMOVAL_FACTOR = 0.8f; // How much of the light calculations that are removed from the borders. 1.0f is no light
-static const float GB_STRENGTH_CH1 = 0.9; // Opacity of bottom layer
-static const float GB_STRENGTH_CH2 = 0.8; // Opacity of top layer
+static const float GB_STRENGTH_CH1 = 1.0; // Opacity of bottom layer
+static const float GB_STRENGTH_CH2 = 1.0; // Opacity of top layer
 static const float GB_FIRST_LAYER_PRIORITY = 0.4; // Priority for first/second layer when both are active at the same pixel
 static const float BORDER_MAP_TILE = 18000.0f;
 
@@ -234,9 +234,9 @@ static const float PARTICLE_FADE_STOP_DISTANCE = 350;
 // --------------------------------------------------------------
 // -------------    RIM LIGHT (PDXMESH)   -----------------------
 // --------------------------------------------------------------
-static const float 	RIM_START 		= 0.25f;
+static const float 	RIM_START 		= 0.55f;
 static const float 	RIM_END 		= 0.6f;
-static const float4 RIM_COLOR 		= float4( 0.1f, 0.1f, 0.1f, 0.0f );
+static const float4 RIM_COLOR 		= float4( 0.3f, 0.3f, 0.3f, 0.0f );
 
 
 // --------------------------------------------------------------
