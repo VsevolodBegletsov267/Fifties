@@ -1,0 +1,18 @@
+characters = {
+
+	KAZ_petr_kornilov = {
+		name = KAZ_petr_kornilov
+		portraits = {
+			army = {
+				large = GFX_portrait_KAZ_petr_kornilov
+			}
+		}
+		field_marshal  = {
+			skill = 9
+			attack_skill = 6
+			defense_skill = 7
+			planning_skill = 10
+			logistics_skill = 10
+		}
+	}
+}

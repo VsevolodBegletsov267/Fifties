@@ -14,9 +14,13 @@
  
  socialist_monarchism_subtype: "Социалистический монархизм"
  
+ socialist_pan-europeanism_subtype: "Социалистическая Панъевропеизм"
+ 
  ###УМЕРЕННЫЙ СОЦИАЛИЗМ
  moderate_socialism: "Умеренный социализм"
  moderate_socialism_noun: "Умеренный социализм"
+ 
+ hawkish_socialism_subtype: "Ястребиный социализм"
  
  ###СОЦИАЛ-ДЕМОКРАТИЯ
  social-democracy: "Социал-демократия"
@@ -49,6 +53,8 @@
  
  progressive_constitutional_monarchy_subtype: "Конституционная Монархия"
  
+ christian_constitutional_monarchy_subtype: "Конституционная Монархия"
+ 
  ###ДЕСПОТИЗМ
  despotism: "Деспотизм"
  despotism_noun: "Центризм"
@@ -66,11 +72,17 @@
 
  populist_conservatism_subtype: "Популисткий консерватизм"
  
+ populist_agrarianism_subtype: "Популистский аграризм"
+ 
  ###ЛИБЕРАЛИЗМ
  liberalism: "Либерализм"
  liberalism_noun: "Либерализм"
  
  authoritarian_liberalism_subtype: "Авторитарный либерализм"
+ 
+ aristocratic_liberalism_subtype: "Аристократический либерализм"
+ 
+ kahanism_subtype: "Каханизм"
  
  ###ЛИБЕРТАРИАНСТВО
  libertarianism: "Либертарианство"
@@ -87,6 +99,8 @@
  ###АНАРХИЗМ
  anarchism: "Анархизм"
  anarchism_noun: "Анархизм"
+ 
+ christian_anarchism_subtype: "Христианский анархизм"
  
  social-democracy_desc: "Демократический режим"
  

@@ -17,7 +17,7 @@
  
  ### GER
  
- GER_yalmar_shakht: "Ялмар Шахт"
+ GER_horace_greeley: "Хорас Грили"
  GER_heinrich_bruning: "Генрих Брюнинг"
  GER_hans_globke: "Ганс Глобке"
  GER_eugen_gerstenmaier: "Ойген Герстенмайер"
@@ -26,6 +26,7 @@
  GER_franz_von_papen: "Франц Фон Папен"
  GER_hasso_von_manteuffel: "Хассо Фон Мантойфель"
  GER_julius_leber: "Юлиус Лебер"
+ GER_joseph_goebbels: "Йозеф Геббельс"
  
  ### LIE
  
@@ -70,6 +71,8 @@
  SOV_andrey_sakharov: "Андрей Сахаров"
  SOV_dobroslav: "Доброслав"
  SOV_dobroslav_desc: "Самый добрый и величественный древний рус во всей нынешней руси."
+ SOV_tatyana_i: "Татьяна I"
+ SOV_felix_yusupov: "Феликс Юсупов"
  
  ### BLR
  
@@ -141,3 +144,7 @@
  ### IDE
  
  IDE_alexander_kazembek: "Александр Казембек"
+ 
+ ### KAZ
+ 
+ KAZ_petr_kornilov: "Пётр Корнилов"

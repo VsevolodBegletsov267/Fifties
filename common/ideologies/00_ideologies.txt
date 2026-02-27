@@ -11,6 +11,7 @@ ideologies = {
 			national_socialist_zionism_subtype = { }
 			socialist_monarchism_subtype = { }
 			esperanto_globalism_subtype = { }
+			socialist_pan-europeanism_subtype = { }
 			
 		}
 
@@ -61,6 +62,7 @@ ideologies = {
 			
 			moderate_socialism_subtype = { }
 			marxism_subtype = { }
+			hawkish_socialism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -167,6 +169,7 @@ ideologies = {
 
 			anarchism_subtype = { }
 			anarcho-monarchism_subtype = { }
+			christian_anarchism_subtype = { }
 
 		}
 
@@ -266,6 +269,8 @@ ideologies = {
 
 			liberalism_subtype = { }
 			authoritarian_liberalism_subtype = { }
+			aristocratic_liberalism_subtype = { }
+			kahanism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -319,6 +324,7 @@ ideologies = {
 			christian_centrism_subtype = { }
 			absolute_centrism_subtype = { }
 			teodemocracy_subtype = { }
+			populist_agrarianism_subtype = { }
 			
 		}
 
@@ -421,6 +427,7 @@ ideologies = {
 			papacy_subtype = { }
 			constitutional_monarchy_subtype = { }
 			progressive_constitutional_monarchy_subtype = { }
+			christian_constitutional_monarchy_subtype = { }
 			
 		}
 

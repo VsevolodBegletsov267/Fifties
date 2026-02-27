@@ -43,13 +43,13 @@ spriteTypes = {
 	### GER
 	
 	spriteType = {
-		name = "GFX_portrait_GER_yalmar_shakht_small"
-		texturefile = "gfx/leaders/GER/GER_yalmar_shakht_minister.png"
+		name = "GFX_portrait_GER_horace_greeley_small"
+		texturefile = "gfx/leaders/GER/GER_horace_greeley_minister.png"
 	}
 	
 	spriteType = {
-		name = "GFX_portrait_GER_yalmar_shakht_big"
-		texturefile = "gfx/leaders/GER/GER_yalmar_shakht_president.png"
+		name = "GFX_portrait_GER_horace_greeley_big"
+		texturefile = "gfx/leaders/GER/GER_horace_greeley_president.png"
 	}
 	
 	spriteType = {
@@ -90,6 +90,11 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_GER_julius_leber_big"
 		texturefile = "gfx/leaders/GER/GER_julius_leber.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_GER_joseph_goebbels"
+		texturefile = "gfx/leaders/GER/GER_joseph_goebbels.png"
 	}
 
 	### POR
@@ -250,6 +255,16 @@ spriteTypes = {
 		texturefile = "gfx/leaders/SOV/SOV_dobroslav.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_SOV_tatyana_i"
+		texturefile = "gfx/leaders/SOV/SOV_tatyana_i.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_SOV_felix_yusupov"
+		texturefile = "gfx/leaders/SOV/SOV_felix_yusupov.png"
+	}
+	
 	###BLR
 	
 	spriteType = {
@@ -400,6 +415,13 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_IDE_alexander_kazembek_big"
 		texturefile = "gfx/leaders/IDE/IDE_alexander_kazembek_big.png"
+	}
+	
+	### KAZ
+	
+	spriteType = {
+		name = "GFX_portrait_KAZ_petr_kornilov"
+		texturefile = "gfx/leaders/KAZ/KAZ_petr_kornilov.png"
 	}
 
 }

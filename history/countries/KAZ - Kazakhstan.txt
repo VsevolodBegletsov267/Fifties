@@ -1,4 +1,8 @@
-capital = 1020
+﻿capital = 586 #Almaty
+
+oob = "KAZ_1936"
+
+set_research_slots = 3
 
 # Starting tech
 set_technology = {
@@ -7,22 +11,16 @@ set_technology = {
 	tech_recon = 1
 	tech_support = 1		
 	tech_engineers = 1
+	tech_military_police = 1
 	tech_mountaineers = 1
-	tech_trucks = 1
 	motorised_infantry = 1
+	paratroopers = 1
 	gw_artillery = 1
-	interwar_antiair = 1
-
-	naval_bomber1 = 1
-	mobile_warfare = 1
-	trade_interdiction = 1
-	formation_flying = 1
-	fuel_silos = 1
-	synth_oil_experiments = 1
-	oil_processing = 1
-	fuel_refining = 1
-	
 }
+
+set_grand_doctrine = mass_assault
+set_grand_doctrine = new_fleet_in_being
+
 if = {
 	limit = {
 		NOT = { has_dlc = "By Blood Alone" }
@@ -31,12 +29,10 @@ if = {
 		early_fighter = 1
 		fighter1 = 1
 		early_bomber = 1
-		tactical_bomber1 = 1
 		strategic_bomber1 = 1
-		CAS1 = 1
+		naval_bomber1 = 1
 	}
 }
-
 if = {
 	limit = {
 		NOT = {
@@ -46,8 +42,6 @@ if = {
 	set_technology = {
 		gwtank = 1
 		basic_light_tank = 1
-		improved_light_tank = 1
-		basic_heavy_tank = 1
 	}
 }
 if = {
@@ -59,8 +53,6 @@ if = {
 	set_technology = {
 		gwtank_chassis = 1
 		basic_light_tank_chassis = 1
-		improved_light_tank_chassis = 1
-		basic_heavy_tank_chassis = 1
 	}
 }
 if = {
@@ -68,6 +60,13 @@ if = {
 		not = { has_dlc = "Man the Guns" }
 	}
 	set_technology = {
+		early_submarine = 1
+		basic_submarine = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_battlecruiser = 1
 		transport = 1
 	}
 }
@@ -76,13 +75,16 @@ if = {
 		has_dlc = "Man the Guns"
 	}
 	set_technology = {
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		early_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
 		mtg_transport = 1
+		basic_battery = 1
+		basic_torpedo = 1
 	}
 }
-
-set_research_slots = 3
-set_convoys = 50
-set_stability = 0.75
 
 set_politics = {
 	ruling_party = centrism
@@ -105,6 +107,7 @@ set_popularities = {
 	anarchism = 1
 }
 
-add_ideas = {
-}
+recruit_character = KAZ_petr_kornilov
+
+
 

@@ -36,6 +36,8 @@ recruit_character = SOV_alexander_kerensky
 recruit_character = SOV_andrey_sakharov
 recruit_character = SOV_dobroslav
 recruit_character = SOV_nikita_i
+recruit_character = SOV_tatyana_i
+recruit_character = SOV_felix_yusupov
 
 set_politics = {
 	ruling_party = liberalism

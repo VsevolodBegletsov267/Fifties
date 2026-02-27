@@ -1,11 +1,11 @@
 characters = {
 
-	GER_yalmar_shakht = {
-		name = GER_yalmar_shakht
+	GER_horace_greeley = {
+		name = GER_horace_greeley
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GER_yalmar_shakht_big
-				small = GFX_portrait_GER_yalmar_shakht_small
+				large = GFX_portrait_GER_horace_greeley_big
+				small = GFX_portrait_GER_horace_greeley_small
 			}
 		}
 		advisor = {
@@ -14,8 +14,8 @@ characters = {
 			traits = {}
         }
 		country_leader = {
-            ideology = liberalism_subtype
-            desc = GER_yalmar_shakht
+            ideology = socialist_pan-europeanism_subtype
+            desc = GER_horace_greeley
 			expire="1965.1.1.1"
         }
 	}
@@ -118,6 +118,20 @@ characters = {
 		country_leader = {
             ideology = social-democracy_subtype
             desc = GER_julius_leber
+			expire="1965.1.1.1"
+        }
+	}
+	
+	GER_joseph_goebbels = {
+		name = GER_joseph_goebbels
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_joseph_goebbels
+			}
+		}
+		country_leader = {
+            ideology = hawkish_socialism_subtype
+            desc = GER_joseph_goebbels
 			expire="1965.1.1.1"
         }
 	}

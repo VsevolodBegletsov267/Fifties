@@ -111,5 +111,33 @@ characters = {
 			expire="1965.1.1.1"
         }
 	}
+	
+	SOV_tatyana_i = {
+		name = SOV_tatyana_i
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_tatyana_i
+			}
+		}
+		country_leader = {
+            ideology = christian_constitutional_monarchy_subtype
+            desc = SOV_tatyana_i
+			expire="1965.1.1.1"
+        }
+	}
+	
+	SOV_felix_yusupov = {
+		name = SOV_felix_yusupov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_felix_yusupov
+			}
+		}
+		country_leader = {
+            ideology = aristocratic_liberalism_subtype
+            desc = SOV_felix_yusupov
+			expire="1965.1.1.1"
+        }
+	}
 
 }
