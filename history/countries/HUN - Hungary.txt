@@ -100,6 +100,7 @@ if = {
 
 recruit_character = HUN_ferenc_nagy
 recruit_character = HUN_George_Soros
+recruit_character = HUN_anton_lavey
 
 set_research_slots = 3
 set_convoys = 50

@@ -73,6 +73,7 @@
  SOV_dobroslav_desc: "Самый добрый и величественный древний рус во всей нынешней руси."
  SOV_tatyana_i: "Татьяна I"
  SOV_felix_yusupov: "Феликс Юсупов"
+ SOV_ivan_solonevich: "Иван Солоневич"
  
  ### BLR
  
@@ -91,6 +92,7 @@
  
  HUN_ferenc_nagy: "Ференц Надь"
  HUN_George_Soros: "Дьёрдь Шварц"
+ HUN_anton_lavey: "Антон Леви"
  
  ### JAP
 
@@ -148,3 +150,11 @@
  ### KAZ
  
  KAZ_petr_kornilov: "Пётр Корнилов"
+ 
+ ### UKR
+ 
+ UKR_mikhas_friedman: "Михась Фридман"
+ 
+ ### NIS
+ 
+ NIS_meir_kahane: "Меир Кахане"

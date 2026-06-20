@@ -27,4 +27,18 @@ characters = {
 			expire="1970.1.1.1"
         }
 	}
+	
+	HUN_anton_lavey = {
+		name = HUN_anton_lavey
+		portraits = {
+			civilian = {
+				large = GFX_portrait_HUN_anton_lavey
+			}
+		}
+		country_leader = {
+            ideology = chirstian_anarchism_subtype
+            desc = HUN_anton_lavey
+			expire="1970.1.1.1"
+        }
+	}
 }

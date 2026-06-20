@@ -38,6 +38,7 @@ recruit_character = SOV_dobroslav
 recruit_character = SOV_nikita_i
 recruit_character = SOV_tatyana_i
 recruit_character = SOV_felix_yusupov
+recruit_character = SOV_ivan_solonevich
 
 set_politics = {
 	ruling_party = liberalism

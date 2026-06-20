@@ -47,6 +47,21 @@ defined_text = {
 		localization_key = kahanism_subtype
 	}
 	
+	text = {
+		trigger = {
+			has_country_leader_ideology = islamic_modernism_subtype
+		}
+		localization_key = islamic_modernism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = monarchisn_subtype
+		}
+		localization_key = monarchisn_subtype
+	}
+	
+	
 	#radical_socialism
 	
 	text = {
@@ -154,6 +169,13 @@ defined_text = {
 			has_country_leader_ideology = christian_centrism_subtype
 		}
 		localization_key = christian_centrism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = healthy_conservatism_subtype
+		}
+		localization_key = healthy_conservatism_subtype
 	}
 	
 	#conservatism

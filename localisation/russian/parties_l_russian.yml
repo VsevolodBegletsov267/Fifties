@@ -22,6 +22,8 @@
  
  hawkish_socialism_subtype: "Ястребиный социализм"
  
+ islamic_socialism_subtype: "Исламский социализм"
+ 
  ###СОЦИАЛ-ДЕМОКРАТИЯ
  social-democracy: "Социал-демократия"
  social-democracy_noun: "Социал-демократия"
@@ -40,6 +42,8 @@
  christian_centrism_subtype: "Христианский центризм"
  
  teodemocracy_subtype: "Теодемократия"
+ 
+ healthy_conservatism_subtype: "Здоровый консерватизм"
  
  ###ПАТЕРНАЛИЗМ
  paternalism: "Патернализм"
@@ -83,6 +87,10 @@
  aristocratic_liberalism_subtype: "Аристократический либерализм"
  
  kahanism_subtype: "Каханизм"
+ 
+ islamic_modernism_subtype: "Исламский модернизм"
+ 
+ social-monarchisn_subtype: "Социал-монархизм"
  
  ###ЛИБЕРТАРИАНСТВО
  libertarianism: "Либертарианство"

@@ -63,6 +63,7 @@ ideologies = {
 			moderate_socialism_subtype = { }
 			marxism_subtype = { }
 			hawkish_socialism_subtype = { }
+			islamic_socialism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -271,6 +272,8 @@ ideologies = {
 			authoritarian_liberalism_subtype = { }
 			aristocratic_liberalism_subtype = { }
 			kahanism_subtype = { }
+			islamic_modernism_subtype = { }
+			social-monarchism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -325,6 +328,7 @@ ideologies = {
 			absolute_centrism_subtype = { }
 			teodemocracy_subtype = { }
 			populist_agrarianism_subtype = { }
+			healthy_conservatism_subtype = { }
 			
 		}
 

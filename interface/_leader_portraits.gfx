@@ -265,6 +265,11 @@ spriteTypes = {
 		texturefile = "gfx/leaders/SOV/SOV_felix_yusupov.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_SOV_ivan_solonevich"
+		texturefile = "gfx/leaders/SOV/SOV_ivan_solonevich.png"
+	}
+	
 	###BLR
 	
 	spriteType = {
@@ -299,6 +304,11 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_HUN_George_Soros_eurasia"
 		texturefile = "gfx/leaders/HUN/HUN_George_Soros_eurasia.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_HUN_anton_lavey"
+		texturefile = "gfx/leaders/HUN/HUN_anton_lavey.png"
 	}
 	
 	### SWI
@@ -422,6 +432,13 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_KAZ_petr_kornilov"
 		texturefile = "gfx/leaders/KAZ/KAZ_petr_kornilov.png"
+	}
+	
+	###NIS
+	
+	spriteType = {
+		name = "GFX_portrait_NIS_meir_kahane"
+		texturefile = "gfx/leaders/NIS/NIS_meir_kahane.png"
 	}
 
 }

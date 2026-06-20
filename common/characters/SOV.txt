@@ -139,5 +139,19 @@ characters = {
 			expire="1965.1.1.1"
         }
 	}
+	
+	SOV_ivan_solonevich = {
+		name = SOV_ivan_solonevich
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_ivan_solonevich
+			}
+		}
+		country_leader = {
+            ideology = healthy_conservatism_subtype
+            desc = SOV_ivan_solonevich
+			expire="1965.1.1.1"
+        }
+	}
 
 }
