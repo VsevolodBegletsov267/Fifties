@@ -19,54 +19,27 @@ set_convoys = 20
 recruit_character = LBA_hussein_maziq
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
+
 }
 set_popularities = {
-	democratic = 25
-	fascism = 20
-	communism = 5
-	neutrality = 50
+	paternalism = 5
+	radical_socialism = 4
+	moderate_socialism = 2
+	social-democracy = 5
+	reactionism = 13
+	centrism = 14
+	despotism = 12
+	conservatism = 7
+	liberalism = 3
+	libertarianism = 34
+	anarchism = 1
 }
 
-create_country_leader = {
-	name = "Bashir es Sadawi"
-	desc = ""
-	picture = GFX_portrait_Bashir_es_Sadawi
-	ideology = liberalism
-	traits = {
-		#
-	}
+add_ideas = {
 }
 
-create_country_leader = {
-	name = "Ettore Bastico"
-	desc = ""
-	picture = GFX_portrait_Ettore_Bastico
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
 
-create_country_leader = {
-	name = "Idris Senussi"
-	desc = ""
-	picture = GFX_portrait_Idris_Senussi
-	ideology = despotism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Hassan as-Senussi"
-	desc = ""
-	picture = GFX_portrait_Hassan_as_Senussi
-	ideology = leninism
-	traits = {
-		#
-	}
-}

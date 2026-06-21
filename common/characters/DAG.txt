@@ -1,0 +1,17 @@
+characters = {
+
+	DAG_haydar_bammat = {
+		name = DAG_haydar_bammat
+		portraits = {
+			civilian = {
+				large = GFX_portrait_DAG_haydar_bammat
+			}
+		}
+		country_leader = {
+            ideology = anocracy_subtype
+            desc = DAG_haydar_bammat
+			expire="1965.1.1.1"
+        }
+	}
+	
+}

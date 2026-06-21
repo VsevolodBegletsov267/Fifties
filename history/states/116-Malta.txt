@@ -6,7 +6,7 @@ state = {
 	state_category = small_island 
 	local_supplies = 0 
 	history = { 
-		owner = ENG 
+		owner = MLT 
 		
 		victory_points = { 12003 5 }
 		

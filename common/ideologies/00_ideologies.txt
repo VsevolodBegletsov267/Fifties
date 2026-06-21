@@ -6,8 +6,10 @@ ideologies = {
 
 			radical_socialism_subtype = { }
 			ultra-christian_syndicalism_subtype = { }
+			neosocialism_subtype = { }
 			national_socialism_subtype = { }
 			french_national_socialism_subtype = { }
+			national_syndicalism_subtype = { }
 			national_socialist_zionism_subtype = { }
 			socialist_monarchism_subtype = { }
 			esperanto_globalism_subtype = { }
@@ -64,6 +66,8 @@ ideologies = {
 			marxism_subtype = { }
 			hawkish_socialism_subtype = { }
 			islamic_socialism_subtype = { }
+			popular_imperialism_subtype = { }
+			democratic_socialism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -117,6 +121,7 @@ ideologies = {
 			
 			social-democracy_subtype = { }
 			socialist_agrarianism_subtype = { }
+			progressive_socialism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -270,10 +275,9 @@ ideologies = {
 
 			liberalism_subtype = { }
 			authoritarian_liberalism_subtype = { }
-			aristocratic_liberalism_subtype = { }
 			kahanism_subtype = { }
 			islamic_modernism_subtype = { }
-			social-monarchism_subtype = { }
+			classical_liberalism_subtype = { }
 		}
 		
 		dynamic_faction_names = {
@@ -326,6 +330,7 @@ ideologies = {
 			liberal_conservatism_subtype = { }
 			christian_centrism_subtype = { }
 			absolute_centrism_subtype = { }
+			pragmatic_centrism_subtype = { }
 			teodemocracy_subtype = { }
 			populist_agrarianism_subtype = { }
 			healthy_conservatism_subtype = { }
@@ -377,6 +382,9 @@ ideologies = {
 			populist_conservatism_subtype = { }
 			conservatism_subtype = { }
 			paternalistic_conservatism_subtype = { }
+			aristocratic_liberalism_subtype = { }
+			agrarian_populism_subtype = { }
+			social-monarchism_subtype = { }
 			
 		}
 
@@ -432,7 +440,8 @@ ideologies = {
 			constitutional_monarchy_subtype = { }
 			progressive_constitutional_monarchy_subtype = { }
 			christian_constitutional_monarchy_subtype = { }
-			
+			mandated_territory_subtype = { }
+			anocracy_subtype = { }
 		}
 
 		dynamic_faction_names = {
@@ -479,6 +488,7 @@ ideologies = {
 			despotism_subtype = { }
 			estado_novo_subtype = { }
 			development_dictatorship_subtype = { }
+			monarchism_subtype = {}
 		}
 		
 		dynamic_faction_names = {
@@ -531,6 +541,7 @@ ideologies = {
 		types = {
 
 			reactionism_subtype = { }
+			clerical_solidarism_subtype = { }
 		}
 
 		dynamic_faction_names = {

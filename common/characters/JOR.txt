@@ -8,7 +8,7 @@ characters = {
 			}
 		}
 		country_leader = {
-            ideology = liberalism_subtype
+            ideology = mandated_territory_subtype
             desc = JOR_o_connor
 			expire="1965.1.1.1"
         }

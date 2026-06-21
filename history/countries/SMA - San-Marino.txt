@@ -80,12 +80,14 @@ if = {
 	}
 }
 
+recruit_character = SMA_alvaro_casali
+
 set_research_slots = 3
 set_convoys = 50
 set_stability = 0.75
 
 set_politics = {
-	ruling_party = centrism
+	ruling_party = social-democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -95,9 +97,9 @@ set_popularities = {
 	paternalism = 1
 	radical_socialism = 3
 	moderate_socialism = 20
-	social-democracy = 3
+	social-democracy = 38
 	reactionism = 8
-	centrism = 38
+	centrism = 3
 	despotism = 13
 	conservatism = 6
 	liberalism = 5

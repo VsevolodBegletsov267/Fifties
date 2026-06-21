@@ -29,7 +29,7 @@ characters = {
 			}
 		}
 		country_leader = {
-            ideology = liberal_conservatism_subtype
+            ideology = pragmatic_centrism_subtype
             desc = GER_heinrich_bruning
 			expire="1965.1.1.1"
         }

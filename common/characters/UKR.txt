@@ -1,0 +1,16 @@
+characters = {
+
+	UKR_panas_fedenko = {
+		name = UKR_panas_fedenko
+		portraits = {
+			civilian = {
+				large = GFX_portrait_UKR_panas_fedenko
+			}
+		}
+		country_leader = {
+            ideology = socialist_agrarianism_subtype
+            desc = UKR_panas_fedenko
+			expire="1965.1.1.1"
+        }
+	}
+}

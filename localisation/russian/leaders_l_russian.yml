@@ -35,10 +35,13 @@
  ### ITA
  
  ITA_amadeo_bordiga: "Амадео Бордига"
+ ITA_carlo_rosselli: "Карло Росселли"
+ ITA_umberto_ii: "Умберто II"
  
  ### FRA
  
  FRA_pierre_clementi: "Пьер Клементи"
+ FRA_paul_marion: "Поль Марион"
  
  ### TRA
  
@@ -83,6 +86,7 @@
  ### FIN
  
  FIN_theodore_i: "Теодор I"
+ FIN_veikko_vennamo: "Вейко Веннамо"
  
  ### SWI
  
@@ -113,7 +117,7 @@
  
  ### JOR
 
- JOR_o_connor: "О Коннор"
+ JOR_o_connor: "Ричард О'коннор "
  
  ### NMB
 
@@ -154,7 +158,32 @@
  ### UKR
  
  UKR_mikhas_friedman: "Михась Фридман"
+ UKR_panas_fedenko: "Панас Феденко"
  
  ### NIS
  
  NIS_meir_kahane: "Меир Кахане"
+ 
+ ### FLA
+ 
+ FLA_reimond_tollenaere: "Раймонд Толленарэ"
+ 
+ ### BRR
+ 
+ BRR_robert_boothby: "Роберт Бутби"
+ 
+ ### IRE
+ 
+ IRE_william_mcgrath: "Уильям МакГрат"
+ 
+ ### GEO
+ 
+ GEO_georges_matchabelli: "Георгий Мачабели"
+ 
+ ### DAG
+ 
+ DAG_haydar_bammat: "Гайдар Баммат"
+ 
+ ### SMA
+ 
+ SMA_alvaro_casali: "Альваро Касали"

@@ -1,0 +1,16 @@
+characters = {
+
+	FLA_reimond_tollenaere = {
+		name = FLA_reimond_tollenaere
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FLA_reimond_tollenaere
+			}
+		}
+		country_leader = {
+            ideology = national_socialism_subtype
+            desc = FLA_reimond_tollenaere
+			expire="1965.1.1.1"
+        }
+	}
+}

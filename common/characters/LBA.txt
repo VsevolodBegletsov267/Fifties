@@ -4,7 +4,7 @@ characters = {
 		name = LBA_hussein_maziq
 		portraits = {
 			civilian = {
-				large = GFX_portrait_LBA_hussein_maziq_big
+				large = GFX_portrait_LBA_hussein_maziq
 			}
 		}
 		country_leader = {

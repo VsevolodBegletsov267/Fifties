@@ -56,13 +56,19 @@ defined_text = {
 	
 	text = {
 		trigger = {
-			has_country_leader_ideology = monarchisn_subtype
+			has_country_leader_ideology = classical_liberalism_subtype
 		}
-		localization_key = monarchisn_subtype
+		localization_key = classical_liberalism_subtype
 	}
 	
-	
 	#radical_socialism
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = national_socialism_subtype
+		}
+		localization_key = national_socialism_subtype
+	}
 	
 	text = {
 		trigger = {
@@ -84,11 +90,33 @@ defined_text = {
 		}
 		localization_key = socialist_monarchism_subtype
 	}
+	
 	text = {
 		trigger = {
 			has_country_leader_ideology = socialist_pan-europeanism_subtype
 		}
 		localization_key = socialist_pan-europeanism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = national_syndicalism_subtype
+		}
+		localization_key = national_syndicalism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = neosocialism_subtype
+		}
+		localization_key = neosocialism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = ultra-christian_syndicalism_subtype
+		}
+		localization_key = ultra-christian_syndicalism_subtype
 	}
 	
 	#moderate_socialism
@@ -100,6 +128,20 @@ defined_text = {
 		localization_key = hawkish_socialism_subtype
 	}
 	
+	text = {
+		trigger = {
+			has_country_leader_ideology = popular_imperialism_subtype
+		}
+		localization_key = popular_imperialism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = democratic_socialism_subtype
+		}
+		localization_key = democratic_socialism_subtype
+	}
+	
 	#social-democracy
 	
 	text = {
@@ -107,6 +149,13 @@ defined_text = {
 			has_country_leader_ideology = socialist_agrarianism_subtype
 		}
 		localization_key = socialist_agrarianism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = progressive_socialism_subtype
+		}
+		localization_key = progressive_socialism_subtype
 	}
 	
 	#paternalism 
@@ -146,6 +195,20 @@ defined_text = {
 		localization_key = christian_constitutional_monarchy_subtype
 	}
 	
+	text = {
+		trigger = {
+			has_country_leader_ideology = mandated_territory_subtype
+		}
+		localization_key = mandated_territory_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = anocracy_subtype
+		}
+		localization_key = anocracy_subtype
+	}
+	
 	#despotism
 	
 	text = {
@@ -153,6 +216,13 @@ defined_text = {
 			has_country_leader_ideology = development_dictatorship_subtype
 		}
 		localization_key = development_dictatorship_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = monarchism_subtype
+		}
+		localization_key = monarchism_subtype
 	}
 	
 	#centrism
@@ -178,6 +248,20 @@ defined_text = {
 		localization_key = healthy_conservatism_subtype
 	}
 	
+	text = {
+		trigger = {
+			has_country_leader_ideology = populist_agrarianism_subtype
+		}
+		localization_key = populist_agrarianism_subtype
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = pragmatic_centrism_subtype
+		}
+		localization_key = pragmatic_centrism_subtype
+	}
+	
 	#conservatism
 	
 	text = {
@@ -189,9 +273,9 @@ defined_text = {
 	
 	text = {
 		trigger = {
-			has_country_leader_ideology = populist_agrarianism_subtype
+			has_country_leader_ideology = agrarian_populism_subtype
 		}
-		localization_key = populist_agrarianism_subtype
+		localization_key = agrarian_populism_subtype
 	}
 	
 	#anarchism
@@ -201,5 +285,14 @@ defined_text = {
 			has_country_leader_ideology = christian_anarchism_subtype
 		}
 		localization_key = christian_anarchism_subtype
+	}
+	
+	#reactionism 
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = clerical_solidarism_subtype
+		}
+		localization_key = clerical_solidarism_subtype
 	}
 }

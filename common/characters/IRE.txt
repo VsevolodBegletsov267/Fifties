@@ -1,0 +1,17 @@
+characters = {
+
+	IRE_william_mcgrath = {
+		name = IRE_william_mcgrath
+		portraits = {
+			civilian = {
+				large = GFX_portrait_IRE_william_mcgrath
+			}
+		}
+		country_leader = {
+            ideology = clerical_solidarism_subtype
+            desc = IRE_william_mcgrath
+			expire="1965.1.1.1"
+        }
+	}
+
+}

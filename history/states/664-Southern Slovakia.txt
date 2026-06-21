@@ -11,7 +11,7 @@ state = {
 		chromium = 3 
 	} 
 	history = { 
-		owner = SLO 
+		owner = HUN 
 		
 		victory_points = { 6573 1 }
 		

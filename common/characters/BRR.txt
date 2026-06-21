@@ -1,0 +1,16 @@
+characters = {
+
+	BRR_robert_boothby = {
+		name = BRR_robert_boothby
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BRR_robert_boothby
+			}
+		}
+		country_leader = {
+            ideology = popular_imperialism_subtype
+            desc = BRR_robert_boothby
+			expire="1965.1.1.1"
+        }
+	}
+}

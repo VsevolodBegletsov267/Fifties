@@ -14,6 +14,34 @@ characters = {
         }
 	}
 	
+	ITA_carlo_rosselli = {
+		name = ITA_carlo_rosselli
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ITA_carlo_rosselli
+			}
+		}
+		country_leader = {
+            ideology = progressive_socialism_subtype
+            desc = ITA_carlo_rosselli
+			expire="1965.1.1.1"
+        }
+	}
+	
+	ITA_umberto_ii = {
+		name = ITA_umberto_ii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ITA_umberto_ii
+			}
+		}
+		country_leader = {
+            ideology = social-monarchism_subtype
+            desc = ITA_umberto_ii
+			expire="1965.1.1.1"
+        }
+	}
+	
 	ITA_giacomo_matteotti = {
 		name = ITA_giacomo_matteotti
 		portraits = {

@@ -6,7 +6,7 @@ state = {
 	state_category = rural 
 	local_supplies = 4 
 	history = { 
-		owner = SYR 
+		owner = FRT 
 		
 		victory_points = { 3942 1 }
 		

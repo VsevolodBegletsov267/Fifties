@@ -125,7 +125,22 @@ spriteTypes = {
 		texturefile = "gfx/leaders/ITA/ITA_amadeo_bordiga.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_ITA_carlo_rosselli"
+		texturefile = "gfx/leaders/ITA/ITA_carlo_rosselli.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_ITA_umberto_ii"
+		texturefile = "gfx/leaders/ITA/ITA_umberto_ii.png"
+	}
+	
 	### FRA
+	
+	spriteType = {
+		name = "GFX_portrait_FRA_paul_marion"
+		texturefile = "gfx/leaders/FRA/FRA_paul_marion.png"
+	}
 	
 	spriteType = {
 		name = "GFX_portrait_FRA_pierre_clementi"
@@ -289,6 +304,11 @@ spriteTypes = {
 		texturefile = "gfx/leaders/FIN/FIN_theodore_i.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_FIN_veikko_vennamo"
+		texturefile = "gfx/leaders/FIN/FIN_veikko_vennamo.png"
+	}
+	
 	### HUN
 	
 	spriteType = {
@@ -439,6 +459,62 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_NIS_meir_kahane"
 		texturefile = "gfx/leaders/NIS/NIS_meir_kahane.png"
+	}
+	
+	###FLA
+	
+	spriteType = {
+		name = "GFX_portrait_FLA_reimond_tollenaere"
+		texturefile = "gfx/leaders/FLA/FLA_reimond_tollenaere.png"
+	}
+	
+	###BRR
+	
+	spriteType = {
+		name = "GFX_portrait_BRR_robert_boothby"
+		texturefile = "gfx/leaders/BRR/BRR_robert_boothby.png"
+	}
+	
+	###IRE
+	
+	spriteType = {
+		name = "GFX_portrait_IRE_william_mcgrath"
+		texturefile = "gfx/leaders/IRE/IRE_william_mcgrath.png"
+	}
+	
+	###LBA
+	
+	spriteType = {
+		name = "GFX_portrait_LBA_hussein_maziq"
+		texturefile = "gfx/leaders/LBA/LBA_hussein_maziq.png"
+	}
+	
+	###UKR
+	
+	spriteType = {
+		name = "GFX_portrait_UKR_panas_fedenko"
+		texturefile = "gfx/leaders/UKR/UKR_panas_fedenko.png"
+	}
+	
+	###SMA
+	
+	spriteType = {
+		name = "GFX_portrait_SMA_alvaro_casali"
+		texturefile = "gfx/leaders/SMA/SMA_alvaro_casali.png"
+	}
+	
+	###GEO
+	
+	spriteType = {
+		name = "GFX_portrait_GEO_georges_matchabelli"
+		texturefile = "gfx/leaders/GEO/GEO_georges_matchabelli.png"
+	}
+	
+	###DAG
+	
+	spriteType = {
+		name = "GFX_portrait_DAG_haydar_bammat"
+		texturefile = "gfx/leaders/DAG/DAG_haydar_bammat.png"
 	}
 
 }

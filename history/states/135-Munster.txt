@@ -8,7 +8,7 @@ state = {
 	
 	resources = { coal = 1 } 
 	history = { 
-		owner = BRR 
+		owner = IRE 
 		
 		victory_points = { 6313 1 }
 		victory_points = { 7394 5 }

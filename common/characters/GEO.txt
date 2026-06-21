@@ -1,0 +1,17 @@
+characters = {
+
+	GEO_georges_matchabelli = {
+		name = GEO_georges_matchabelli
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GEO_georges_matchabelli
+			}
+		}
+		country_leader = {
+            ideology = classical_liberalism_subtype
+            desc = GEO_georges_matchabelli
+			expire="1965.1.1.1"
+        }
+	}
+	
+}

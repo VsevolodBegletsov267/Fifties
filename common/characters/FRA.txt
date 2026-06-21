@@ -13,4 +13,18 @@ characters = {
 			expire="1965.1.1.1"
         }
 	}
+	
+	FRA_paul_marion = {
+		name = FRA_paul_marion
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRA_paul_marion
+			}
+		}
+		country_leader = {
+            ideology = neosocialism_subtype
+            desc = FRA_paul_marion
+			expire="1965.1.1.1"
+        }
+	}
 }

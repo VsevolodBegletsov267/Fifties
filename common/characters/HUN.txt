@@ -36,7 +36,7 @@ characters = {
 			}
 		}
 		country_leader = {
-            ideology = chirstian_anarchism_subtype
+            ideology = christian_anarchism_subtype
             desc = HUN_anton_lavey
 			expire="1970.1.1.1"
         }

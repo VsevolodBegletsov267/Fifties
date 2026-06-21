@@ -1,0 +1,17 @@
+characters = {
+
+	NIS_meir_kahane = {
+		name = NIS_meir_kahane
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NIS_meir_kahane
+			}
+		}
+		country_leader = {
+            ideology = kahanism_subtype
+            desc = NIS_meir_kahane
+			expire="1965.1.1.1"
+        }
+	}
+
+}

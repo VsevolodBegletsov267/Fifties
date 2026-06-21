@@ -79,6 +79,7 @@ set_popularities = {
 }
 
 recruit_character = FIN_theodore_i
+recruit_character = FIN_veikko_vennamo
 
 
 

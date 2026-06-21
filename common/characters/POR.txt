@@ -8,7 +8,7 @@ characters = {
 			}
 		}
 		country_leader = {
-            ideology = estado_novo_subtype
+            ideology = paternalistic_conservatism_subtype
             desc = POR_antonio_de_salazar
 			expire="1965.1.1.1"
         }
